@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+<h4>Semestr {{ page.semester }}, rok akademicki {{ page.year }}</h4>
+<hr>
+
+<ol>
+{% for lab in site.labs %}
+    {% if lab.course == page.course and lab.type == page.type %}
+     <li><a href="{{ lab.url }}">{{ lab.subject }}</a></li>
+    {% endif %}
+{% endfor %}
+</ol>
+{{ content }}

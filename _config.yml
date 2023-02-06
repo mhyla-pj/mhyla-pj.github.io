@@ -1,8 +1,14 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Hyla Repository
+description: Hyla homepage for all PJATK-related stuff!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+color_scheme: dark
+url: https://mhyla.com
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+collections:
+  labs:
+    output: true
+    permalink: :slug/
