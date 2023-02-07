@@ -3,8 +3,9 @@ layout: default
 ---
 <h1>{{ page.title }}</h1>
 <h4>Semestr {{ page.semester }}, rok akademicki {{ page.year }}</h4>
+{{ content }}
 <hr>
-
+<h2>Skrypty z ćwiczeń</h2>
 <ol>
 {% for lab in site.labs %}
     {% if lab.course == page.course and lab.type contains page.type %}
@@ -12,4 +13,10 @@ layout: default
     {% endif %}
 {% endfor %}
 </ol>
-{{ content }}
+
+<h2>Zadania do laboratoriów</h2>
+{% for exercise in site.exercises %}
+    {% if exercise.course == page.course %}
+        <a href="{{ exercise.url }}" >Lab {{ exercise.lab_nr }}. {{ exercise.topic }}</a>
+    {% endif%}
+{% endfor %}

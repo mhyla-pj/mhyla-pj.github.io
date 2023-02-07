@@ -9,9 +9,16 @@ nav_exclude: true
 <hr>
 <div style="text-align: justify; word-wrap: break-word;" >
     {{ content }}
-
-{% for jajco in site.exercises %}
-chuj
-{% endfor %}
-
 </div>
+<div markdown=1>
+    {% for exercise in site.exercises %}
+    {% if exercise.course == page.course and page.lab_nr == exercise.lab_nr %}
+    <hr>
+    <h2>Zadania do laboratorium</h2>
+        {{ exercise.content | markdownify }}
+    {% endif%}
+    {% endfor %}
+ </div>
+
+
+

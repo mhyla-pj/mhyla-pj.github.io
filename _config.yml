@@ -12,3 +12,9 @@ collections:
   labs:
     output: true
     permalink: :slug/
+  exercises:
+    output: true
+    permalink: :slug/
+
+mermaid: 
+  version: 9.3.0
