@@ -7,7 +7,7 @@ layout: default
 
 <ol>
 {% for lab in site.labs %}
-    {% if lab.course == page.course and lab.type == page.type %}
+    {% if lab.course == page.course and lab.type contains page.type %}
      <li><a href="{{ lab.url }}">{{ lab.subject }}</a></li>
     {% endif %}
 {% endfor %}

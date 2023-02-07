@@ -3,7 +3,15 @@ layout: default
 nav_exclude: true
 ---
 
-<h1>{{ page.course }} Lab {{ page.lab_nr }}</h1>
-<h2>{{ page.subject }}</h2>
+<h6>{{ page.course }} Lab {{ page.lab_nr }}</h6>
+<h1>{{ page.subject }}</h1>
+<h2>{{ page.description }}</h2>
+<hr>
+<div style="text-align: justify; word-wrap: break-word;" >
+    {{ content }}
 
-{{ content }}
+{% for jajco in site.exercises %}
+chuj
+{% endfor %}
+
+</div>
