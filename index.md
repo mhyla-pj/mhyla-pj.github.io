@@ -8,4 +8,7 @@ Witam w świecie Hyli, zapraszam, rozgośćcie się. Na tej stronie znajdują si
 ## Kontakt
 W razie jakichkolwiek pytań, proszę kierować je na maila mhyla@pjwstk.edu.pl. Czasami odpowiadam. Złapać mnie również można, gdy jestem na uczelni - to można sprawdzić na [planie zajęć](planzajec.pjwstk.edu.pl).
 
+## Konsultacje
+Jeśli wystąpi potrzeba konsultacji, proszę o kontakt mailowy, umówimy się na pasujący wszystkim termin. Dopuszczam, a nawet preferuję konsultacje grupowe. Co do zasady, konsultacje odbywać się będą zdalnie w godzinach wieczornych.
+
 ## Aktualności 

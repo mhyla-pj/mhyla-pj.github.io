@@ -16,6 +16,6 @@ Example
 ├── UKOS
 └── WIA
 ```
-1. W katalogu UKOS stwórz plik `notatki.txt` i zapełnij go jakąś treścią
-2. Przenieś nowoutworzony plik do katalogu WIA
-3. W katalogu PRG1 stwórz katalog LAB1 i umieść w nim puste pliki `z1.cpp` `z2.cpp` `z3.cpp`
+2. W katalogu UKOS stwórz plik `notatki.txt` i zapełnij go jakąś treścią
+3. Przenieś nowoutworzony plik do katalogu WIA
+4. W katalogu PRG1 stwórz katalog LAB1 i umieść w nim puste pliki `z1.cpp` `z2.cpp` `z3.cpp`
