@@ -1,6 +1,8 @@
 ---
 title: SOP stacjonarne
 layout: course
+course: SOP
+type: stacjonarne
 parent: Przedmioty
 semester: 4
 year: 2022/2023
