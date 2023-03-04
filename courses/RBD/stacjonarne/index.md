@@ -15,6 +15,7 @@ Przedmiot składa się z 15 laboratoriów. Na ocenę końcową składa się w 50
 
 ## Przydatne linki
 - [Vertabelo](https://vertabelo.com) - Aplikacja pozwalająca na tworzenie diagramów ERD oraz fizycznych baz danych na ich podstawie
+- [Draw.io](https://app.diagrams.net/) - Narzędzie pozwalające na wygodne projektowanie diagramów ERD
 - [Mockaroo](https://mockaroo.com) - Przydatne narzędzie pozwalające na generowanie zestawów danych oraz wypełnionych tabel
 - [DataGrip](https://www.jetbrains.com/datagrip/) - IDE z obsługą wielu dialektów SQL i noSQL.
 
