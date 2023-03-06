@@ -9,7 +9,7 @@ description: Modelowanie bazy danych
 Na poprzednich zajęciach mieliście za zadanie zaprojektować bazę danych, jednak wtedy modelowaliśmy jedynie tabele oraz podstawowe relacje między nimi. Dziś zamodelujemy bazę danych z prawdziwego zdarzenia. 
 
 ## ERD - diagram związków encji
-Z ang. Entity Relationship Diagram. Jest to graficzny sposób reprezentacji związków pomiędzy encjami. Na takim, w pełni poprawnie zbudowanym diagramie powinny znaleźć się  **encje**, ich **atrybuty** oraz **związki** między nimi. 
+Z ang. Entity Relationship Diagram. Jest to graficzny sposób reprezentacji związków pomiędzy encjami. Na takim, w pełni poprawnie zbudowanym diagramie powinny znaleźć się **encje**, ich **atrybuty** oraz **związki** między nimi. 
 
 ### Encja
 Określa różnego rodzaju obiekty lub wydarzenia. Na diagramach reprezentować ją będziemy prostokątem. Z technicznego punktu widzenia opisywać będziemy "magazyny danych", więc nazwę w takim prostokącie umieszczać będziemy u góry, stosując rzeczownik w liczbie mnogiej.
@@ -27,8 +27,8 @@ erDiagram
 
 ## Proces projektowania bazy danych
 Cały proces projektowania bazy składa się z trzech podstawowych faz:
-1. **Analiza wymagań** - proces obejmujący wywiad z udziałowcami, analizę wymagń biznesowych i zadań, jakie projektowana baza ma usprawnić/wprowadzić. Jest to proces niesformalizowany. Istnieją co prawda różne metody prowadzenia analizy, które pozwalają na określenie wymagań, ale nie istnieje jednoznaczna odpowiedź na pytanie "Jak prowadzić analizę wymagań"
-2. **Realizacja koncepcyjnego modelu logicznego bazy danych** - etap, podczas którego na podstawie wcześniejszej analizy realizwany jest logiczny model bazy danych przy użyciu diagramu ERD. Na tym etapie modelowane będą wszystkie encje, atrybuty i związki. 
+1. **Analiza wymagań** - proces obejmujący wywiad z udziałowcami, analizę wymagań biznesowych i zadań, jakie projektowana baza ma usprawnić/wprowadzić. Jest to proces niesformalizowany. Istnieją co prawda różne metody prowadzenia analizy, które pozwalają na określenie wymagań, ale nie istnieje jednoznaczna odpowiedź na pytanie "Jak prowadzić analizę wymagań"
+2. **Realizacja koncepcyjnego modelu logicznego bazy danych** - etap, podczas którego na podstawie wcześniejszej analizy realizowany jest logiczny model bazy danych przy użyciu diagramu ERD. Na tym etapie modelowane będą wszystkie encje, atrybuty i związki. 
 3. **Modelowanie fizycznego modelu i implementacja bazy** - etap, w którym tworzona będzie faktyczna baza danych.
 
 Dziś zajmować się będziemy punktami 1 i 2. 
