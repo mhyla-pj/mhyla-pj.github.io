@@ -22,7 +22,22 @@ Relacje 1:1, 1:n, m:n mogą posiadać dodatkową cechę, czyli swoją opcjonalno
 
 ```mermaid
 erDiagram
-    PASSPORTS ||--o{ TICKETS : "have assigned"
+    EMPLOYEES }o--||     POSITIONS: " "
+    EMPLOYEES{
+        int ID PK
+        varchar PESEL
+        string first_name
+        string last_name
+        date date_of_birth
+        int positionID FK
+    }
+    
+    POSITIONS{
+        int ID PK
+        string name
+        string description
+        float salary_multiplier
+    }
 ```
 
 ## Proces projektowania bazy danych
