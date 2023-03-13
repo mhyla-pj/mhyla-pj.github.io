@@ -25,12 +25,12 @@ SELECT id, make, model, year FROM Cars WHERE year < 1995 ORDER BY make;
 ```
 
 - Na polecenia określamy jego **rodzaj**. Na ten moment wykonujemy zapytania do bazy, więc będzie to instrukcja ```SELECT```.
-- Następnie określamy, **jakie kolumny** chcemy w tym zapytaniu odczytać - \* oznaczać będzie wszystkie
+- Następnie określamy, **jakie kolumny** chcemy w tym zapytaniu odczytać - \* oznaczać będzie wszystkie. Kolumny oddzielamy przecinkami.
 - Po słówku kluczowym ```FROM``` określić należy, z jakich tabel chcemy uzyskać dane
 **Zapytanie zawierające te podstawowe elementy już można wykonać**
 - Następnie, po klauzuli ```WHERE``` określamy tzw. filtry. 
 - Dalej, po klauzuli ```ORDER BY``` określimy sposób sortowania wyników
-- Zapytanie kończymy przecinkiem
+- Zapytanie kończymy średnikiem
 
 ### Przykładowe zapytanie:
 Chcemy uzyskać informację o wszystkich Fordach F150, ich roczniku i VIN z tabeli Cars w naszej bazie danych i posortować je od najstarszych. Zaczniemy od określenia
@@ -39,7 +39,7 @@ SELECT make, model, year, VIN FROM CARS;
 ```
 To powinno wyświetlić nam wszystkie rekordy z tabeli Cars: 
 
-|id |make     |model         |year|
+|make|model    |year          |VIN |
 |---|---------|--------------|----|
 |Jaguar|XF       |2010          |3D4PH3FGXBT677014|
 |Chevrolet|Silverado|2011          |5N1AN0NU6EN786815|

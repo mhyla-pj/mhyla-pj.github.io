@@ -11,3 +11,6 @@ topic: Zapytania SQL
 4. Napisz zapytanie, które wyświetli wszystkie różowe Fordy
 5. Napisz zapytanie, które policzy, ile jest czerwonych samochodów
 6. Napisz zapytanie, które zliczy, ile mamy w bazie różnych modeli Forda
+7. Napisz zapytanie, które wyświetli wszystkie **marki**, które pojawiają się po 2012 roku.
+8. Napisz zapytanie, które zliczy, ile w tabeli znajduje się Lincoln Continental
+9. Wyświetl najstarszy samochód w bazie
