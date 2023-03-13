@@ -16,7 +16,7 @@ W SQL spotkamy się z czterema kategoriami podstawowymi syntaktycznymi:
 3. operatory - spójniki 
 4. słówka kluczowe - interpretowane przez serwer w konkretny sposób
 
-Każda instrukcja SQL zaczynać się będzie od polecenia, czyli słowa kluczowego, które w dalszej części zapytania będziemy odpowiednimi klauzulami dookreślać.  Pracować będziemy na tabeli *Cars* - do pobrania [tutaj](../_site/assets/RBD/Cars.sql). 
+Każda instrukcja SQL zaczynać się będzie od polecenia, czyli słowa kluczowego, które w dalszej części zapytania będziemy odpowiednimi klauzulami dookreślać.  Pracować będziemy na tabeli *Cars* - do pobrania [tutaj](../assets/RBD/Cars.sql). 
 
 Każde zapytanie zaczynać się będzie od "instrukcji" określającej klasę zapytania. Klas tych jest 7, a każda zawiera jedno lub więcej poleceń. Dziś zajmiemy się kategorią danych, czyli poleceniami ```SELECT```, ```INSERT```, ```UPDATE``` i ```DELETE```, a w szczególności tym pierwszym. Na warsztat weźmiemy dziś zapytanie ```SELECT``` - jest to równocześnie najbardziej rozbudowana, jak i najczęściej używana instrukcja. Pozwala ona odpytywać bazę o konkretne dane, filtrowanie i agregację ich.
 Składnia:
