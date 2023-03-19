@@ -20,8 +20,8 @@ subject: Instrukcja instalacji środowiska DOSBox
    - Na komputerach uczelnianych już jest zainstalowany
 
 2. Pobrać należy:
-   1. [dosbox.zip](../assets/RBD/WIA2/dosbox.zip) - obraz dysku
-   2. [dosbox-0.74-3.conf](../assets/RBD/WIA2/dosbox-0.74-3.conf) - plik konfiguracyjny
+   1. [dosbox.zip](../assets/WIA2/dosbox.zip) - obraz dysku
+   2. [dosbox-0.74-3.conf](../assets/WIA2/dosbox-0.74-3.conf) - plik konfiguracyjny
 
 3. Plik dosbox.zip proszę rozpakować i umieścić w dogodnym miejscu (na uczelni proponuję dysk Z:\\) oraz **skopiować ścieżkę rozpakowanego katalogu**. Proszę się upewnić, że kopiujecie ścieżkę do katalogu dosbox, który zawiera w sobie katalogi app i WIA2, a nie katalogu dosbox, który zawiera katalog dosbox. 
 
@@ -33,7 +33,7 @@ subject: Instrukcja instalacji środowiska DOSBox
         ```
 I podmienić znajdującą się tam treść z treścią pobranego pliku dosbox-0.74-4.conf
 
-5. W trzeciej od końca linii tego pliku należy umieścić ścieżkę wspomnianego w pkt 3. katalogu dosbox.
-6. Po uruchomieniu DOSBoxa zobaczyć powinniśmy to:
+1. W trzeciej od końca linii tego pliku należy umieścić ścieżkę wspomnianego w pkt 3. katalogu dosbox.
+2. Po uruchomieniu DOSBoxa zobaczyć powinniśmy to:
    
    ![dosbox](../assets/RBD/WIA2/dosbox.png)
