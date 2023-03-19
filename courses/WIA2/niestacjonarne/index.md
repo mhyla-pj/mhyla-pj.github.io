@@ -13,3 +13,8 @@ Przedmiot składa się z 8 laboratoriów. Na koniec semestru odbywa się jedno k
 
 ### Rozliczanie zadań
 Zadania można również dosyłać do następnego spotkania na adres mhyla@pjwstk.edu.pl, w temacie maila umieszczając "PD_WIA2_2023". Zadania proszę przesyłać w oddzielnych plikach .asm. Nie otwieram zipów i innych skompresowanych folderów. Pliki .com nie przejdą przez gmaila.
+
+### Przydatne linki
+- [ctyme.com](http://www.ctyme.com/intr/int.htm) - Tablica przerwań Ralpha Browna przerobiona na wersję HTML przez pana Marka Perkela. Odradzam zagłębianie się w jego historię.
+- [Dokumentacja dosbox.conf](https://www.dosbox.com/wiki/Dosbox.conf)
+- [Instrukcja konfiguracji dosboxa pod zajęcia](../wia2-dosbox)
