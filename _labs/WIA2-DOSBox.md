@@ -1,7 +1,6 @@
 ---
 layout: lab
 course: WIA2
-visible: false
 type: [ niestacjonarne, stacjonarne ]
 subject: Instrukcja instalacji środowiska DOSBox
 ---

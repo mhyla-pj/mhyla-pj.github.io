@@ -9,7 +9,7 @@ description: Programowanie ery krzemu łupanego
 Na tym przedmiocie zajmować się będziemy w pełni asemblerem architektury x86. Programy napisane w assemblerze są zazwyczaj bardziej wydajne i zajmują mniej miejsca niż programy napisane w językach wysokiego poziomu, na przykład C/C++, a zawsze będą wydajniejsze od Javy. Niezależnie od tego, asembler nie jest językiem łatwym, a napisanie nawet podstawowego programu wymagać będzie od programisty podstawowego zrozumienia architektury komputera.
 
 ## Środowisko
-Pracować będziemy na procesorze 80486, konkretnie jego zemulowanej wersji, którą uruchomimy w środowisku DOSBox. Instrukcja instalacji i konfiguracji środowiska [tutaj](../WIA2-DOSBox)
+Pracować będziemy na procesorze 80486, konkretnie jego zemulowanej wersji, którą uruchomimy w środowisku DOSBox. Instrukcja instalacji i konfiguracji środowiska [tutaj](../wia2-dosbox)
 
 ## Architektura x86
 Pamięcią i tym, jak dokładnie współpracuje ona z procesorem zajmiemy się w nieodległej przyszłości, na ten moment wystarczy nam wiedza, że program wraz z danymi wczytywany jest z pamięci instrukcja po instrukcji. 
