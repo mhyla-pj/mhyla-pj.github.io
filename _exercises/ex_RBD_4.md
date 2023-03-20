@@ -5,6 +5,6 @@ type: stacjonarne
 lab_nr: 4
 topic: Więcej zapytań SQL
 ---
-1. Napisz zapytanie, które odszuka wszystkie loty obsługiwane Boeingiem 747
-2. Napisz zapytanie, które wyświetli najczęściej wykonywane połączenie
-3. Napisz zapytanie, które wyświetli informacje dotyczące lotu nr 58 (nazwa lotniska docelowego, początkowego, godzina wylotu)
+1. Napisz zapytanie, które wyświetli, jakie modele samolotów obsługiwały linię nr 69
+2. Napisz zapytanie, które wyświetli nr linii, lotnisko początkowe i lotnisko końcowe wszystkich lotów wykonywanych Boeingami 747
+3. Napisz zapytanie, które wyświetli miasto startu, miasto lądowania i model samolotu linii nr 200
