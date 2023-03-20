@@ -12,13 +12,13 @@ Poprzednio zaznajomiliśmy się z mechanizmami odpytywania bazy danych, ale prac
 
 Słówko kluczowe ```JOIN``` pozwoli nam na łączenie rekordów z wielu tabel na podstawie powiązanych kolumn. W przedstawionej poniżej bazie danych mamy 4 powiązane ze sobą tabele:
 
-![Airline](../_site/assets/RBD/AirlineDB-2023-03-20_09-14.png)
+![Airline](../assets/RBD/AirlineDB-2023-03-20_09-14.png)
 
 Do zaimportowania:
-- [Airports.sql](../_site/assets/RBD/Airports.sql)
-- [Routes.sql](../_site/assets/RBD/Routes.sql)
-- [Flights.sql](../_site/assets/RBD/Flights.sql)
-- [Aircrafts.sql](../_site/assets/RBD/Aircrafts.sql)
+- [Airports.sql](../assets/RBD/Airports.sql)
+- [Routes.sql](../assets/RBD/Routes.sql)
+- [Flights.sql](../assets/RBD/Flights.sql)
+- [Aircrafts.sql](../assets/RBD/Aircrafts.sql)
 
 Joiny umożliwiają złączenie wierszy z jednej tabeli z wierszami z innej tabeli, w oparciu o określone kryteria zdefiniowane przez użytkownika. Dzięki temu można wykonać zapytanie, które pobierze dane z wielu tabel i połączy je w jedną relację.
 
