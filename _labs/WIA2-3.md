@@ -49,10 +49,10 @@ W poniższym kodzie znajdują się ważne przykłady zastosowania adresowania pr
 ```nasm
 org 100h
 
-mov ax, test        ; przeniesie do AX adres etykiety 'test' - adres literki A
+mov ax, litera        ; przeniesie do AX adres etykiety 'test' - adres literki A
 
-mov ah, [test]      ; przeniesie do AH 41h - ASCII litera 'A'
-mov ax, [test]      ; przeniesie do AX 6141h - ASCII litery 'Aa' - w odwrotnej kolejnosci
+mov ah, [litera]      ; przeniesie do AH 41h - ASCII litera 'A'
+mov ax, [litera]      ; przeniesie do AX 6141h - ASCII litery 'Aa' - w odwrotnej kolejnosci
 
 mov ah, [string]    ; przeniesie do AH 61h - ASCII litera 'a'
 mov ax, [string]    ; przeniesie do AX 7361h - ASCII litery 'as'
@@ -75,7 +75,7 @@ mov [cel], zrodlo
 
 Zatem, dla przykładu, jeśli chcemy umieścić wartość 'A' pod adresem 0x0120:
 ```nasm
-mov [0x0120], 'A'
+mov byte [0x0120], 'A'
 ```
 
-Zasada działania z etykietami i rejestrem BX jest dokładnie taka sama jak w przypadku odczytu z pamięci, z tą różnicą, że wtedy były one źródłem danych, tu będą celem.
+Zasada działania z etykietami i rejestrem BX jest dokładnie taka sama jak w przypadku odczytu z pamięci, z tą różnicą, że wtedy były one źródłem danych, tu będą celem. 
