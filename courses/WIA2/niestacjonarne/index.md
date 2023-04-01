@@ -17,4 +17,4 @@ Zadania można również dosyłać do następnego spotkania na adres mhyla@pjwst
 ### Przydatne linki
 - [ctyme.com](http://www.ctyme.com/intr/int.htm) - Tablica przerwań Ralpha Browna przerobiona na wersję HTML przez pana Marka Perkela. Odradzam zagłębianie się w jego historię.
 - [Dokumentacja dosbox.conf](https://www.dosbox.com/wiki/Dosbox.conf)
-- [Instrukcja konfiguracji dosboxa pod zajęcia](../wia2-dosbox)
+- [Instrukcja konfiguracji dosboxa pod zajęcia](../../../wia2-dosbox)

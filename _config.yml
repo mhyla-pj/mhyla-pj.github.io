@@ -19,9 +19,17 @@ collections:
     output: true
     permalink: :slug/
 
+callouts:
+  warning: 
+    title: Uwaga!
+    color: red
+  important:
+    title: Ważna uwaga
+    color: blue
+
 mermaid: 
   version: 9.3.0
   
-search.heading_level: 2
+search.heading_level: 3
 
 favicon_ico: /assets/favicon.ico
