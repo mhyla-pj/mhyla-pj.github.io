@@ -13,4 +13,4 @@ Skorzystać można z następujących programów:
 2. curl - do pobierania danych i plików - tu będzie nas interesowało pobieranie JSON-ów
 3. jq - program do obsługi plików .json - pozwoli na obsługę jsona bez konieczności walki z ```sed``` albo ```awk```
 
-Dane pobierać będziemy z (API NBP)[http://api.nbp.pl]. 
+Dane pobierać będziemy z [API NBP](http://api.nbp.pl). 
