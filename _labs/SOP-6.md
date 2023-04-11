@@ -2,7 +2,7 @@
 layout: lab
 course: SOP
 type: stacjonarne
-lab_nr: 5
+lab_nr: 6
 subject: Wstęp do programowania w C, procesy
 description: Bash był fajniejszy
 ---
@@ -29,7 +29,7 @@ stała łańcuchowa to w uproszczeniu tekst, który chcemy wypisać. Może zawie
 Czyli, aby wydrukować zawartość zmiennych int jajco i łańcucha PJATK wywołamy:
 
 ```c
-printf(„jajco ma wartość %d, natomiast PJATK ma wartość %s”, jajco, PJATK)
+printf("jajco ma wartość %d, natomiast PJATK ma wartość %s", jajco, PJATK)
 ```
 
 ## Main()
