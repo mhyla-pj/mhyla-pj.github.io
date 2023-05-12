@@ -10,7 +10,7 @@ Proszę wszystkich Państwa o podesłanie mi (prywatnie na WhatsAppie lub na mhy
 1. Skanu paszportu dziecka
 2. Zestawu podstawowych informacji kontaktowych do siebie: Adres zamieszkania, e-mail, nr. telefonu
 
-Tych informacji potrzebuję do załatwienia ubezpieczenia. Naszym ubezpieczycielem będzie ERGO Hestia, z maksymalnym możliwym pakietem ubezpieczenia zdrowotnego i OC - po 1mln PLN. Wstępnie ena ubezpieczenia to 148PLN/os.
+Tych informacji potrzebuję do załatwienia ubezpieczenia. Naszym ubezpieczycielem będzie ERGO Hestia, z maksymalnym możliwym pakietem ubezpieczenia zdrowotnego i OC - po 1mln PLN. Wstępnie wycena ubezpieczenia to 148PLN/os.
 
 ## Aby wjechać do USA i wziąć udział w konkursie każdy musi posiadać:
 1. Ważny paszport, na który wypełniona była ESTA
