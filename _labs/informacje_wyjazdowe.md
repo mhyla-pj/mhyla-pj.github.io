@@ -59,7 +59,7 @@ W USA 99,9% zakupów można dokonać kartą płatniczą. Jeśli dzieciaki mają 
 Jeśli żadne z tych rozwiązań nie jest możliwe, to trzeba będzie wziąć gotówkę. O kwocie w dalszej części wpisu.
 
 ## Internet i komunikacja
-Posiadający telefon z eSIM (iPhone 11 i nowsze, Samsung Galaxy s20 i nowsze, Google Pixel 3 i nowsze oraz inne) mogą pobrać aplikację Truephone - tam można wykupić pakiet internetu - 110zł/10Gb, 185zł/20Gb -testowane w ubiegłym roku, działa świetnie. Można również na miejscu zakupić kartę sim prepaid - $40-$60 zależnie od ilości gb. Wifi, choć niezbyt szybkie dostępne będzie w każdym hotelu, na kampusie i większości knajp, więc konieczności zakupu karty SIM nie ma, również zostawiam do indywidualnej decyzji. Do wszelkiej komunikacji zachęcam do korzystania z aplikacji typu Viber, Messenger, WattsApp, bo ceny za minutę połączenia do USA są horrendalne.
+Posiadający telefon z eSIM (iPhone 11 i nowsze, Samsung Galaxy s20 i nowsze, Google Pixel 3 i nowsze oraz inne) mogą pobrać aplikację My Truphone - tam można wykupić pakiet internetu - 110zł/10Gb, 185zł/20Gb -testowane w ubiegłym roku, działa świetnie. Można również na miejscu zakupić kartę sim prepaid - $40-$60 zależnie od ilości gb. Wifi, choć niezbyt szybkie dostępne będzie w każdym hotelu, na kampusie i większości knajp, więc konieczności zakupu karty SIM nie ma, również zostawiam do indywidualnej decyzji. Do wszelkiej komunikacji zachęcam do korzystania z aplikacji typu Viber, Messenger, WattsApp, bo ceny za minutę połączenia do USA są horrendalne.
 
 ## Zakupy
 W USA markowe ubrania i elektronika są zauważalnie tańsze niż w Polsce, więc z doświadczenia wiem, że dzieciaki mogą chcieć coś komuś kupować.  Jeśli ktoś chce coś przywieźć, to ja nie widzę problemu. Ceny w USD na stronach internetowych zazwyczaj są przed naliczeniem podatków stanowych i miejskich, w Michigan będzie to 7%, w NYC 13%. Nadal się opłaca, najnowszy Macbook Air wychodzi blisko 2000 zł taniej niż w Polsce. Proszę jednak o umiar w zamówieniach, żebyśmy nie mieli problemów celnych. Ubrania powinny raczej przekraczać granicę bez metek, elektronika przynajmniej z rozfoliowanym pudełkiem. 
@@ -86,7 +86,7 @@ Ponadto myślę, że obowiązkowymi punktami wizyty w NYC powinny być:
   - One World Trade Center - najwyższy punkt, najnowszy budynek, najmniej *iconic* widok - **$44**
 - 9/11 Memorial Museum - Muzeum poświęcone atakom terrorystycznym na World Trade Center w 1993 i 2001 roku. Moim zdaniem punkt obowiązkowy podczas wizyty w NYC, szczególnie, że muzeum jest świetne, a w momencie ataków z 2001 nikogo z grupy nie było jeszcze na świecie - **$23**
 - Intrepid Sea Air & Space Museum - zlokalizowany przy nabrzeżu 86 drugowojenny lotniskowiec, po pokładzie którego można się swobodnie poruszać. Ponadto na okręcie znajduje się kolekcja 58 samolotów wojskowych z lat 1920-2000, wahadłowiec kosmiczny Enterprise, okręt podwodny, za dodatkowe $9 można zwiedzić również pokład Concorde'a. 100m od muzeum w 2009 na rzece Hudson wodował awaryjnie samolot US Airways. - **$36/$45 z Concorde**
-- New York Transit Museum - Znajdujące się na zamkniętej stacji metra na Brooklynie muzeum nowojorskiej komunikacji publicznej. W kolekcji 7 odresaurowanych wagonów metra, po których można się swobodnie poruszać, symulator miejskiego autobusu, wystawy sprzętu i pełnej historii budowy metra - **$10**
+- New York Transit Museum - Znajdujące się na zamkniętej stacji metra na Brooklynie muzeum nowojorskiej komunikacji publicznej. W kolekcji 7 odrestaurowanych wagonów metra z lat 1907-1960, po których można się swobodnie poruszać, symulator miejskiego autobusu, wystawy sprzętu i pełnej historii budowy metra - **$10**
 - Mecz Major League Baseball - Nowy Jork to muzyka, teatr, brud i 6 profesjonalnych zespołów sportowych. Na koncert nas nie stać, musical zobaczymy w Lansing, brud będzie wszędzie, a NY Mets grają z Philadelphia Phillies przez cały nasz okres pobytu - wybierzemy wygodny termin. Bilety - **$12**
 
 Poza muzeami w NYC znajdują się miejsca, które po prostu **trzeba** zobaczyć, takie jak Grand Central Terminal, Battery Park, Central Park, Chinatown i Little Italy, SoHo. Jest też wiele ikonicznych, znanych z popkultury miejsc, jak wejście do siedziby *facetów w czerni*, kamienica z *Friends*, muzeum Guggengeima, czy Brooklyn Bridge - te atrakcje są darmowe.
@@ -98,6 +98,7 @@ Nie badałem zainteresowania, a i ceny potrafią być wysokie, ale w NYC, wtedy 
 - Frankie Valli
 - Billy Joel
 - Taylor Swift
+
 Pozostawiam temat do przedyskutowania. 
 
 ## Finanse
