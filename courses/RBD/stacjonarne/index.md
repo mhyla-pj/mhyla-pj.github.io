@@ -23,10 +23,12 @@ Przedmiot składa się z 15 laboratoriów. Na ocenę końcową składa się w 50
 
 |Grupa  |Dzień | Godzina| Sala|Kolokwium|
 |---|---|---|---|---|
-|21c|Poniedziałek|11:30|A403|TBA|
-|23c|Środa|10:45|A203|TBA|
-|25c|Piątek|12:45|A203|TBA|
-|26c|Poniedziałek|14:00|A403|TBA|
-|28c|Piątek|15:00|A203|TBA|
-|29c|Czwartek|11:15|A303|TBA|
+|21c|Poniedziałek|11:30|A403|15.05|
+|23c|Środa|10:45|A203|17.05|
+|25c|Piątek|12:45|A203|19.05|
+|26c|Poniedziałek|14:00|A403|15.05|
+|28c|Piątek|15:00|A203|19.05|
+|29c|Czwartek|11:15|A303|18.05|
+
+[Przykładowe kolokwium](../../../assets/RBD/testRBD.pdf)
 
