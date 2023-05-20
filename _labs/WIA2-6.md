@@ -32,7 +32,15 @@ czym wpisujemy na stos operator.
 
 Po wczytaniu wszystkich elementów przepisujemy ze stosu na wyjście pozostałe operatory
 
-Po lewej znajduje się tabelka z priorytetami operatorów. W powyższym algorytmie pojawia się jeszcze określenie „stos”, więc pewnie przydałoby się wyjaśnić, o co z nim chodzi. Stos to taka struktura danych, w której dane są umieszczane i pobierane ze szczytu. Inaczej bufor LIFO, czyli last in – first out. Można to porównać do kupki książek. Ostatnia, którą na tej kupce położymy będzie pierwszą, którą z niego zdejmiemy. Przechodząc do zastosowania stosu w wykonaniu algorytmu, bo brzmi to na skomplikowane, ale tak naprawdę to nie jest. Dla przykładu:
+
+|Operator|Priorytet|
+|--------|---------|
+|(|0|
+|**+ - )**|1|
+|**\* /**|2|
+|**^**|3|
+
+Powyżej tabelka z priorytetami operatorów. W powyższym algorytmie pojawia się jeszcze określenie „stos”, więc pewnie przydałoby się wyjaśnić, o co z nim chodzi. Stos to taka struktura danych, w której dane są umieszczane i pobierane ze szczytu. Inaczej bufor LIFO, czyli last in – first out. Można to porównać do kupki książek. Ostatnia, którą na tej kupce położymy będzie pierwszą, którą z niego zdejmiemy. Przechodząc do zastosowania stosu w wykonaniu algorytmu, bo brzmi to na skomplikowane, ale tak naprawdę to nie jest. Dla przykładu:
 
 `(12 + 8) − 2 * 6`
 
