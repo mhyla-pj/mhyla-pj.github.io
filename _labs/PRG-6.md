@@ -51,6 +51,7 @@ double grades[6] = {2, 4, 5};
 ```
 
 Dostęp do elementów tablicy jest równie prosty, co inicjalizacja. Na przykład z tablicy grades, zawierającej elementy:
+
 WARTOŚĆ| 2| 4.5| 4| 3| 4.5| 3.5 |3| 2| 5| 4.5
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 INDEKS| 0| 1| 2| 3| 4| 5| 6| 7| 8| 9 
