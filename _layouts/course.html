@@ -15,10 +15,10 @@ layout: default
 </ol>
 
 <h2>Zadania do laboratoriów</h2>
-<ol>
+<ul style="list-style: none;">
 {% for exercise in site.exercises %}
     {% if exercise.course == page.course %}
         <li><a href="{{ exercise.url }}" >Lab {{ exercise.lab_nr }}. {{ exercise.topic }}</a></li>
     {% endif%}
 {% endfor %}
-</ol>
+</ul>
