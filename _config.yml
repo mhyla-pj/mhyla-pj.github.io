@@ -30,6 +30,6 @@ callouts:
 mermaid: 
   version: 9.3.0
   
-search.heading_level: 3
+search_enabled: true
 
 favicon_ico: /assets/favicon.ico
