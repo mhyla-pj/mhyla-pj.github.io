@@ -2,6 +2,8 @@ title: Hyla Repository
 description: Hyla homepage for all PJATK-related stuff!
 theme: just-the-docs
 
+math: mathjax
+
 color_scheme: dark
 url: https://mhyla.com
 
