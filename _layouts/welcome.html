@@ -1,0 +1,18 @@
+---
+layout: home
+---
+    {{ content }}
+<div markdown=1>
+    {% assign sorted = site.announcements | sort: 'date' | reverse %}
+    {% for announcement in sorted %}
+        {% if announcement.type == 'general' %}
+        <hr>
+        <h6>{{ announcement.date | date: "%A, %d %B %Y" }}</h6>
+        <h3>{{ announcement.title }}</h3>
+        {{ announcement.content | markdownify }}
+        {% endif %}
+    {% endfor %}
+ </div>
+
+
+
