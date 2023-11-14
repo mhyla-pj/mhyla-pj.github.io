@@ -4,7 +4,7 @@ course: PRG
 type: stacjonarne
 lab_nr: 10
 subject: Sudoku
-description: takie klepanie
+description: Intensywna praca nad sudoku
 ---
 
 Zajęcia poświęcone w 100% pisaniu sudoku. Super sprawa
