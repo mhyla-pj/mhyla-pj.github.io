@@ -2,7 +2,7 @@
 layout: lab
 course: RBD
 type: stacjonarne
-lab_nr: 2
+lab_nr: 02
 subject: Diagramy ERD
 description: Modelowanie bazy danych
 ---

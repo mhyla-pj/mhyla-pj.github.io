@@ -2,7 +2,7 @@
 layout: exercise
 course: SOP
 type: stacjonarne
-lab_nr: 6
+lab_nr: 06
 topic: C czyste jak łza
 ---
 1. Napisz program, który tworzy trzy procesy potomne. Procesy te powinny wypisać na ekranie swoje identyfikatory PID i PPID, a następnie zakończyć swoje działanie. Proces rodzica powinien poczekać na zakończenie wszystkich trzech procesów potomnych i wyświetlić komunikat o zakończeniu ich działania.

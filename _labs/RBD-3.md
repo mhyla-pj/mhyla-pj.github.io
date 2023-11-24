@@ -2,7 +2,7 @@
 layout: lab
 course: RBD
 type: stacjonarne
-lab_nr: 3
+lab_nr: 03
 subject: Wstęp do SQL
 description: Odpytywanie bazy danych
 ---

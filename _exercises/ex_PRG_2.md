@@ -2,7 +2,7 @@
 layout: exercise
 course: PRG
 type: stacjonarne
-lab_nr: 2
+lab_nr: 02
 topic: Trochę trudniejsze zadania, ale nadal proste
 ---
 

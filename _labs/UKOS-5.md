@@ -2,7 +2,7 @@
 layout: lab
 course: UKOS
 type: [ niestacjonarne, stacjonarne ]
-lab_nr: 5
+lab_nr: 05
 subject: Skrypty basha pt.2
 description: 
 ---

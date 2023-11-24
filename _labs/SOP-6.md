@@ -2,7 +2,7 @@
 layout: lab
 course: SOP
 type: stacjonarne
-lab_nr: 6
+lab_nr: 06
 subject: Wstęp do programowania w C, procesy
 description: Bash był fajniejszy
 ---

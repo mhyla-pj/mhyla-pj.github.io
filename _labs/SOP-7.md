@@ -2,7 +2,7 @@
 layout: lab
 course: SOP
 type: stacjonarne
-lab_nr: 7
+lab_nr: 07
 subject: I/O, pliki
 description: The file is a lie
 ---

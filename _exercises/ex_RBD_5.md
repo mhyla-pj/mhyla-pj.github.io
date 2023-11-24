@@ -2,7 +2,7 @@
 layout: exercise
 course: RBD
 type: stacjonarne
-lab_nr: 5
+lab_nr: 05
 topic: Tworzenie własnej bazy od zera
 ---
 Dzisiejsze zadania można (nie trzeba) realizować w dwuosobowych zespołach

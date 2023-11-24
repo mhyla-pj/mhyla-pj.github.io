@@ -2,7 +2,7 @@
 layout: exercise
 course: RBD
 type: stacjonarne
-lab_nr: 9
+lab_nr: 09
 topic: Tworzenie i odpytywanie bazy w CLI
 ---
 

@@ -2,7 +2,7 @@
 layout: lab
 course: RBD
 type: stacjonarne
-lab_nr: 5
+lab_nr: 05
 subject: Tworzenie i wypełnianie tabel w bazie danych
 description: Oraz odpytywanie tej bazy, oczywiście
 ---

@@ -2,7 +2,7 @@
 layout: lab
 course: WIA2
 type: [ niestacjonarne, stacjonarne ]
-lab_nr: 5
+lab_nr: 05
 subject: Arytmetyka
 description: Niby proste, ale system zawiesić potrafi
 ---

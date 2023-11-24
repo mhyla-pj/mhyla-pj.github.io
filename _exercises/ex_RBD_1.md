@@ -2,7 +2,7 @@
 layout: exercise
 course: RBD
 type: stacjonarne
-lab_nr: 1
+lab_nr: 01
 topic: Tworzenie prostych diagramów
 ---
 1. Korzystając z przedstawionych w laboratorium przykładów zaproponuj zestaw pól zawierających wszystkie potrzebne informacje dla każdej z tabel *PERSONS*, *PASSPORTS*, *TICKETS* i *BOOKINGS*

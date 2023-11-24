@@ -2,7 +2,7 @@
 layout: exercise
 course: SOP
 type: stacjonarne
-lab_nr: 7
+lab_nr: 07
 topic: Pliki pliki pliki, od liczenia mam odciski
 ---
 1. Napisz program, który odczyta i wydrukuje na terminalu znak po znaku zawartość pliku. Każdy znak powiększ przed drukiem o 1, aby plik tekstowy z ciągiem 10asdf wydrukował ciąg ‘21bteg’

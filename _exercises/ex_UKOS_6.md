@@ -2,7 +2,7 @@
 layout: exercise
 course: UKOS
 type: [stacjonarne, niestacjonarne]
-lab_nr: 6
+lab_nr: 06
 topic: Date sometime?
 ---
 

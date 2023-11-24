@@ -2,7 +2,7 @@
 layout: lab
 course: SOP
 type: stacjonarne
-lab_nr: 5
+lab_nr: 05
 subject: Ostatnie zajęcia z bashem
 description: Tak, ja też się cieszę
 ---

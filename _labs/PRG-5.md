@@ -2,7 +2,7 @@
 layout: lab
 course: PRG
 type: stacjonarne
-lab_nr: 5
+lab_nr: 05
 subject: Pisanie programów, czyli dużo małych nowości
 description: Arytmetyka, typy danych
 ---

@@ -2,7 +2,7 @@
 layout: exercise
 course: RBD
 type: stacjonarne
-lab_nr: 3
+lab_nr: 03
 topic: Zapytania SQL
 ---
 1. Napisz zapytanie, które wyświetli wszystkie Chryslery wyprodukowane przed rokiem 2000

@@ -2,7 +2,7 @@
 layout: lab
 course: SOP
 type: stacjonarne
-lab_nr: 2
+lab_nr: 02
 subject: Bash bardziej złożony
 description: Tego już nie było na UKOS. Chyba
 ---

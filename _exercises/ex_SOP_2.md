@@ -2,7 +2,7 @@
 layout: exercise
 course: SOP
 type: stacjonarne
-lab_nr: 2
+lab_nr: 02
 topic: Więcej basha
 ---
 1. Napisz wyrażenia regularne, które sprawdzą:

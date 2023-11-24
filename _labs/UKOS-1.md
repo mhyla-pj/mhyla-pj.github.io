@@ -2,7 +2,7 @@
 layout: lab
 course: UKOS
 type: [ niestacjonarne, stacjonarne ]
-lab_nr: 1
+lab_nr: 01
 subject: Wstęp do systemu Linux i CLI
 description: Mysz to nie wszystko. Jest jeszcze klawiatura!
 ---

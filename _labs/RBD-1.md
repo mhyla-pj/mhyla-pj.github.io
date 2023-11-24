@@ -2,7 +2,7 @@
 layout: lab
 course: RBD
 type: stacjonarne
-lab_nr: 1
+lab_nr: 01
 subject: Podstawy baz danych
 description: Bazowe pojęcia dotyczące baz danych
 ---

@@ -2,7 +2,7 @@
 layout: lab
 course: SOP
 type: stacjonarne
-lab_nr: 4
+lab_nr: 04
 subject: Kontrola procesów
 description: Marzenie ministra sprawiedliwości
 ---

@@ -2,7 +2,7 @@
 layout: lab
 course: RBD
 type: stacjonarne
-lab_nr: 4
+lab_nr: 04
 subject: SQL - Joiny, więcej agregacji, więcej zapytań 
 description: I jeszcze więcej odpytywania bazy
 ---

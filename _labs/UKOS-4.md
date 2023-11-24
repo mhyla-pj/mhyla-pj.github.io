@@ -2,7 +2,7 @@
 layout: lab
 course: UKOS
 type: [ niestacjonarne, stacjonarne ]
-lab_nr: 4
+lab_nr: 04
 subject: Skrypty basha
 description: They see me scriptin'
 ---

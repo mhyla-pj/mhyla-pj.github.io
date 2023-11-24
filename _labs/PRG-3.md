@@ -2,7 +2,7 @@
 layout: lab
 course: PRG
 type: stacjonarne
-lab_nr: 3
+lab_nr: "03"
 subject: Więcej warunków, pętle
 description: Ify, zagnieżdżenia, while i do-while
 ---

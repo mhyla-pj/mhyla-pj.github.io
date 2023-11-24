@@ -2,7 +2,7 @@
 layout: lab
 course: SOP
 type: stacjonarne
-lab_nr: 1
+lab_nr: 01
 subject: Bash - przypomnienie
 description: niby to co było na UKOS, ale nie do końca
 ---

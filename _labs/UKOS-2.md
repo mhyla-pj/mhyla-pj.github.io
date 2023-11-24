@@ -2,7 +2,7 @@
 layout: lab
 course: UKOS
 type: [ niestacjonarne, stacjonarne ]
-lab_nr: 2
+lab_nr: 02
 subject: Linux, część druga
 description: Pliki tekstowe, wyszukiwanie
 ---

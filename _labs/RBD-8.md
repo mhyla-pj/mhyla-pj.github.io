@@ -2,7 +2,7 @@
 layout: lab
 course: RBD
 type: stacjonarne
-lab_nr: 8
+lab_nr: 08
 subject: Agregacja, złączenia, funkcje SQL
 description: Łolaboga, mnóstwo rzeczy naraz
 ---

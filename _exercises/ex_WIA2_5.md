@@ -2,7 +2,7 @@
 layout: exercise
 course: WIA2
 type: [ niestacjonarne, stacjonarne ]
-lab_nr: 5
+lab_nr: 05
 topic: Plus i minus to jedyne co widzę
 ---
 Na punkt z zajęć - 7 z 10 zadań.

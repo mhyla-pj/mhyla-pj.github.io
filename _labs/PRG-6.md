@@ -2,7 +2,7 @@
 layout: lab
 course: PRG
 type: stacjonarne
-lab_nr: 6
+lab_nr: 06
 subject: Tablice
 description: Dziś tylko jednowymiarowe, luz
 ---

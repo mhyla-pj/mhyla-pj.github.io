@@ -2,7 +2,7 @@
 layout: lab
 course: SOP
 type: stacjonarne
-lab_nr: 8
+lab_nr: 08
 subject: Sygnały
 description: 
 ---

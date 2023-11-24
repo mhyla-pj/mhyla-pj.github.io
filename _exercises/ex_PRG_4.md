@@ -2,7 +2,7 @@
 layout: exercise
 course: PRG
 type: stacjonarne
-lab_nr: 4
+lab_nr: 04
 topic: Pętle for, switch (do 20.10)
 ---
 ## Zadania punktowane, do 20.10.2023

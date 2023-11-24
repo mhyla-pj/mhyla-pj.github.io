@@ -2,7 +2,7 @@
 layout: exercise
 course: RBD
 type: stacjonarne
-lab_nr: 2
+lab_nr: 02
 topic: Porządny diagram związków encji
 ---
 Do dzisiejszych zajęć diagramy realizować można w jednym z tematów:

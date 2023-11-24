@@ -2,7 +2,7 @@
 layout: exercise
 course: UKOS
 type: [stacjonarne, niestacjonarne]
-lab_nr: 3
+lab_nr: 03
 topic: Grep, pipe, zakupy
 ---
 

@@ -2,7 +2,7 @@
 layout: exercise
 course: RBD
 type: stacjonarne
-lab_nr: 4
+lab_nr: 04
 topic: Więcej zapytań SQL
 ---
 1. Napisz zapytanie, które wyświetli, jakie modele samolotów obsługiwały linię nr 69

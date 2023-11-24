@@ -2,7 +2,7 @@
 layout: exercise
 course: SOP
 type: stacjonarne
-lab_nr: 1
+lab_nr: 01
 topic: Podstawy basha
 ---
 Rozwiązania zadań proszę przesyłać w oddzielnych plikach.

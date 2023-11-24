@@ -2,7 +2,7 @@
 layout: lab
 course: PRG
 type: stacjonarne
-lab_nr: 7
+lab_nr: 07
 subject: Tablice cz.2
 description: Tym razem dwuwymiarowe oraz odczyt z pliku
 ---

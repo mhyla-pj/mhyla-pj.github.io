@@ -2,7 +2,7 @@
 layout: exercise
 course: PRG
 type: stacjonarne
-lab_nr: 9
+lab_nr: 09
 topic: Szlifujemy swoje umiejętności
 math: mathjax
 ---

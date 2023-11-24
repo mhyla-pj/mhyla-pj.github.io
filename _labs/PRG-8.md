@@ -2,7 +2,7 @@
 layout: lab
 course: PRG
 type: stacjonarne
-lab_nr: 8
+lab_nr: 08
 subject: Algorytmy sortujące, funkcje
 description: They see me sortin'
 ---

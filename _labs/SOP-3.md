@@ -2,7 +2,7 @@
 layout: lab
 course: SOP
 type: stacjonarne
-lab_nr: 3
+lab_nr: 03
 subject: Czas, backupy i inne czary-mary
 description: Cron jest super, obiecuję
 ---

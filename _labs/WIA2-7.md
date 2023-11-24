@@ -2,7 +2,7 @@
 layout: lab
 course: WIA2
 type: [ stacjonarne ]
-lab_nr: 7
+lab_nr: 07
 subject: Pętle i ćwiczenia
 description: na szyi
 ---

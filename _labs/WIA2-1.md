@@ -2,7 +2,7 @@
 layout: lab
 course: WIA2
 type: [ niestacjonarne, stacjonarne ]
-lab_nr: 1
+lab_nr: 01
 subject: Podstawy architektury komputera
 description: Czyli dlaczego na kalkulatorze możemy odpalić Hogwarts Legacy
 ---

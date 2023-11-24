@@ -2,7 +2,7 @@
 layout: exercise
 course: SOP
 type: stacjonarne
-lab_nr: 3
+lab_nr: 03
 topic: tar, data, czas, cron
 ---
 1. Napisz skrypt, który przeskanuje katalog Dokumenty i podkatalogi w poszukiwaniu plików .txt i wyświetli ich pełną listę

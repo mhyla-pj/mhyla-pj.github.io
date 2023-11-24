@@ -2,7 +2,7 @@
 layout: lab
 course: UKOS
 type: [ niestacjonarne, stacjonarne ]
-lab_nr: 3
+lab_nr: 03
 subject: Grep, regexp, pipe i inne, czyli praca na plikach
 description: Tym razem zajmiemy się zawartością plików
 ---

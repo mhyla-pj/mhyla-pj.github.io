@@ -2,7 +2,7 @@
 layout: lab
 course: RBD
 type: stacjonarne
-lab_nr: 9
+lab_nr: 09
 subject: SQL w konsoli, zadania praktyczne
 description: Powrót do czasów komputera łupanego
 ---

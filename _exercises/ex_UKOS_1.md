@@ -2,7 +2,7 @@
 layout: exercise
 course: UKOS
 type: [ niestacjonarne, stacjonarne ]
-lab_nr: 1
+lab_nr: 01
 topic: Tworzenie plików i katalogów
 ---
 1. Korzystając jedynie z terminala utwórz poniższą hierarchię katalogów:

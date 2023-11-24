@@ -2,7 +2,7 @@
 layout: lab
 course: UKOS
 type: [ niestacjonarne, stacjonarne ]
-lab_nr: 6
+lab_nr: 06
 subject: Pakowanie, data, czas
 description: Niby skryptowanie, ale nie tylko
 ---

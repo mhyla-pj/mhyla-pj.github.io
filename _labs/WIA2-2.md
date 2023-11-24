@@ -2,7 +2,7 @@
 layout: lab
 course: WIA2
 type: [ niestacjonarne, stacjonarne ]
-lab_nr: 2
+lab_nr: 02
 subject: Wstęp do asemblera, przerwania
 description: Programowanie ery krzemu łupanego
 ---

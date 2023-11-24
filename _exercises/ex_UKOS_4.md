@@ -2,7 +2,7 @@
 layout: exercise
 course: UKOS
 type: [stacjonarne, niestacjonarne]
-lab_nr: 4
+lab_nr: 04
 topic: they hatin'
 ---
 

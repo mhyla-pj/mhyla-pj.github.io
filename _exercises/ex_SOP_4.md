@@ -2,7 +2,7 @@
 layout: exercise
 course: SOP
 type: stacjonarne
-lab_nr: 4 
+lab_nr: 04 
 topic: Procesy
 ---
 Poza zadaniem 5 aby rozliczyć dzisiejsze zadania wystarczy mi plik z wynikiem działania polecenia ```history```

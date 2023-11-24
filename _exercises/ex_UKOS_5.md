@@ -2,7 +2,7 @@
 layout: exercise
 course: UKOS
 type: [stacjonarne, niestacjonarne]
-lab_nr: 5
+lab_nr: 05
 topic: Więcej skryptów
 ---
 1. Napisz skrypt wyświetlający, który będzie sprawdzał, czy przekazano do niego przynajmniej 5

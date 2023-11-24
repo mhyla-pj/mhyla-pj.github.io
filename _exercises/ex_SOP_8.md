@@ -2,7 +2,7 @@
 layout: exercise
 course: SOP
 type: stacjonarne
-lab_nr: 8
+lab_nr: 08
 topic: Whoop, whoop, That's the sound of the police!
 ---
 
