@@ -2,7 +2,7 @@
 layout: exercise
 course: PRG
 type: stacjonarne
-lab_nr: 07
+lab_nr: 7
 topic: Tablice wielowymiarowe
 ---
 

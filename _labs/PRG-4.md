@@ -2,7 +2,7 @@
 layout: lab
 course: PRG
 type: stacjonarne
-lab_nr: "04"
+lab_nr: 4
 subject: Pętla for, switch-case, bardziej złożone programy
 description: Kolejna pętla (nie na szyi)
 ---

@@ -2,7 +2,7 @@
 layout: lab
 course: PRG
 type: stacjonarne
-lab_nr: "02"
+lab_nr: 2
 subject: Arytmetyka, ify i strumienie, błędy i ich zrozumienie
 description: Czyli coś policzymy, a potem to popsujemy
 ---

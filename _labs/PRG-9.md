@@ -2,7 +2,7 @@
 layout: lab
 course: PRG
 type: stacjonarne
-lab_nr: 09
+lab_nr: 9
 subject: Szlify programistyczne
 description: Punkty do zdobycia, ważne
 ---

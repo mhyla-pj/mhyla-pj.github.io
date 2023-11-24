@@ -2,7 +2,7 @@
 layout: exercise
 course: PRG
 type: stacjonarne
-lab_nr: 06
+lab_nr: 6
 topic: Do tablicy! (do 24.10)
 ---
 ## Zadania niepunktowane

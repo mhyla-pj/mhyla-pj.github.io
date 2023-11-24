@@ -7,7 +7,8 @@ layout: default
 <hr>
 <h2>Skrypty z ćwiczeń</h2>
 <ol>
-{% for lab in site.labs %}
+{% assign labs = site.labs | sort: 'lab_nr' %}
+{% for lab in labs %}
     {% if lab.course == page.course and lab.type contains page.type %}
      <li><a href="{{ lab.url }}">{{ lab.subject }}</a></li>
     {% endif %}
@@ -16,7 +17,8 @@ layout: default
 
 <h2>Zadania do laboratoriów</h2>
 <ul style="list-style: none;">
-{% for exercise in site.exercises %}
+{% assign exercises = site.exercises | sort: 'lab_nr'%}
+{% for exercise in exercises %}
     {% if exercise.course == page.course %}
         <li><a href="{{ exercise.url }}" >Lab {{ exercise.lab_nr }}. {{ exercise.topic }}</a></li>
     {% endif%}

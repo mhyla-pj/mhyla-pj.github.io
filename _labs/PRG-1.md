@@ -2,7 +2,7 @@
 layout: lab
 course: PRG
 type: stacjonarne
-lab_nr: "01"
+lab_nr: 1
 subject: Witaj świecie, czyli wstęp do programowania
 description: Najpierw w języku C++, a jak czas pozwoli to i w innych
 ---

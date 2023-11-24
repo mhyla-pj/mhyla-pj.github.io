@@ -2,7 +2,7 @@
 layout: exercise
 course: PRG
 type: stacjonarne
-lab_nr: 03
+lab_nr: 3
 topic: Warunków więcej niż na matmie (do 13.10)
 ---
 ## Zadania punktowane, do 13.10.2023
