@@ -13,10 +13,13 @@ PRG1 to przedmiot poświęcony nauce programowania. Na tych zajęciach nauczymy 
 
 ## Zasady zaliczenia
 Przedmiot składa się z 20 laboratoriów. Na ocenę końcową składa się:
-- 2 kolokwia (teoretyczno-praktyczne oraz praktyczne) - po 30% oceny
+- 2 kolokwia (teoretyczno-praktyczne oraz praktyczne) - po 30% oceny - każde kolokwium **musi** być zaliczone.
 - Zadania z zajęć - 20% oceny
-- Projekt programistyczny - 20% oceny
-Obecność podczas zajęć jest wymagana, acz nie sprawdzana. Zadania domowe oznaczone terminem składania liczone będą do punktacji z zajęć, będą sprawdzane i oceniane na zajęciach. Zadania bez daty nie mają wpływu na ocenę, proszę mi ich nie przesyłać.
+- Projekt programistyczny rozliczany do końca semestru - 20% oceny
+Obecność podczas zajęć jest wymagana, acz nie sprawdzana. Zadania domowe **oznaczone terminem składania** liczone będą do punktacji z zajęć, będą sprawdzane i oceniane na zajęciach. **Zadania bez daty nie mają wpływu na ocenę**, proszę mi ich nie przesyłać.
+
+## Poprawy
+Dopuszczalna będzie poprawka jednego z kolokwiów, podczas ostatnich zajęć w semestrze. Poprawy projektu po terminie nie przewiduję.
 
 ## Przydatne linki
 - [W3Schools](https://www.w3schools.com/cpp/default.asp) - tutorial z podstawami C++. Bardzo przydatne do szybkiej weryfikacji podstawowych zagadnień

@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Egzamin SOP 27.06
 
 

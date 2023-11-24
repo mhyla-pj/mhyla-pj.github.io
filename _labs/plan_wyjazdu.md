@@ -1,6 +1,7 @@
 ---
 layout: lab
 subject: Delegacja I LO na Finały Światowe OU 2023
+nav_exclude: true
 ---
 
 Szanowni Państwo,

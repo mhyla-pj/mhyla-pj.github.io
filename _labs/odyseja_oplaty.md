@@ -1,6 +1,7 @@
 ---
 layout: lab
 subject: Opłaty konkursowe
+nav_exclude: true
 ---
 
 Szanowni Państwo,

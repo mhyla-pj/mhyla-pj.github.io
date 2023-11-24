@@ -1,6 +1,7 @@
 ---
 layout: lab
 subject: Informacje wyjazdowe
+nav_exclude: true
 ---
 
 Zostało nam coraz mniej czasu, więc poniżej przesyłam garść informacji wyjazdowych. Mam przekonanie graniczące z pewnością, że to będzie najdłuższy dokument, jaki podesłałem i zarazem ostatni przed naszym opuszczeniem kraju.
