@@ -7,7 +7,9 @@ topic: Szlifujemy swoje umiejętności (do 01.12)
 ---
 Właściwie to jedno zadanie, ale z klikoma podpunktami.
 Napisz program, który wydrukuje na czystym terminalu literkę M ze znaków 'M". 
+
 ![M z #](../assets/PRG/Zrzut%20ekranu%202023-11-28%20o%2011.20.48.png)
+
 Uznajmy, że punkt zaczepu znajduje się w lewym dolnym rogu, zaznaczony na czerwono.
 1. Napisz funkcjonalność, która przy użyciu strzałek pozwoli na przesuwanie
 narysowanej literki po ekranie
