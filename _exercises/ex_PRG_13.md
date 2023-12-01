@@ -21,6 +21,6 @@ topic: Powtóreczka do kolosa
 
 |Input:|Output:|
 |------|-------|
-|112|1<br>2<br>4<br>8<br>14<br>16<br>28<br>56<br>112|
+|112|1<br>2<br>4<br>7<br>8<br>14<br>16<br>28<br>56<br>112|
 
 - Napisz program, który przyjmie od użytkownika zawartość tablicy 4x4 w taki sposób (zaczynając od lewego górnego rogu), a następnie wydrukuje sumę elementów znajdujących się na przekątnych
