@@ -16,3 +16,11 @@ topic: Powtóreczka do kolosa
 |Input:|Output:|
 |------|-------|
 |2<br> 3<br> 8<br> 13<br> 112<br> q|112<br>2|
+
+- Napisz program, który będzie przyjmował od użytkownika jedną liczbę naturalną, zweryfikuje, czy jest większa od 100, a następnie **jeden pod drugim** wypisze jej wszystkie dzielniki. Jeśli liczba jest mniejsza niż 100 program ma wydrukować 'ERROR' i się zakończyć
+
+|Input:|Output:|
+|------|-------|
+|112|1<br>2<br>4<br>8<br>14<br>16<br>28<br>56<br>112|
+
+- Napisz program, który przyjmie od użytkownika zawartość tablicy 4x4 w taki sposób (zaczynając od lewego górnego rogu), a następnie wydrukuje sumę elementów znajdujących się na przekątnych
