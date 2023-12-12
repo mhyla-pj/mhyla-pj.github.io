@@ -101,3 +101,22 @@ void test(int *param){
 }
 ```
 
+## Tablice dynamiczne
+
+Na pewno spotkać się mogliście w swojej dotychczasowej karierze programistycznej z sytuacją, w której chcieliście stworzyć tablicę, ale chcieliście, aby jej rozmiar był determinowany w trakcie działania programu. Taki problem rozwiązują tablice dynamiczne.
+
+```c++
+int *dynamicznaTablica2 = new int[5];
+```
+
+takie rozwiązanie stworzy nam tablicę o rozmiarze 5. Kluczowy jest tu operator ```new```, który zaalokuje nam odpowiedni blok pamięci. Najważniejsze jest jednak to, że dzięki temu mechanizmowi możemy stworzyć tablicę, na którą pamięć, w przeciwieństwie do tablicy statycznej, zostanie zarezerwowana w momencie wywołania:
+
+```c++
+int rozmiar = 10;
+int *dynamicznaTablica = new int[rozmiar];
+```
+ Pamiętać należy o usunięciu takiego dynamicznego elementu w momencie, w którym wiemy już, że nie będziemy go potrzebowali:
+
+```c++
+delete[] dynamicznaTablica;
+```
