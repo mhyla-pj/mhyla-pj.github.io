@@ -26,7 +26,7 @@ cout<<j<<" "<<&j<<endl;
 
 Możemy teraz w terminalu zobaczyć, gdzie te zmienne w pamięci wylądowały:
 
-```
+```nasm
 200 0x7ff7b47cf6b8
 100 0x7ff7b47cf6b4
 ```
@@ -115,6 +115,7 @@ takie rozwiązanie stworzy nam tablicę o rozmiarze 5. Kluczowy jest tu operator
 int rozmiar = 10;
 int *dynamicznaTablica = new int[rozmiar];
 ```
+
  Pamiętać należy o usunięciu takiego dynamicznego elementu w momencie, w którym wiemy już, że nie będziemy go potrzebowali:
 
 ```c++
