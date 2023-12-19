@@ -86,10 +86,11 @@ struct car{
         int year;
         double engine;
 };
-    car hylaVehicles[3] = {{"Michał", "Citroen","C4 Picasso",
-2011, 2.0},
-    {"Dad", "Citroen", "C5 Aircross", 2019, 2.0},
-{"Mom","Toyota","Yaris", 2018, 1.5}};
+    car hylaVehicles[3] = {
+        {"Michał", "Citroen","C4 Picasso",2011, 2.0},
+        {"Dad", "Citroen", "C5 Aircross", 2019, 2.0},
+        {"Mom","Toyota","Yaris", 2018, 1.5}
+        };
     for (int i=0; i<3;i++){
         cout<<hylaVehicles[i].owner<<" "
 <<hylaVehicles[i].make<<" "<<hylaVehicles[i].model<<" "
