@@ -1,7 +1,5 @@
 ---
 layout: exercise
-course: PRG
-type: stacjonarne
 topic: Punkciki
 ---
 ### Punkty z kolokwium z 05.12.2023:
