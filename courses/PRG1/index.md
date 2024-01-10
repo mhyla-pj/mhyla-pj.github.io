@@ -7,7 +7,6 @@ parent: Przedmioty
 semester: 1
 year: 2023/2024
 ---
----
 PRG1 to przedmiot poświęcony nauce programowania. Na tych zajęciach nauczymy się podstaw programowania przy użyciu języka C++. Wprowadzone zostają również elementy programowania  obiektowego. Zajęcia mają na celu rozwijanie umiejętności abstrakcyjnego myślenia i rozwiązywania prostych problemów programistycznych.
 
 
