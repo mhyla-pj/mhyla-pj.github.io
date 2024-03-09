@@ -2,7 +2,7 @@
 layout: exercise
 course: WIA2
 type:  stacjonarne
-lab_nr: 07
+lab_nr: 7
 topic: Praktyka
 ---
 Dzisiejsze zadanka proponuję realizować samodzielnie przez ok. 45 minut, potem omówimy je razem, publicznie

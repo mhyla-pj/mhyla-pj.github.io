@@ -2,7 +2,7 @@
 layout: lab
 course: WIA2
 type: [ niestacjonarne, stacjonarne ]
-lab_nr: 03
+lab_nr: 3
 subject: Pamięć
 description: Coś, czego mi ewidentnie brakuje
 ---

@@ -2,7 +2,7 @@
 layout: exercise
 course: WIA2
 type: [ niestacjonarne, stacjonarne ]
-lab_nr: 03
+lab_nr: 3
 topic: Adresowanie pamięciowe
 ---
 1. Za pomocą przerwania [int 21h/AH=0Ah](http://www.ctyme.com/intr/rb-2563.htm) wczytaj ciąg znaków, a następnie wydrukuj trzeci znak tego stringa. 

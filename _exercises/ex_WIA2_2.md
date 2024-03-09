@@ -2,7 +2,7 @@
 layout: exercise
 course: WIA2
 type: [ niestacjonarne, stacjonarne ]
-lab_nr: 02
+lab_nr: 2
 topic: Początki asemblera
 ---
 1. Napisz program, który wyświetli na terminalu literkę 'A' oraz 'g'. - 21h/AX=02h

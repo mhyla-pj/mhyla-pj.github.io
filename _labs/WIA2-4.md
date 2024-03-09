@@ -2,7 +2,7 @@
 layout: lab
 course: WIA2
 type: [ niestacjonarne, stacjonarne ]
-lab_nr: 04
+lab_nr: 4
 subject: Skoki
 description: Narciarskie też
 ---
