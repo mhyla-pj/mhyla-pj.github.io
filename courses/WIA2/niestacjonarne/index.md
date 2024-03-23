@@ -14,7 +14,7 @@ year: 2022/2023
 Przedmiot składa się z 8 laboratoriów. Na koniec semestru odbywa się jedno kolokwium teoretyczno-praktyczne. Ocena składa się w 70% z wyniku kolokwium oraz w 30% z realizowanych w trakcie zajęć zadań. 
 
 ### Rozliczanie zadań
-Zadania można również dosyłać do następnego spotkania na adres mhyla@pjwstk.edu.pl, w temacie maila umieszczając "PD_WIA2_2023". Zadania proszę przesyłać w oddzielnych plikach .asm. Nie otwieram zipów i innych skompresowanych folderów. Pliki .com nie przejdą przez gmaila.
+Zadania można również dosyłać do następnego spotkania na adres wia2-24@mhyla.com, w temacie maila umieszczając "PD_WIA2_2024". Zadania proszę przesyłać w oddzielnych plikach .asm. Nie otwieram zipów i innych skompresowanych folderów. Pliki .com nie przejdą przez gmaila.
 
 ### Przydatne linki
 - [ctyme.com](http://www.ctyme.com/intr/int.htm) - Tablica przerwań Ralpha Browna przerobiona na wersję HTML przez pana Marka Perkela. Odradzam zagłębianie się w jego historię.
