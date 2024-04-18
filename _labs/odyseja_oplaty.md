@@ -29,7 +29,7 @@ Ta opcja zakłada oba przeloty z jednogodzinnymi przesiadkami w Warszawie. Z do�
 ### C. Najgorsza opcja
 Wylot w piątek 17.05. Ceny zaczynają się od **24,500 PLN**, mnóstwo opcji do wyboru. Minus jest taki, że spędzimy cały weekend w okolicy, gdzie jest tylko kukurydza i brzydkie Chicago. 
 
-Loty te zakładają przelot z jedynie bagażem podręcznym (walizka kabinowa max 8kg) i małym plecakiem. Bagaż do luku to koszt od 300 do 450 zł za odcinek, czyli w naszym wypadku 1200-1350 zł za całość, co dodaje niestety bardzo dużo do kosztów wyjazdu.
+Loty te zakładają przelot z jedynie bagażem podręcznym (walizka kabinowa max 8kg) i małym plecakiem. Bagaż do luku to koszt od 300 do 450 zł za odcinek, czyli w naszym wypadku 900-1350 zł za całość **za osobę**, co dodaje niestety bardzo dużo do kosztów wyjazdu.
 
 # Rozliczenie
 Proponuję omówić na grupie na whatsappie, którą opcję wybieramy, a następnie po podjęciu kolektywnej decyzji poproszę o przelew:
