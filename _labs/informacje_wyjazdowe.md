@@ -7,7 +7,7 @@ nav_exclude: true
 Zostało nam coraz mniej czasu, więc poniżej przesyłam garść informacji wyjazdowych. Mam przekonanie graniczące z pewnością, że to będzie najdłuższy dokument, jaki podesłałem i zarazem ostatni przed naszym opuszczeniem kraju.
 
 ## Na początek, informacje, które są mi pilnie potrzebne:
-Proszę wszystkich Państwa o podesłanie mi (prywatnie na WhatsAppie lub na mhyla@pjwstk.edu.pl):
+Proszę wszystkich Państwa o podesłanie mi (prywatnie na WhatsAppie lub na kontakt@mhyla.com):
 1. Skanu paszportu dziecka
 2. Zestawu podstawowych informacji kontaktowych do siebie: Adres zamieszkania, e-mail, nr. telefonu
 
