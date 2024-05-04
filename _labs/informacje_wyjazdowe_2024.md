@@ -49,7 +49,7 @@ Bagaż dodatkowy to łączny koszt 894.93PLN - jeśli ktoś się zdecyduje, to p
 5. Odzież, którą można suszyć w suszarce bębnowej - na kampusie i w każdym hotelu jest pralnia, nie ma potrzeby brania ubrań na 15 dni. 
 6. Wygodne ubrania na podróż - mamy 12h w samolocie przed sobą. 
 7. Mały krem z filterm, będziemy jechali przez najbardziej nasłonecznione miejsca na półkuli północnej
-8. Nie ma potrzeby zabierania ręczników - są zapewnione w każdym hotelu, na kampusie i w NYC. Nie zabraniam, ale sam nie zabieram.
+8. Nie ma potrzeby zabierania ręczników - są zapewnione w każdym hotelu i na kampusie. Nie zabraniam, ale sam nie zabieram.
 
 ## Loty do śledzenia na flightradar24:
 1. LX1381 **GDN-ZRH** 19.05 9:35-11:25
