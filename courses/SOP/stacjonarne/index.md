@@ -15,3 +15,4 @@ Przedmiot składa się z 15 laboratoriów. Na ocenę końcową składa się w 50
 
 Zadania proszę przesyłać na adres sop2024@mhyla.com, w temacie umieszczając "PD_SOP_2024_[nr_labu]"
 
+- [Przykładowe zadania na kolokwium](../../../sop-kolo)
