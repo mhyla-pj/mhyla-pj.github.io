@@ -23,6 +23,7 @@ Przedmiot składa się z 15 laboratoriów. Na ocenę końcową składa się w 70
 [Przykładowe kolokwium](../../../assets/RBD/testRBD.pdf)
 
 ## Wyniki
+
 | Login  | SQL1 | SQL2 | SQL3 | Suma | %%  |
 | ------ | ---- | ---- | ---- | ---- | --- |
 | s32007 | 10   | 10.5 | 10   | 30.5 | 92% |
