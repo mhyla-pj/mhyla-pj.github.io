@@ -18,6 +18,7 @@ Przedmiot składa się z 15 laboratoriów. Na ocenę końcową składa się w 70
 - [Draw.io](https://app.diagrams.net/) - Narzędzie pozwalające na wygodne projektowanie diagramów ERD
 - [Mockaroo](https://mockaroo.com) - Przydatne narzędzie pozwalające na generowanie zestawów danych oraz wypełnionych tabel
 - [DataGrip](https://www.jetbrains.com/datagrip/) - IDE z obsługą wielu dialektów SQL i noSQL.
+- [Logowanie do Mongo](../../../logowanie-mongoDB) - instukcja, może przydać się na kolokwium, jak ktoś zapomniał
 
 
 [Przykładowe kolokwium](../../../assets/RBD/testRBD.pdf)
