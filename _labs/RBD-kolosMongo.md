@@ -8,6 +8,8 @@ Kolokwium składa się z 2 kolekcji, do każdej po 4 zapytania do wykonania. Roz
 
 Wszystkie zadania można wykonać korzystając z [W3Schools](https://www.w3schools.com/mongodb/index.php) oraz [Dokumentacji MongoDB](https://www.mongodb.com/docs/manual/). Każda z kolekcji zawiera 3 proste zadanie oraz jedno, które może wymagać trochę researchu w internecie, ale taki jest też cel tego kolokwium.
 
+Kolekcje do pobrania [stąd](../../../assets/RBD/kolos.json)
+
 ## Kolekcja 1 - posts
 W kolekcji znajdują się informacje dotyczące postów na forum. Układ w kolekcji:
 
