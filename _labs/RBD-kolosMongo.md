@@ -27,7 +27,7 @@ W kolekcji znajdują się informacje dotyczące postów na forum. Układ w kolek
 1. Napisz zapytanie, które będzie dodawało nowy post użytkownika o id 10, "username": "Smelly_Socks", "post_id": 1337. Tytuł i content do wymyślenia samodzielnie
 2. Napisz zapytanie, które policzy, ile postów napisał użytkownik o id 10
 3. Napisz zapytanie, które znajdzie 5 najdłuższych postów. Aby znaleźć długość posta należy przy agregacji dodać pole ($set), które będzie zawierać policzoną długość pola "content" - [$strLenCP](https://www.mongodb.com/docs/manual/reference/operator/aggregation/strLenCP/)
-4. Napisz zapytanie, które dla użytkownika od id 100 ustawi na "deleted_user".
+4. Napisz zapytanie, które dla użytkownika od id 100 ustawi "username" na "deleted_user".
 
 
 ## Kolekcja 2 - cars
