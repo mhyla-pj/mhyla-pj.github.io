@@ -8,7 +8,7 @@ grand_parent: Przedmioty
 semester: 2
 year: 2022/2023
 ---
-## [WYNIKI ZA PRZEDMIOT](../wia2-wyniki)
+## [WYNIKI ZA PRZEDMIOT](../../../wia2-wyniki)
 
 ### Zasady zaliczenia
 Przedmiot składa się z 8 laboratoriów. Na koniec semestru odbywa się jedno kolokwium teoretyczno-praktyczne. Ocena składa się w 70% z wyniku kolokwium oraz w 30% z realizowanych w trakcie zajęć zadań. 
