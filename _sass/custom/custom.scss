@@ -1,0 +1,20 @@
+/* Hide the logo on screens smaller than 768px (mobile) */
+@media only screen and (max-width: 768px) {
+    .footer-logo {
+        display: none;
+    }
+    .footer-mobile-logo{
+            max-height: 100px;
+            width: auto;
+    }
+}
+
+/* Adjust size for wider screens */
+@media (min-width: 769px) {
+    .footer-logo {
+        max-width: 270px; height: auto;
+    }
+    .footer-mobile-logo {
+        display: none;
+    }
+}
