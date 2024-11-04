@@ -14,7 +14,7 @@ subject: Instrukcja instalacji środowiska DOSBox
    ```
    - MacOS:
    ```bash
-   brew install dosbox
+   brew install dosbox-x
    ```
    - Na komputerach uczelnianych już jest zainstalowany
 
@@ -28,7 +28,7 @@ subject: Instrukcja instalacji środowiska DOSBox
    - Windows - Menu Windows -> DOSBox (Options)
    - Linux & MacOS - 
         ```bash
-        dosbox -editconf nano
+        dosbox-x -editconf nano
         ```
 I podmienić znajdującą się tam treść z treścią pobranego pliku dosbox-0.74-4.conf
 

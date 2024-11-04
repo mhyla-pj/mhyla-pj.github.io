@@ -17,14 +17,14 @@ Algorytmy sortujące są używane do uporządkowania zadanej tablicy według
 W zasadzie najprostszy z algorytmów sortujących, działający na bardzo prostej zasadzie, ale równocześnie najmniej wydajny czasowo i pamięciowo oraz nienadający się do pracy na dużych zbiorach danych. Jednak gdy cenny jest tylko nasz czas, a celem nauka programowania, to jakoś ujdzie.
 Algorytm sortowania bąbelkowego przechodzi wielokrotnie, element po elemencie przez całą tablicę i zamienia miejscami sąsiadujące ze sobą elementy, jeśli jeden jest większy od drugiego.
 
-![Bubble Sort](../_site/assets/PRG/bubblesort.png)
+![Bubble Sort](../assets/PRG/bubblesort.png)
 Ten algorytm zaimplementujemy wspólnie. Nie nadpisujcie go, przyda nam się jeszcze.
 
 ### Insertion sort - sortowanie przez wstawianie
 
 Algorytm mocno zainspirowany tym, jak układamy karty na ręce. Tablica jest „wirtualnie” podzielona na część posortowaną i nieposortowaną. Wartości z części nieposortowanej są kolejno brane i układane w odpowiednie miejsce w części posortowanej.
 
-![Insertion Sort](../_site/assets/PRG/insertionsort.png)
+![Insertion Sort](../assets/PRG/insertionsort.png)
 Ten już do zaimplementowania samodzielnego. Warto zwrócić uwagę, że ```arr[j+1]=val``` zawiera odwołanie do wartości j poza pętlą, więc nie możemy skorzystać tu ze zwykłej pętli for ze zmienną j deklarowaną wewnątrz.
 
 ## Zmiana tematu - funkcje
