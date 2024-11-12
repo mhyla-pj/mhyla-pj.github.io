@@ -5,6 +5,7 @@ type: stacjonarne
 lab_nr: 10
 subject: Przykładowe kolokwium
 description: Główne będzie podobne (albo identyczne)
+nav-exclude: true
 ---
 ### Zadanie 1
 

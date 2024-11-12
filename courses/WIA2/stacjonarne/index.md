@@ -16,6 +16,3 @@ Przedmiot składa się z 15 laboratoriów. W połowie semestru odbywa się kolok
 - [ctyme.com](http://www.ctyme.com/intr/int.htm) - Tablica przerwań Ralpha Browna przerobiona na wersję HTML przez pana Marka Perkela. Odradzam zagłębianie się w jego historię.
 - [Dokumentacja dosbox.conf](https://www.dosbox.com/wiki/Dosbox.conf)
 - [Instrukcja konfiguracji dosboxa pod zajęcia](../../../wia2-dosbox)
-
-### Punkciki i ocenki
-Wyniki za przedmiot znajdują się pod [tym linkiem](/wia2-score)

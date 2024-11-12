@@ -5,6 +5,7 @@ type: stacjonarne
 lab_nr: 8
 subject: Paint - funkcje, przerwania myszy
 description: Ho ho ho, wesołych świąt!
+nav-exclude: true
 ---
 Dziś i w następnym tygodniu zajęcia bardzo przyjemne, ponieważ pracować będziemy razem. Celem Tego bloku zajęć jest stworzenie aplikacji do rysowania, tak abyście mogli na koniec przedświątecznych zajęć narysować w własnoręcznie napisanym paincie kartkę świąteczną. Wszystkie nadające się kartki umieszczę w galerii na stronie, jak tylko wyczaję, jak tu zrobić galerię.
 

@@ -20,4 +20,3 @@ petla_1:
     ; jakies zaawansowane obliczenia
 loop petla_1
 ```
-
