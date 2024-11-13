@@ -6,7 +6,7 @@ type: stacjonarne
 course: WIA2
 grand_parent: Przedmioty
 semester: 3
-year: 2022/2023
+year: 2024/2025
 ---
 
 ### Zasady zaliczenia
