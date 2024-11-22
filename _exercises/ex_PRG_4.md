@@ -3,9 +3,9 @@ layout: exercise
 course: PRG
 type: stacjonarne
 lab_nr: 4
-topic: Pętle for, switch (do 20.10)
+topic: Pętle for, switch
 ---
-## Zadania punktowane, do 20.10.2023
+## Zadania punktowane
 
 1. Napisz program, rysujący pionową kreskę ze znaków # o wysokości wczytanej z klawiatury
 2. Napisz program rysujący pusty prostokąt ze znaków # o wymiarach 7x5
