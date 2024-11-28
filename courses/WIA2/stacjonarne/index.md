@@ -17,5 +17,7 @@ Przedmiot składa się z 15 laboratoriów. W połowie semestru odbywa się kolok
 - [Dokumentacja dosbox.conf](https://www.dosbox.com/wiki/Dosbox.conf)
 - [Instrukcja konfiguracji dosboxa pod zajęcia](../../../wia2-dosbox)
 
-### Przykładowe kolokwium
+### Przykładowe kolokwium #1
 - [Przykładowe kolokwium](https://forms.office.com/e/cnNjSgWXt0)
+
+## [WYNIKI ZA PRZEDMIOT](../../../wia2-wyniki24)
