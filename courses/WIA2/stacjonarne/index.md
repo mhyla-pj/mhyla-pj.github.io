@@ -10,7 +10,7 @@ year: 2024/2025
 ---
 
 ### Zasady zaliczenia
-Przedmiot składa się z 15 laboratoriów. W połowie semestru odbywa się kolokwium teoretyczne, a na koniec semestru kolokwium praktyczne. Ocena składa się w 50% z procentowego wyniku pierwszego kolokwium i w 50% z procentowego wyniku drugiego kolokwium.
+Przedmiot składa się z 15 laboratoriów. W połowie semestru odbywa się kolokwium teoretyczne, a na koniec semestru kolokwium praktyczne. Ocena składa się w 33% z procentowego wyniku pierwszego kolokwium i w 33% z procentowego wyniku drugiego kolokwium oraz w 33% z wyniku z zajęć.
 
 ### Przydatne linki
 - [ctyme.com](http://www.ctyme.com/intr/int.htm) - Tablica przerwań Ralpha Browna przerobiona na wersję HTML przez pana Marka Perkela. Odradzam zagłębianie się w jego historię.
