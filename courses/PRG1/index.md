@@ -24,5 +24,5 @@ Dopuszczalna będzie poprawka jednego z kolokwiów, podczas ostatnich zajęć w 
 - [W3Schools](https://www.w3schools.com/cpp/default.asp) - tutorial z podstawami C++. Bardzo przydatne do szybkiej weryfikacji podstawowych zagadnień
 - [Cpp0x.pl](https://cpp0x.pl/kursy/Kurs-C++/1) - polski kurs C++. Solidny, wszystko dobrze wyjaśnione. Dobry podział materiału - od podstaw po zaawansowane mechanizmy
 
-## Punktacja
+## Wyniki kolokwium 2024
 Dostępna pod linkiem: [Punkty](/prg-score)
