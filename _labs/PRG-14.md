@@ -64,7 +64,7 @@ for(int i=0; i<sizeof(arr)/sizeof(*ptr);i++){
 }
 ```
 
-Wykonanie powyższego kodu wydrukuje nam wszystkie elementy tablicy wraz z ich adresami. Można tu zauważyć ciekawą właściwość wskaźników, bowiem w sytuacji, gdy ptr mawartość0x7ff7ba4ae6b0, toptr+1niebędziemiałowartości...e6b1,a...e6b4,czyli zwiększenie wskaźnika o 1 tak naprawdę zwiększyło go o 4. Bierze się to z tego, że inkrementując wskaźnik nie zwiększamy zawartego w nim adresu o 1, a o rozmiar typu danego wskaźnika. W powyższym wypadku typem jest int, który ma rozmiar 4 bajtów, dlatego wskaźnik zwiększany jest o 4.
+Wykonanie powyższego kodu wydrukuje nam wszystkie elementy tablicy wraz z ich adresami. Można tu zauważyć ciekawą właściwość wskaźników, bowiem w sytuacji, gdy ptr ma wartość 0x7ff7ba4ae6b0, to ptr+1 nie będzie miało wartości ...e6b1, a ...e6b4, czyli zwiększenie wskaźnika o 1 tak naprawdę zwiększyło go o 4. Bierze się to z tego, że inkrementując wskaźnik nie zwiększamy zawartego w nim adresu o 1, a o rozmiar typu danego wskaźnika. W powyższym wypadku typem jest int, który ma rozmiar 4 bajtów, dlatego wskaźnik zwiększany jest o 4.
 
 ## Funkcje
 

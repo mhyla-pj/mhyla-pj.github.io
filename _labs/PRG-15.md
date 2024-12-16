@@ -10,10 +10,10 @@ Jak wszyscy zapewne pamiętają, tablice przechowują wiele powiązanych ze 
 
 ```c++
 int main(){
-    string marka = "Citroen";
-    string model = "C4 PIcasso";
-    int rocznik = 2011;
-    double silnik = 2.0;
+    string marka = "Skoda";
+    string model = "Karoq";
+    int rocznik = 2023;
+    double silnik = 1.5;
 return 0; }
 ```
 
@@ -26,10 +26,10 @@ string model;
 int rocznik;
 double silnik;
 } myVehicle;
-    myVehicle.marka="Citroen";
-    myVehicle.model="C4 Picasso";
-    myVehicle.rocznik=2011;
-    myVehicle.silnik=2.0;
+    myVehicle.marka="Skoda";
+    myVehicle.model="Karoq";
+    myVehicle.rocznik=2023;
+    myVehicle.silnik=1.5;
     cout<<myVehicle.marka<<" "<<myVehicle.model<<" "
 <<myVehicle.rocznik<<" "<<myVehicle.silnik;
     return 0;
@@ -39,7 +39,7 @@ W powyższym przykładzie tworzymy schemat struktury, czyli określamy, jakie 
 Deklarację struktury zakończyć należy średnikiem, ale przed nim umieściłem jeszcze nazwę zmiennej, do której się będę odnosił. To jest tzw. Unnamed struct. Stworzyliśmy teraz zmienną o nazwie myVehicle, która przechowuje 4 zmienne. Aby odwołać się konkretnie do tych pól musimy skorzystać z kropki – Jeśli chcemy odnieść się do pola „marka” struktury myVehicle napiszemy:
 
 ```c++
-myVehicle.marka="Citroen";
+myVehicle.marka="Skoda";
 ```
 
 Możemy też zadeklarować wszystko naraz:
@@ -50,7 +50,7 @@ string marka;
 string model;
 int rocznik;
 double silnik;
-} myVehicle={"Citroen","C4 Picasso", 2011, 2.0};
+} myVehicle={"Skoda","Karoq", 2023, 1.5};
 ```
 
 Można tworzyć od razu kilka zmiennych, jeżeli jednej struktury potrzebować będziemy kilkukrotnie:
@@ -63,12 +63,13 @@ Można tworzyć od razu kilka zmiennych, jeżeli jednej struktury potrzebowac
 Osobiście preferowaną przeze mnie opcją są struktury nazwane. W tym wypadku tworzymy de facto nowy typ danych, który składać się będzie z określonych w strukturze pól. W ten sposób, zamiast dla trzech pojazdów deklarować 12 zmiennych deklarujemy tylko 4:
 
 ```c++
+struct car{
         string marka;
         string model;
         int rocznik;
         double silnik;
 };
-    car myVehicle={"Citroen","C4 Picasso", 2011, 2.0};
+    car myVehicle={"Skoda","Karoq", 2023, 1.5};
     car dadsVehicle={"Citroen", "C5 Aircross", 2019, 2.0};
     cout<<myVehicle.marka<<" "<<myVehicle.model<<"
 "<<myVehicle.rocznik<<" "<<myVehicle.silnik<<endl;
@@ -87,7 +88,7 @@ struct car{
         double engine;
 };
     car hylaVehicles[3] = {
-        {"Michał", "Citroen","C4 Picasso",2011, 2.0},
+        {"Michał", "Skoda","Karoq",2023, 1.5},
         {"Dad", "Citroen", "C5 Aircross", 2019, 2.0},
         {"Mom","Toyota","Yaris", 2018, 1.5}
         };
