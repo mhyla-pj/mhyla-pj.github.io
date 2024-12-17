@@ -1,4 +1,5 @@
 ---
+layout: lab
 nav_exclude: true
 ---
 
