@@ -16,3 +16,4 @@ Galeria Sztuki Świątecznej:
 9. ![ChristmasCard](../assets/WIA2/cards/Screenshot%202024-12-16%20223045.png)
 10. ![ChristmasCard](../assets/WIA2/cards/shrek.PNG)
 11. ![ChristmasCard](../assets/WIA2/cards/kartka_świąteczno-magistralna.png)
+12. ![ChristmasCard](../assets/WIA2/cards/obraz.png)
