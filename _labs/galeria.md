@@ -24,3 +24,4 @@ Galeria Sztuki Świątecznej:
 17. ![ChristmasCard](../assets/WIA2/cards/kartka.png)
 18. ![ChristmasCard](../assets/WIA2/cards/image 2.png)
 19. ![ChristmasCard](../assets/WIA2/cards/GRINCH.PNG)
+20. ![ChristmasCard](../assets/WIA2/cards/Zrzut%20ekranu%202024-12-18%20o%2010.54.05.png)
