@@ -25,3 +25,4 @@ Galeria Sztuki Świątecznej:
 18. ![ChristmasCard](../assets/WIA2/cards/GRINCH.PNG)
 19. ![ChristmasCard](../assets/WIA2/cards/Zrzut%20ekranu%202024-12-18%20o%2010.54.05.png)
 20. ![ChristmasCard](../assets/WIA2/cards/Kartka_Mateusz_K_s27811.png)
+21. ![ChristmasCard](../assets/WIA2/cards/kartka-2.png)
