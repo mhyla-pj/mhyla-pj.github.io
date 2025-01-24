@@ -1,7 +1,7 @@
 ---
 layout: lab
 ---
-## Wyniki za przedmiot (stan na 27.11.2024)
+## Wyniki za przedmiot (stan na 24.01.2025)
 
 Aktualizacja: 20.12. Nie wszystkie zadania z paintem zostały sprawdzone.
 Aktualizacja: 24.01, po kolokwium 2 (Poza grupą piątkową)
