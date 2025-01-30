@@ -2,6 +2,28 @@
 layout: exercise
 topic: Punkciki
 ---
+## PUNKTY I OCENY
+
+| Indeks | Pkt-dom | Suma Kolos1 | Projekt | Kolos2 | %&    | Ocena |
+| ------ | ------- | ----------- | ------- | ------ | ----- | ----- |
+| s32708 | 12      | 25          | 10      | 22     | 87.0% | 4.5   |
+| s32831 | 2       | 16          |         | 0      | 15.6% | 2     |
+| s32834 | 10      | 13          | 8       | 24     | 72.7% | 5     |
+| s32994 | 9       | 36          | 10      | 23     | 91.0% | 5     |
+| s33087 | 11      | 40          | 10      | 22     | 96.4% | 5     |
+| s33314 | 9.75    | 40          | 6       | 15     | 77.7% | 4     |
+| s33370 | 3       | 10          |         | 0      | 13.0% | 2     |
+| s33379 | 12      | 36          | 8       | 18     | 86.4% | 4.5   |
+| s33388 | 8.5     | 19          | 8       | 7.5    | 54.7% | 3     |
+| s33523 | 3       | 40          | 7       | 18     | 71.1% | 4     |
+| s34215 | 10      | 31.5        | 10      | 9      | 72.6% | 4     |
+| s34334 | 1       |             |         | 0      | 1.8%  | 2     |
+| s34476 | 5       | 31          | 7       | 17     | 66.7% | 3.5   |
+| s34478 | 11      | 2           | 5       | 17     | 51.9% | 3.5   |
+| s34479 | 3       | 3           | 7       | 16     | 40.9% | 3     |
+
+W wypadku poprawiających kolokwia uwzględniony jest wynik z poprawy uśredniony z oceną z poprawianego kolokwium - z tego względu %% mogą nie zgadzać się z oceną końcową.
+
 ### Punkty z kolokwium z 06.12.2024
 
 | Indeks | Z1 | Z2 | Z3 | Z4 | Suma | %%   |
