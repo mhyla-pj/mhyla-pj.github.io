@@ -1,9 +1,9 @@
 ---
-layout: exercise
+layout: lab
 topic: Punkciki
 ---
 
-## Punktacja za przedmiot
+## Punktacja za przedmiot BSI 24/25
 
 | Indeks | % HOMEWORK | SUMA kolos | %%kolos | %% za BSI |  OCENA                  |
 | ------ | ---------- | ---------- | ------- | --------- | ----------------------- |
