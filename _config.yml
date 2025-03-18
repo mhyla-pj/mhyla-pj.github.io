@@ -1,7 +1,7 @@
 title: Hyla Repository
 description: Hyla homepage for all PJATK-related stuff!
 repository: mhyla-pj/mhyla-pj.github.io # for github-metadata
-jekyll-remote-theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs
 theme: just-the-docs
 permalink: pretty
 
