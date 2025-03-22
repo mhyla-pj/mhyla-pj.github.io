@@ -7,7 +7,7 @@ topic: Praktyka
 ---
 Dzisiejsze zadanka proponuję realizować samodzielnie przez ok. 45 minut, potem omówimy je razem, publicznie
 1. Napisz programik, który wydrukuje jedną pod drugą 12 literek H.
-2. Napisz program, który wczyta ciąg znaków używając mechanizmu pętli, np. za pomocą przerwania 21h/AH=01h, zapisując każdy znak w pamięci. Po zakończeniu pętli program ma wydrukować nową linię i wczytany tekst (można Int 21h/AH=09j)
+2. Napisz program, który wczyta ciąg znaków używając mechanizmu pętli, np. za pomocą przerwania 21h/AH=01h, zapisując każdy znak w pamięci. Po zakończeniu pętli program ma wydrukować nową linię i wczytany tekst (można użyć Int 21h/AH=09j)
 3. Zmodyfikuj poprzedni program tak, aby wypisywał tekst od 10 znaku.
 4. Korzystając z pamięci karty graficznej wyświetl w prawym dolnym rogu ostatnią cyfrę z twojego numeru indeksu. Jest 80 znaków w wierszu, oraz jest 25 wierszy.
 5. Korzystając z pamięci karty graficznej wyświetl
