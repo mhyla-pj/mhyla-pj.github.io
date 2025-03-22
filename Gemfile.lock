@@ -22,9 +22,6 @@ GEM
     google-protobuf (4.30.1-x86_64-darwin)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.30.1-x86_64-linux)
-      bigdecimal
-      rake (>= 13)
     http_parser.rb (0.8.0)
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
@@ -99,7 +96,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3)
   just-the-docs (~> 0.10.1)
-  sass-embedded (~> 1.86)
   webrick
 
 BUNDLED WITH
