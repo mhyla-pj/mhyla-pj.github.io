@@ -1,4 +1,4 @@
-      ---
+---
 layout: exercise
 course: SOP
 type: stacjonarne

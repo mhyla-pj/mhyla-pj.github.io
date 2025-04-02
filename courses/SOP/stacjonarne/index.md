@@ -5,7 +5,7 @@ course: SOP
 type: stacjonarne
 parent: Przedmioty
 semester: 4
-year: 2022/2023
+year: 2024/2025
 ---
 
 SOP jest przedmiotem poświęconym systemom operacyjnym. W toku przedmiotu poznamy tajniki zarządzania i działania systemu Linux, a na koniec nawet napiszemy prostą wersję własnego systemu operacyjnego na wybranej architekturze. 
