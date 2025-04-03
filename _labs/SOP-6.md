@@ -79,6 +79,7 @@ Po utworzeniu dziecka proces rodzic może:
 - Czeka, aż jakikolwiek proces potomny zakończy się.
 - Zwraca PID zakończonego procesu.
 - Przykład:
+  
 ```c
 #include <sys/wait.h>
 
