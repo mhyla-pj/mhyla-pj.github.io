@@ -34,7 +34,7 @@ Jeśli uważacie Państwo, że dokument powinien zostać potwierdzony notarialni
 
 Maksymalny bagaż dopuszczalny w liniach Lufthansa i United:
 
-- 1x bagaż kabinowy max. 8kg 55x40x23cm (walizka kabinowa)
+- 1x bagaż kabinowy  55x40x23cm (walizka kabinowa) max. 8kg
 - 1x przedmiot osobisty max. 40x30x10cm (niewielki plecak) - koniecznie miękki
 ### 🎒Wszyscy powinni mieć ze sobą 
 
@@ -46,7 +46,7 @@ Maksymalny bagaż dopuszczalny w liniach Lufthansa i United:
 6. Wygodne ubrania na podróż - mamy 12h w samolocie przed sobą.
 7. Mały krem z filtrem, nigdy w życiu nie spaliłem się tak jak w zimne popołudnie w NYC.
 
-Nie ma potrzeby pakowania ręczników - Każdy hotel oraz kampus wyposażone są w ręczniki w dużej ilości. Pakujemy się na 6-8 dni. W każdym mieście poza NYC oraz na kampusie będziemy mieli możliwość zrobienia prania. Ważne jest, aby spakowana odzież przetrwała suszenie w suszarce bębnowej. Na potrzeby konkursowe każdy otrzyma od nas 4 koszulki!
+Nie ma potrzeby pakowania ręczników - Każdy hotel oraz kampus wyposażone są w ręczniki w dużej ilości. Pakujemy się na 6-8 dni. W każdym mieście poza NYC oraz na kampusie będziemy mieli możliwość zrobienia prania. Ważne jest, aby spakowana odzież przetrwała suszenie w suszarce bębnowej. Na potrzeby konkursowe każdy otrzyma od nas 5 koszulek, w tym 4 bardzo piękne, żółte!
 ## ✈️ Loty do śledzenia na Flightradar24: 
 
 Loty do USA, niedziela, 18.05:
