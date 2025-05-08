@@ -45,8 +45,10 @@ Maksymalny bagaż dopuszczalny w liniach Lufthansa i United:
 5. Odzież, którą można suszyć w suszarce bębnowej.
 6. Wygodne ubrania na podróż - mamy 12h w samolocie przed sobą.
 7. Mały krem z filtrem, nigdy w życiu nie spaliłem się tak jak w zimne popołudnie w NYC.
+8. Przejściówkę na amerykańską wtyczkę - europejskie ładowarki do telefonów będą działać, wystarczy przejściówka!
 
-Nie ma potrzeby pakowania ręczników - Każdy hotel oraz kampus wyposażone są w ręczniki w dużej ilości. Pakujemy się na 6-8 dni. W każdym mieście poza NYC oraz na kampusie będziemy mieli możliwość zrobienia prania. Ważne jest, aby spakowana odzież przetrwała suszenie w suszarce bębnowej. Na potrzeby konkursowe każdy otrzyma od nas 5 koszulek, w tym 4 bardzo piękne, żółte!
+Nie ma potrzeby pakowania ręczników - Każdy hotel oraz kampus wyposażone są w ręczniki w dużej ilości. Pakujemy się na 6-8 dni. W każdym mieście poza NYC oraz na kampusie będziemy mieli możliwość zrobienia prania. Ważne jest, aby spakowana odzież przetrwała suszenie w suszarce bębnowej. Na potrzeby konkursowe każdy otrzyma od nas 5 koszulek, w tym 4 bardzo piękne, żółte! Z puntu widzenia dbania o włosy, bo wiem, że to ważna sprawa w kontekście zdjęć, jadą z nami dwie suszarki oraz prostownica na amerykańskie napięcie. 
+
 ## ✈️ Loty do śledzenia na Flightradar24: 
 
 Loty do USA, niedziela, 18.05:
