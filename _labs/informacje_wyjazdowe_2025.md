@@ -1,6 +1,6 @@
 ---
 layout: lab
-subject: 🇺🇸 sInformacje wyjazdowe 2025 🇺🇸
+subject: 🇺🇸 Informacje wyjazdowe 2025 🇺🇸
 ---
 Zostało nam coraz mniej czasu, więc poniżej przesyłam garść informacji wyjazdowych. Dokument jest dość długi, ale zawiera dość ważne informacje o tym, co należy zabrać, jak się przygotować, czego nie pakować i jak będzie wyglądała nasza delegacja
 
