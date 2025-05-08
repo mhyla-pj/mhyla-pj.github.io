@@ -1,6 +1,8 @@
- 
 ---
+layout: lab
+subject: Informacje wyjazdowe 2024
 
+---
 Zostało nam coraz mniej czasu, więc poniżej przesyłam garść informacji wyjazdowych. Dokument jest dość długi, ale zawiera dość ważne informacje o tym, co należy zabrać, jak się przygotować, czego nie pakować i jak będzie wyglądała nasza delegacja
 
 ## 👮🏾‍♂️Aby wjechać do USA i wziąć udział w konkursie każdy musi posiadać: 
