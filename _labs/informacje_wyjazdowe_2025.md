@@ -7,7 +7,7 @@ Zostało nam coraz mniej czasu, więc poniżej przesyłam garść informacji wyj
 ## 👮🏾‍♂️Aby wjechać do USA i wziąć udział w konkursie każdy musi posiadać: 
 
 - Ważny paszport, na który wypełniona była ESTA
-- 1 szt. Wypełnione i wydrukowane [upoważnienie do podróży bez rodzica](https://mhyla.com/assets/Odyseja/2k25/Minor-Child-Travel-Consent-Form.pdf)(podpisane przez obojga rodziców!) wraz z kserokopiami paszportów lub dowodów osobistych rodziców - tylko niepełnoletni
+- 1 szt. Wypełnione i wydrukowane [upoważnienie do podróży bez rodzica](https://mhyla.com/assets/Odyseja/2k25/Minor-Travel-Consent-Form.pdf)(podpisane przez obojga rodziców!) wraz z kserokopiami paszportów lub dowodów osobistych rodziców - tylko niepełnoletni
 - 1 szt. Wypełnione, wydrukowane i podpisane [Insurance Waiver](https://mhyla.com/assets/Odyseja/2k25/WF25_Insurance-Waiver.pdf)
 - 1 szt. Wypełnione, wydrukowane i podpisane [Media Release](https://mhyla.com/assets/Odyseja/2k25/WF25_Media-Release.pdf)
 - 2 szt. Wypełnione, wydrukowane i podpisane [Medical Release](https://mhyla.com/assets/Odyseja/2k25/WF25_Medical-Release.pdf)
