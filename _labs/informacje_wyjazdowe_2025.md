@@ -47,21 +47,30 @@ Maksymalny bagaż dopuszczalny w liniach Lufthansa i United:
 7. Mały krem z filtrem, nigdy w życiu nie spaliłem się tak jak w zimne popołudnie w NYC.
 8. Przejściówkę na amerykańską wtyczkę - europejskie ładowarki do telefonów będą działać, wystarczy przejściówka!
 
-Nie ma potrzeby pakowania ręczników - Każdy hotel oraz kampus wyposażone są w ręczniki w dużej ilości. Pakujemy się na 6-8 dni. W każdym mieście poza NYC oraz na kampusie będziemy mieli możliwość zrobienia prania. Ważne jest, aby spakowana odzież przetrwała suszenie w suszarce bębnowej. Na potrzeby konkursowe każdy otrzyma od nas 5 koszulek, w tym 4 bardzo piękne, żółte! Z puntu widzenia dbania o włosy, bo wiem, że to ważna sprawa w kontekście zdjęć, jadą z nami dwie suszarki oraz prostownica na amerykańskie napięcie. 
+Nie ma potrzeby pakowania ręczników - Każdy hotel oraz kampus wyposażone są w ręczniki w dużej ilości. Pakujemy się na 6-8 dni. W każdym mieście poza NYC oraz na kampusie będziemy mieli możliwość zrobienia prania. Ważne jest, aby spakowana odzież przetrwała suszenie w suszarce bębnowej. Na potrzeby konkursowe każdy otrzyma od nas 5 koszulek, w tym 4 bardzo piękne, żółte! Z puntu widzenia dbania o włosy, bo wiem, że to ważna sprawa w kontekście zdjęć, jadą z nami dwie suszarki oraz prostownica na amerykańskie napięcie.
 
-## ✈️ Loty do śledzenia na Flightradar24: 
+## ✈️ Loty do śledzenia na Flightradar24
 
 Loty do USA, niedziela, 18.05:
-### Grupa 1:
+
+### Grupa 1
+
 Z Jankiem lecą: Filip, Bartek, Felix, Konrad, Julia, Marlena, Tomek, Kuba
+
 - **LH 1383** - GDN-FRA 6:25-8:10
-### Grupa 2:
+  
+### Grupa 2
 Z Michałem lecą: Krystian, Emilia, Milena, Ania, Dominika
+
 - **LH 1647** - GDN-MUC 6:00-7:35
 - **LH 97** - MUC-FRA 8:30-9:30
-### Wszyscy razem:
+  
+### Wszyscy razem
+
 - **LH 430** - FRA-ORD 10:50-12:55
-Powrót 01-02.06:
+  
+### Powrót 01-02.06
+
 - **UAL 42** - EWR-FRA 20:00-9:45
 - **LH 1380** - FRA-GDN 16:00-17:30
 
@@ -126,8 +135,7 @@ Detroit to miasto, które w 40 lat przeszło drogę od najbogatszego do najbiedn
 Nocujemy w miejscowości London, ok. 2h samochodem od Toronto. Wycieczkę zaczynamy od zwiedzania Toronto, tu do zobaczenia mamy downtown, Kensington Market, Distillery District. W Toronto jest też fantastyczne, acz bardzo drogie akwarium. Ok. godziny 17 kierujemy się na południe, w kierunku Niagara Falls aby złapać nad wodospadami jeszcze trochę światła. Spędzamy nad Niagarą (po kanadyjsiej stronie) wieczór, jeśli pogoda dopisze to poczekamy do pokazu fajerwerków i kierujemy się do USA.
 
 ## Boston
-Po całym dniu spędzonym w trasie docieramy do Bostonu. W Bostonie mamy trochę więcej czasu, więc na pewno przejdziemy się po North Endzie, West Endzie, Financial District, zobaczymy miejsce *Bostońskiego parzenia herbaty*, spędzimy czas na Waterfroncie. Przejdziemy się Freedom Trailem, aby dokładniej poznać historię amerykańskiej rewolucji. Jeśli czas pozwoli, to możemy odwiedzić uniwersytet Harvarda i znajdujące się tam Muzeum Historii Naturalnej. Śpimy w Foxborough, niedaleko stadionu New England Patriots, sześciokrotnych zwycięzców Superbowl, również możemy zwiedzić.
+Po całym dniu spędzonym w trasie docieramy do Bostonu. W Bostonie mamy trochę więcej czasu, więc na pewno przejdziemy się po North Endzie, West Endzie, Financial District, zobaczymy miejsce *Bostońskiego parzenia herbaty*, spędzimy czas na Waterfroncie. Przejdziemy się Freedom Trailem, aby dokładniej poznać historię amerykańskiej rewolucji. Jeśli czas pozwoli, to możemy odwiedzić uniwersytet Harvarda i znajdujące się tam Muzeum Historii Naturalnej. Śpimy w Foxborough, niedaleko stadionu New England Patriots, sześciokrotnych zwycięzców Superbowl, również możemy zwiedzić. W Bostonie możemy również spróbować wybrać się na Whale Watching Tour organizowany przez bostońskie akwarium - okazja na zobaczenie z bliska humbaków i dużej ilości delfinów - $80, do przedyskutowania
 
 ### Nowy Jork
-W Nowym Jorku atrakcji jest tak dużo, że czego byśmy nie zobaczyli, to i tak będzie mało. Pośród punktów obowiązkowych na pewno umieścić należy 9/11 Memorial, rejs na Staten Island, by zobaczyć Statuę Wolności, spacer po Central Parku, Met Museum, MoMA, czy widok na Brooklyn Brigde z DUMBO. Zdecydowanie warto również wjechać na Empire State Building, by zobaczyć panoramę Manhattanu, dla zainteresowanych możemy również wyprawić się na USS Intrepid zobaczyć wahadłowiec i Concorde'a oraz do muzeum nowojorskiego metra. 
-
+W Nowym Jorku atrakcji jest tak dużo, że czego byśmy nie zobaczyli, to i tak będzie mało. Pośród punktów obowiązkowych na pewno umieścić należy 9/11 Memorial, rejs na Staten Island, by zobaczyć Statuę Wolności, spacer po Central Parku, Met Museum, MoMA, czy widok na Brooklyn Brigde z DUMBO. Zdecydowanie warto również wjechać na Empire State Building, by zobaczyć panoramę Manhattanu, dla zainteresowanych możemy również wyprawić się na USS Intrepid zobaczyć wahadłowiec i Concorde'a oraz do muzeum nowojorskiego metra.
