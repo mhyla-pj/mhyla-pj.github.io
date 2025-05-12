@@ -15,6 +15,14 @@ Zostało nam coraz mniej czasu, więc poniżej przesyłam garść informacji wyj
 
 Te dokumenty (poza paszportem) zbierzemy od wszystkich i zweryfikujemy na lotnisku w Gdańsku.
 
+### Dane do dokumentów dla Odysei
+
+MEMBERSHIP NAME: I Liceum Ogolnoksztalcace – Gdansk TM A
+MEMBERSHIP NUMBER: 76687274
+STATE: PD
+GRADE: 11 (3 klasa LO) lub 10 (2 klasa LO)
+COACH'S NAME: Jan Lis
+
 ### Temat ciężki - upoważnienia do podróży bez rodzica
 Przez 6 wyjazdów z niepełnoletnimi uczestnikami do USA nigdy w życiu nikt nie zapytał mnie o przedstawienie rzeczonych zgód, jednak warto przynajmniej posłuchać się zaleceń z rządowych stron krajów, do których będziemy wjeżdżać i opuszczać. Załączony powyżej i wymagany formularz zgody na podróż bez rodzica spełnia przedstawiane przez straże graniczne wszystkich krajów warunki.
 
