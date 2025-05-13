@@ -22,6 +22,14 @@ Te dokumenty (poza paszportem) zbierzemy od wszystkich i zweryfikujemy na lotnis
 - STATE: PD
 - GRADE: 11 (3 klasa LO) lub 10 (2 klasa LO)
 - COACH'S NAME: Jan Lis
+- Insurance Information - Primary
+  - Policy Holder’s Name: Jan Lis
+  - Policy Holder’s DoB: 2004-06-24
+  - Relationship to participant: Coach
+  - Insurance Company Name: Ergo Hestia
+  - Policy #: 909013611121
+  - Insurance Company phone: +48 58 555 5 555
+  - Insurance Company address: Hestii 1, 81-731 Sopot, Poland
 
 ### Temat ciężki - upoważnienia do podróży bez rodzica
 Przez 6 wyjazdów z niepełnoletnimi uczestnikami do USA nigdy w życiu nikt nie zapytał mnie o przedstawienie rzeczonych zgód, jednak warto przynajmniej posłuchać się zaleceń z rządowych stron krajów, do których będziemy wjeżdżać i opuszczać. Załączony powyżej i wymagany formularz zgody na podróż bez rodzica spełnia przedstawiane przez straże graniczne wszystkich krajów warunki.
