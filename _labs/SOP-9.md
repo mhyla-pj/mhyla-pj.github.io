@@ -2,7 +2,7 @@
 layout: lab
 course: SOP
 type: stacjonarne
-lab_nr: 09
+lab_nr: 9
 subject: Wątki
 description: 
 ---
