@@ -1,5 +1,6 @@
 ---
 nav_exclude: true
+layout: lab
 ---
 
 Poniżej znajdziecie wyniki za przedmiot. Jeśli uważacie, że zostaliście w którymś miejscu niesprawiedliwie ocenieni (np. Wysłaliście kolokwium, a tu nie ma oceny), lub jakieś z zadań nie zostało ocenione, to na mój adres mailowy można składać zażalenia, odniosę się do wszystkich w stosownym czasie (tzn. ASAP).

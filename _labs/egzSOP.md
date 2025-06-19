@@ -1,5 +1,6 @@
 ---
 nav-exclude: true
+layout: lab
 ---
 
 # 🧠 Zestaw zagadnień omawianych w ramach przedmiotu
