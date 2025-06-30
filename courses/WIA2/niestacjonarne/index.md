@@ -21,5 +21,5 @@ Zadania można rozliczać osobiście podczas zajęć.
 - [Instrukcja konfiguracji dosboxa pod zajęcia](../../../wia2-dosbox)
 
 
-### [Wyniki](../../..wia2-wyniki)
+### [Wyniki](/wia2-wyniki)
 
