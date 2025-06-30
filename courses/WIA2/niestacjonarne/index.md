@@ -21,4 +21,5 @@ Zadania można rozliczać osobiście podczas zajęć.
 - [Instrukcja konfiguracji dosboxa pod zajęcia](../../../wia2-dosbox)
 
 
-### [Próbne kolokwium](https://forms.cloud.microsoft/e/UPXBHUHGts)
+### [Wyniki](../../..wia2-wyniki)
+
