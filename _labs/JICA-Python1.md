@@ -27,7 +27,7 @@ Poniższy schemat blokowy reprezentuje program, którego jedynym zadaniem jest w
 
  ```mermaid
 flowchart TD
-    A([Start]) --> B[/Wypisz "Witaj w świecie programowania!"/]
+    A([Start]) --> B["Wypisz Witaj w świecie programowania!"]
     B --> C([Koniec])
 ```
 
