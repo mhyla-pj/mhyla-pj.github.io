@@ -3,7 +3,8 @@ layout: lab
 course: Python
 type: stacjonarne
 lab_nr: 1
-topic: Hello World, czyli pierwsze zadania
+subject: Hello World!
+description: Pierwsze kroki w programowaniu
 ---
 
 Na samym początku musimy określić, co rozumiemy poprzez pojęcie "programowania". Możemy je zdefiniować, jako proces tworzenia **programu komputerowego** przy użyciu **kodu źródłowego**, czyli takiego zrozumiałego dla człowieka, tłumaczonego przez komputer na **kod wynikowy** - taki, który komputer jest w stanie **wykonać**. 
