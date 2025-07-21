@@ -216,6 +216,7 @@ Specjalne operacje porównawcze dostępne w pythonie zwracają wartości True al
 | **Logiczne**   | `and`        | Logic AND (oba warunki muszą być prawdziwe) | `True and False → False` |
 |                | `or`         | Logic OR (jeden warunek prawdziwy)          | `True or False → True`   |
 |                | `not`        | Negacja logiczna                            | `not True → False`       |
+
 Dobrą metodą sprawdzenia, czy nasza logika działa jest próba wydrukowania wyniku:
 
 ```python
