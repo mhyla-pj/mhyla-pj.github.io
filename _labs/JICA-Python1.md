@@ -245,6 +245,6 @@ Dzieci do 4 lat mają **wstęp za darmo**.
 
 **Twoje zadanie:**
 - Zapytaj użytkownika o **wiek**,
-- zapytaj, czy jest **studentem** (`tak/nie`),
+- zapytaj, czy jest **studentem** do 26 roku życia (`tak/nie`),
 - zapytaj o **dzień tygodnia** (np. „poniedziałek”),
 - wyświetl kwotę do zapłaty po uwzględnieniu ewentualnej zniżki.
