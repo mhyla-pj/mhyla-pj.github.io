@@ -1,6 +1,7 @@
 ---
 layout: lab
 course: Python
+type: stacjonarne
 lab_nr: 1
 topic: Hello World, czyli pierwsze zadania
 ---
