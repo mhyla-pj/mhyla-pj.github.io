@@ -1,7 +1,9 @@
 ---
 title: JICA x PJATK - Python
 layout: club
+club: Python
 course: Python
+type: stacjonarne
 year: 2025
 ---
 Strona domowa kursu programowania w jeżyku Python organizowanego przez JICA przy współpracy z PJATK. 
