@@ -111,12 +111,14 @@ b = input("Napisz coś!")
 
 Gdy używamy funkcji ```input()``` program się zatrzyma do momentu wpisania danych i wciśnięcia klawisza "Enter". Warto zwrócić tutaj uwagę, że funkcja ```input()``` z założenia przyjmuje zmienne typu **string**, czyli ciągi znaków - jeśli chcielibyśmy wprowadzić dane w innym typie musimy dokonać **rzutowania**, czyli procesu zmiany jednego typu danych na inny.
 
+
 | **Typ danych** | **Funkcja konwersji** | **Przykład użycia**           | **Opis**                                                      |
 | -------------- | --------------------- | ----------------------------- | ------------------------------------------------------------- |
 | `int`          | `int(x)`              | `int("42") → 42`              | Konwertuje na liczbę całkowitą (obcina część dziesiętną).     |
 | `float`        | `float(x)`            | `float("3.14") → 3.14`        | Konwertuje na liczbę zmiennoprzecinkową.                      |
 | `str`          | `str(x)`              | `str(42) → "42"`              | Konwertuje na napis (string).                                 |
 | `bool`         | `bool(x)`             | `bool(0) → False`             | Konwertuje na wartość logiczną (`0`, `""`, `None` → `False`). |
+
 
 ```python
 # 1. Na int
