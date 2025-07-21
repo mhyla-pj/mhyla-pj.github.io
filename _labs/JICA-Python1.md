@@ -1,6 +1,7 @@
 ---
 layout: lab
 course: Python
+club: Python
 lab_nr: 1
 topic: Hello World, czyli pierwsze zadania
 ---
