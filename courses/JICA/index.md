@@ -1,7 +1,6 @@
 ---
 title: JICA x PJATK - Python
-layout: club
-club: Python
+layout: course
 course: Python
 type: stacjonarne
 year: 2025
