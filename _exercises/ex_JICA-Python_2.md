@@ -7,9 +7,9 @@ topic: Zadania trochę trudniejsze - te oceniamy!
 ---
 ### Zadanie domowe 1: Sklep i koszyk zakupowy
 Napisz program, który:  
-1. Ma zdefiniowaną **listę** dostępnych produktów w sklepie, np.:  
+1. Ma zdefiniowaną **tuplę** 10 dostępnych produktów w sklepie, np.:  
    ```python
-   produkty = ["mleko", "chleb", "masło", "ser", "jabłka"]
+   produkty = ()"mleko", "chleb", "masło", "ser", "jabłka")
    ```  
 2. Poprosi użytkownika o dodanie **3 produktów** do koszyka (wczytaj z `input()` i dodaj do listy `koszyk`).  
 3. Sprawdzi, czy każdy wybrany produkt znajduje się w ofercie sklepu. Jeśli nie, wypisze komunikat: *„Produkt X jest niedostępny”*.  
@@ -27,7 +27,7 @@ Napisz program, który analizuje komentarze z ankiety:
 ---
 
 ### Zadanie domowe 3: Statystyka ocen pracowników
-Firma przeprowadziła test dla nowych pracowników. Wyniki zapisano w **tupli**:  
+Firma przeprowadziła test wiedzy dla nowych pracowników. Wyniki zapisano w **tupli**:  
 ```python
 wyniki = (45, 67, 82, 90, 55, 74, 100, 61)
 ```  
