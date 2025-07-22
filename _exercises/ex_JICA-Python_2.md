@@ -2,8 +2,8 @@
 layout: exercise
 course: Python
 type: stacjonarne
-lab_nr: 1
-topic: Proste, przyjemne zadania
+lab_nr: 2
+topic: Zadania trochę trudniejsze - te oceniamy!
 ---
 ### Zadanie domowe 1: Sklep i koszyk zakupowy
 Napisz program, który:  
