@@ -14,6 +14,7 @@ Do sprawdzania warunków w instrukcjach `if` wykorzystujemy wyrażenia, które z
 ---
 
 ## Operatory porównania
+
 | Operator | Przykład      | Wynik      |
 |----------|---------------|------------|
 | `==`     | `3 == 3`      | `True`     |
@@ -23,14 +24,17 @@ Do sprawdzania warunków w instrukcjach `if` wykorzystujemy wyrażenia, które z
 | `>=`     | `3 >= 3`      | `True`     |
 | `<=`     | `4 <= 2`      | `False`    |
 
+
 ---
 
 ## Operatory logiczne
+
 | Operator | Znaczenie                | Przykład                   | Wynik     |
 |----------|--------------------------|----------------------------|-----------|
 | `and`    | oba warunki prawdziwe    | `True and False`           | `False`   |
 | `or`     | co najmniej jeden prawdziwy | `True or False`        | `True`    |
 | `not`    | negacja                  | `not True`                 | `False`   |
+
 
 ---
 
