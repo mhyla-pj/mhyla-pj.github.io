@@ -20,82 +20,49 @@ Dowiedzieliśmy się, czym jest **programowanie** – proces tworzenia programu 
 Pierwszym poznanym poleceniem była funkcja `print()`, która służy do wyświetlania komunikatów na ekranie.
 
 ```python
-
 print("Hello World!")
-
 ```
-
 Powyższy kod wypisze na ekranie: `Hello World!`.
-
-  
 
 Omówiliśmy pojęcie **zmiennych** i typów danych. Zmienna to nazwana przestrzeń w pamięci, w której można przechowywać dane różnego typu, np. liczby całkowite (`int`), liczby zmiennoprzecinkowe (`float`), napisy (`str`) czy wartości logiczne (`bool`).
 
 ```python
-
 a = 10 # int
-
 b = "tekst" # str
-
 c = 3.14 # float
-
 d = True # bool
-
 ```
-
-  
 
 Poznaliśmy **konwersję typów danych** przy użyciu funkcji `int()`, `float()` i `str()`.
 
 ```python
-
 wiek = int(input("Podaj swój wiek: "))
-
 ```
 
 Tutaj wczytujemy dane od użytkownika (zawsze jako tekst) i konwertujemy je na liczbę całkowitą.
 
-  
-
 Wprowadziliśmy także **operatory arytmetyczne** (`+`, `-`, `*`, `/`, `//`, `%`, `**`) i omówiliśmy kolejność wykonywania działań.
 
 ```python
-
 print((3 - 5) * 2) # Wynik: -4
-
 ```
-
-  
 
 Kolejnym tematem były **instrukcje warunkowe**, które pozwalają na podejmowanie decyzji w kodzie.
 
 ```python
-
 if wiek < 18:
-
-print("Niepełnoletni")
-
+	print("Niepełnoletni")
 else:
-
-print("Pełnoletni")
-
+	print("Pełnoletni")
 ```
-
-  
 
 Na koniec poznaliśmy podstawowe algorytmy do samodzielnego rozwiązania – sprawdzanie znaku liczby, porównywanie dwóch wartości czy wypisywanie liczb w pętli (na razie te pętle były omówione teoretycznie).
 
-  
-
 Pierwsze laboratorium zakończyliśmy kilkoma prostymi zadaniami praktycznymi, w których wykorzystaliśmy `input()`, zmienne i instrukcje `if`.
-
-  
 
 # Pętle
 
 Na poprzednim spotkaniu omówiliśmy sobie instrukcje warunkowe - z jednego rombu sprawdzającego pełnienie warunku mogliśmy przejść w jedną z dwóch dróg - True albo False. Jednakże, każda z tych dróg prowadziła nas dalej w kierunku znacznika końca programu
-
-  
 
 ```mermaid
 
@@ -115,11 +82,7 @@ E --> F([Koniec])
 
 ```
 
-  
-
 Ale tak naprawdę nie ma żadnej zasady mówiącej, że w wykonaniu programu zawsze trzeba poruszać się ze strzałkami w kierunku końca. W pełni dopuszczalne jest cofnięcie się o kilka instrukcji i wykonanie jednego bloku instrukcji nie jeden a 5, 7, 100 czy nawet ∞ razy. Na poniższym diagramie możemy to bardzo dobrze zobaczyć:
-
-  
 
 ```mermaid
 
@@ -147,13 +110,10 @@ i ten zestaw instrukcji będziemy wykonywać wielokrotnie, tak długo, aż warun
 
 ```python
 i = 1  # Ustaw i = 1
-
 while i <= 5:  # Dopóki i <= 5
     print(i)   # Wypisz i
     i += 1     # Zwiększ i o 1
-
 print("Koniec")  # Koniec programu
-
 ```
 
 To w zasadzie tyle, jeśli chodzi o sam koncept pętli - sama idea jest bardzo prosta, ale z punktu widzenia programistycznego jest to potężne narzędzie, którego użycie jest podstawą działania wielu programów
@@ -163,7 +123,7 @@ Co do zasady, w większości języków programowania rozróżniamy dwa rodzaje p
 ```python
 i = 1  
 while i < 6:  
-  print(i)  
+	print(i)  
 ```
 
 Tak jak to robiliśmy na poprzednich zajęciach, wartość zmiennej możemy zmienić w bardzo prosty sposób - na przykład operacja *inkrementacji*, czyli zwiększenia wartości zmiennej o 1 to `a = a + 1`. Jednak są prostsze sposoby na osiągnięcie tego samego celu - w poniższej tabeli znajduje się zestaw wszystkich operatorów służących do przypisania nowej wartości do istniejącej zmiennej korzystając z zapisanej tam wcześniej wartości. 
@@ -178,6 +138,7 @@ Tak jak to robiliśmy na poprzednich zajęciach, wartość zmiennej możemy zmie
 |                 | `//=`        | Dzielenie całkowite i przypisanie | `x //= 2`              |
 |                 | `%=`         | Reszta i przypisanie              | `x %= 2`               |
 |                 | `**=`        | Potęguj i przypisz                | `x **= 2`              |
+
 Pętle while obsługują 3 dodatkowe *statementy*, które pozwalają na precyzyjne sterowaniem wykonania programu.
 
 ### Continue
@@ -190,9 +151,7 @@ while i < 6:
     if i % 2 == 0:
         continue  # Przejdź do kolejnej iteracji
     print(i)
-
 # Wynik: 1, 3, 5
-
 ```
 
 ### Break
