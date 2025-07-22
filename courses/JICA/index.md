@@ -10,8 +10,8 @@ Tutaj będą pojawiać się przydatne linki, ogłoszenia, materiały i zadania. 
 
 ## Cheatsheety i dodatkowe materiały
 
-- [If-Else-Loops](/JICA-if-loops)
-- [Logika Boola](/JICA-bool)
+- [If-Else-Loops](/jica-if-loops)
+- [Logika Boola](/jica-bool)
 
 ## Przydatne linki
 ### Materiały edukacyjne
