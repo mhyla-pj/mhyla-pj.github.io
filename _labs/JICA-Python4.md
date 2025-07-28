@@ -42,3 +42,7 @@ I tak dalej - faza planowania zazwyczaj jest nudna, żmudna i kroki, które wypr
 ### Implementacja
 
 Krok najprostszy do opisania: po prostu implementujemy po kolei funkcjonalności opisane we wcześniejszym etapie, pamiętając o tym, aby po każdej zaimplementowanej funkcjonalności przetestować program, czy działa tak, jak byśmy tego na danym etapie jego rozwoju oczekiwali. 
+
+**Krok 1** -> analiza kroku -> implementacja kroku -> test, czy działa -> **analiza kroku 2** -> implementacja kroku 2 -> test, czy krok 2 działa -> test, czy krok 1 + krok 2 działają -> itd....
+
+
