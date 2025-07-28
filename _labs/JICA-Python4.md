@@ -46,3 +46,67 @@ Krok najprostszy do opisania: po prostu implementujemy po kolei funkcjonalności
 **Krok 1** -> analiza kroku -> implementacja kroku -> test, czy działa -> **analiza kroku 2** -> implementacja kroku 2 -> test, czy krok 2 działa -> test, czy krok 1 + krok 2 działają -> itd....
 
 
+## Plan implementacji kalkulatora konsolowego (Python)
+
+### 1. Przygotowanie środowiska
+- Utwórz nowy plik `kalkulator.py`.
+- Ustal strukturę programu (funkcje, zmienne globalne np. do historii).
+
+---
+
+### 2. Implementacja podstawowych operacji matematycznych
+Dla każdej operacji tworzona jest osobna funkcja:
+- `dodaj(a, b)` – zwraca sumę `a + b`.
+- `odejmij(a, b)` – zwraca różnicę `a - b`.
+- `pomnoz(a, b)` – zwraca iloczyn `a * b`.
+- `podziel(a, b)` – zwraca wynik `a / b` (z kontrolą dzielenia przez zero).
+- `potega(a, b)` – zwraca wynik `a ** b`.
+
+---
+
+### 3. Funkcja obsługująca pojedyncze wyrażenie
+- Napisz funkcję `wykonaj_operacje(wyrazenie: str)`, która:
+  1. Dzieli wprowadzone wyrażenie po spacjach, np. `"2 + 3" → ['2', '+', '3']`.
+  2. Konwertuje liczby na typ `float`.
+  3. Sprawdza, jaki operator został wpisany (`+`, `-`, `*`, `/`, `^`).
+  4. Wywołuje odpowiednią funkcję matematyczną.
+  5. Zwraca wynik.
+
+---
+
+### 4. Funkcja do pobierania wejścia od użytkownika
+- Utwórz funkcję `pobierz_wejscie()`, która:
+  - Pobiera tekst z `input()`.
+  - Sprawdza, czy nie wpisano komendy specjalnej (`exit`, `history`, `clear`).
+  - Przekazuje wyrażenie do `wykonaj_operacje()`.
+
+---
+
+### 5. Historia działań
+- Utwórz listę `history = []`.
+- Po każdej operacji dodawaj wpis w formacie `"2 + 3 = 5"`.
+- Dodaj obsługę komendy `history`:
+  - Funkcja `pokaz_historie()` wypisuje całą historię działań.
+
+---
+
+### 6. Obsługa błędów
+- W `wykonaj_operacje()` dodaj `try/except`:
+  - Obsłuż błąd dzielenia przez zero.
+  - Obsłuż błędne dane (np. `ValueError` gdy ktoś wpisze literę zamiast liczby).
+  - Wypisz komunikat, ale nie przerw program.
+
+---
+
+### 7. Główna pętla programu
+- Utwórz funkcję `main()`, która:
+  - W pętli `while True` pobiera wejście od użytkownika.
+  - Kończy działanie po wpisaniu `exit` lub `quit`.
+  - Wywołuje `pobierz_wejscie()` i drukuje wynik.
+
+---
+
+### 8. Dodatkowe funkcjonalności (opcjonalnie)
+- Dodaj komendę `clear`, która czyści historię.
+- Dodaj zmienną `_`, w której przechowywany jest ostatni wynik.
+- Wprowadź formatowanie wyniku (np. 2 miejsca po przecinku).
