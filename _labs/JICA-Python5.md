@@ -31,7 +31,7 @@ Ale my będziemy korzystali z biblioteki, która nie jest dostarczana razem z py
 pip install pygame
 ```
 
-W terminalu. Alternatywnie można skorzystać z wbudowangeo w PyCharma modułu zarządzania bibliotekami ![zrzut](../assets/JICA/Zrzut ekranu1)
+W terminalu. Alternatywnie można skorzystać z wbudowangeo w PyCharma modułu zarządzania bibliotekami ![zrzut](../assets/JICA/Zrzut ekranu1.png)
 
 ## Aplikacja
 Nasz dzisiejszy projekt, to prosta gra symulująca silnik i skrzynię biegów samochodu - poza nauką programowania będzie dzisiaj trochę fizyki, a przy okazji może niektórzy dowiedzą się jak działa samochód. Zaczniemy od pobrania szablonu projektu, uruchomienia i przeanalizowania istniejącego kodu.
