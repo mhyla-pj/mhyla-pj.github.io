@@ -523,7 +523,7 @@ Gdzie:
 
 To jest opór toczenia. Aby utrzymać stałą prędkość musimy generować silnikiem dokładnie
 tyle. Dochodzi jeszcze opór powietrza – ten zależny jest od prędkości samochodu. 
-![zrzut](Zrzut ekranu 2025-07-29 o 12.07.52.png)
+![zrzut](../assets/JICA/Zrzut ekranu 2025-07-29 o 12.07.52.png)
 
 - **p** – stała gęstość powietrza,  
 - **D** – stała współczynnika oporu (dla nas **0.3**),  
