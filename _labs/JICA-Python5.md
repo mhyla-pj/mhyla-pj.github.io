@@ -7,7 +7,7 @@ subject: Duży (no, średni) projekt
 description: Biblioteka Pygame, yay!
 ---
 
-Dzisiaj będziemy pracować nad odrobinę większym projektem, wprowadzimy też tematykę zewnętrznych bibliotek w pythonie.
+Dzisiaj będziemy pracować nad odrobinę większym projektem, wprowadzimy też tematykę zewnętrznych bibliotek w pythonie. Szkielet projektu do pobrania [**tutaj**](../assets/JICA/SimpleRacingGame.zip)
 
 ### Biblioteki
 Biblioteki w Pythonie to **zestawy gotowych narzędzi** (funkcji, klas, modułów), które ktoś już napisał, aby ułatwić Ci pracę. Dzięki nim nie musimy tworzyć wszystkiego od zera. Dzisiaj będziemy korzystali z biblioteki `pygame`, ale bibliotek do pythona jest od groma, poznamy ich jeszcze kilka.
