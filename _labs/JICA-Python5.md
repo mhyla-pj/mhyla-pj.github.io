@@ -31,7 +31,7 @@ Ale my będziemy korzystali z biblioteki, która nie jest dostarczana razem z py
 pip install pygame
 ```
 
-W terminalu. Alternatywnie można skorzystać z wbudowangeo w PyCharma modułu zarządzania bibliotekami ![zrzut](../assets/WIA2/Zrzut ekranu1)
+W terminalu. Alternatywnie można skorzystać z wbudowangeo w PyCharma modułu zarządzania bibliotekami ![zrzut](../assets/JICA/Zrzut ekranu1)
 
 ## Aplikacja
 Nasz dzisiejszy projekt, to prosta gra symulująca silnik i skrzynię biegów samochodu - poza nauką programowania będzie dzisiaj trochę fizyki, a przy okazji może niektórzy dowiedzą się jak działa samochód. Zaczniemy od pobrania szablonu projektu, uruchomienia i przeanalizowania istniejącego kodu.
@@ -269,7 +269,7 @@ Oczywiście powyższy przykład, w którym co tick zwiększamy prędkość o 1 `
 Urzeczywistnijmy najpierw to przyspieszenie. C4 Picasso z silnikiem 2.0 HDi osiąga 100 `km/h`
 (27,7 `m/s`) w 12.4 sekundy. Przyspieszenie, czyli zmianę prędkości w czasie możemy w prosty sposób z tego policzyć:
 
-![zrzut](../assets/JICA/Zrzut%20ekranu%202025-07-29%20o%2004.34.21.png]]
+![zrzut](../assets/JICA/Zrzut ekranu 2025-07-29 o 04.34.21.png)
 
 Czyli - *uśredniając* - samochód w każdej sekundzie zwiększa swoją prędkość o 2.24 `m/s`. Bląd, który popełniliśmy poprzednio wynikał z tego, że nie braliśmy pod uwagę tego, że nie dodawaliśmy 1 do prędkości co sekundę, a 60 razy na sekundę. Poprawiony kod będzie wyglądał tak:
 
