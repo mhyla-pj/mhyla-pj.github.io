@@ -9,7 +9,7 @@ description: Wracamy do zwykłego programowania
 
 Aby utrwalić wiedzę dziś wracamy do prostego programowania, nie będzie żadnych samochodzików ani wymyślnych funkcji, tylko mocna praktyka.
 
-# Seria zadań: "Aplikacja do zarządzania zadaniami" (To-Do w konsoli)
+# Aplikacja do zarządzania zadaniami (To-Do Lista)
 
 Projekt końcowy to prosty **menedżer zadań w konsoli** – użytkownik może dodawać zadania, usuwać je, oznaczać jako wykonane i wyświetlać listę.  
 Każde kolejne zadanie rozwija program, ale też utrwala podstawy programowania.
@@ -118,10 +118,49 @@ Każde kolejne zadanie rozwija program, ale też utrwala podstawy programowania.
 
 ---
 
+# Zadania opcjonalne do projektu "To-Do Lista"
+
+## **Zadanie opcjonalne 1 – Sortowanie zadań według priorytetu**
+**Opis zadania:**  
+Dodaj funkcję `sortuj_zadania(lista)`, która sortuje zadania według priorytetu (np. `wysoki`, `średni`, `niski`).  
+Użytkownik może wpisać komendę `sort`, aby wyświetlić listę w posortowanej kolejności.
+
+**Wymagania:**
+
+| ID  | Wymaganie |
+|-----|-----------|
+| O1  | Program sortuje zadania według priorytetu. |
+| O2  | Komenda `sort` wyświetla posortowaną listę. |
+| O3  | Priorytety są ustalone w kolejności: wysoki > średni > niski. |
+
+---
+
+## **Zadanie opcjonalne 2 – Termin wykonania zadania**
+**Opis zadania:**  
+Rozszerz strukturę zadań o **termin wykonania** (np. `2025-08-15`).  
+- Podczas dodawania zadania użytkownik podaje termin.  
+- Komenda `deadline` wyświetla wszystkie zadania z najbliższymi terminami (posortowane rosnąco według daty).
+
+**Wymagania:**
+
+| ID  | Wymaganie |
+|-----|-----------|
+| O1  | Każde zadanie przechowuje termin wykonania (data w formacie YYYY-MM-DD). |
+| O2  | Program pozwala wyświetlić zadania posortowane według terminu. |
+| O3  | Komenda `deadline` wyświetla zadania z nadchodzącymi terminami. |
+
+
+---
+
 
 # Projekt: Generator Raportów Pogodowych
 
 Celem projektu jest stworzenie aplikacji konsolowej, która generuje raporty pogodowe dla wybranych miast. Program będzie stopniowo rozbudowywany o kolejne funkcjonalności, takie jak losowanie danych, analiza wyników i zapis do pliku. Ten projekt nam się przyda jako baza do rozbudowania, bo już w następnym tygodniu będziemy pobierali takie dane z zewnętrznego API i je tutaj wepniemy.
+
+## **Etap 7 - dla tych, co są za szybcy**
+
+**Opis Zadania**
+-
 
 ---
 
