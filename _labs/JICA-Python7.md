@@ -242,3 +242,134 @@ Zadbaj o stabilność: obsłuż `requests.exceptions`, puste odpowiedzi lub brak
 | K7.3 | Program nie kończy się wyjątkiem bez komunikatu.                       |
 
 
+# Mini-projekt: „Pogoda dla listy miast” – plan kroków z wymaganiami
+
+Celem projektu jest stworzenie konsolowej aplikacji, która:
+1. Przyjmuje listę miast od użytkownika,
+2. Dla każdego miasta pobiera współrzędne geograficzne (API geokodowania),
+3. Pobiera aktualną pogodę (API Open-Meteo),
+4. Wyświetla czytelną tabelę z wynikami,
+5. (Opcjonalnie) zapisuje dane do pliku.
+
+---
+
+## Krok 1 – Pobieranie listy miast od użytkownika
+
+**Opis:**  
+Poproś użytkownika o podanie miast, np. w jednej linii, oddzielonych przecinkami. Oczyść dane.
+
+**Wymagania:**
+
+| ID  | Wymaganie |
+|-----|-----------|
+| P1.1 | Użytkownik wpisuje miasta w formacie `Miasto1,Miasto2,...`. |
+| P1.2 | Miasta dzielone są przy pomocy `.split(",")`. |
+| P1.3 | Białe znaki są usuwane z nazw (`strip()`). |
+| P1.4 | Pusta lub błędna lista jest odrzucana z komunikatem. |
+
+---
+
+## Krok 2 – Pobranie współrzędnych z API Open-Meteo
+
+**Opis:**  
+Dla każdego miasta wykonaj zapytanie do API geokodowania:  
+`https://geocoding-api.open-meteo.com/v1/search?name=<miasto>`
+
+**Wymagania:**
+
+| ID  | Wymaganie |
+|-----|-----------|
+| P2.1 | Dla każdego miasta wysyłane jest zapytanie `GET`. |
+| P2.2 | Wynik jest dekodowany do formatu JSON. |
+| P2.3 | Z odpowiedzi wyciągane są `latitude` i `longitude` pierwszego wyniku. |
+| P2.4 | Brak wyniku → komunikat `[WARN] Nie znaleziono miasta: <nazwa>` |
+| P2.5 | Używany `timeout` i `raise_for_status()`. |
+
+---
+
+## Krok 3 – Pobranie danych pogodowych
+
+**Opis:**  
+Dla każdego miasta (po uzyskaniu współrzędnych) wykonaj zapytanie do:  
+`https://api.open-meteo.com/v1/forecast?latitude=...&longitude=...&current_weather=true`
+
+**Wymagania:**
+
+| ID  | Wymaganie |
+|-----|-----------|
+| P3.1 | Dla każdego miasta wykonywane jest zapytanie `GET`. |
+| P3.2 | Program sprawdza `status_code` i wykonuje `resp.raise_for_status()`. |
+| P3.3 | Dane są pobierane z klucza `current_weather`. |
+| P3.4 | Wyciągnięte są: `temperature` (°C), `windspeed` (km/h). |
+| P3.5 | Brak danych pogodowych → komunikat `[WARN] Brak danych pogodowych: <miasto>`. |
+
+---
+
+## Krok 4 – Wyświetlenie tabeli wyników
+
+**Opis:**  
+Wyniki dla każdego miasta są wyświetlane w przejrzystej tabeli.
+
+**Wymagania:**
+
+| ID  | Wymaganie |
+|-----|-----------|
+| P4.1 | Wypisywana jest nagłówkowa linia tabeli. |
+| P4.2 | Dla każdego miasta wypisane są: nazwa, temperatura (1 miejsce po przecinku), wiatr. |
+| P4.3 | Kolumny są wyrównane (np. `f"{temp:6.1f}"`). |
+
+**Przykład:**
+```
+City       | Temp [°C] | Wind [km/h]
+Gdansk     |     19.8  |       12.3
+Warsaw     |     21.4  |       10.1
+```
+
+---
+
+## Krok 5 – Obsługa błędów
+
+**Opis:**  
+Zadbaj o to, by błędy sieci, nieistniejące miasta czy puste odpowiedzi nie przerywały programu.
+
+**Wymagania:**
+
+| ID  | Wymaganie |
+|-----|-----------|
+| P5.1 | Wszystkie zapytania objęte są `try/except`. |
+| P5.2 | Błędy sieci (`ConnectionError`, `Timeout`) są łapane i komunikowane użytkownikowi. |
+| P5.3 | Program kontynuuje działanie mimo błędów dla pojedynczych miast. |
+
+---
+
+## Krok 6 – Zapis danych do pliku (opcjonalny)
+
+**Opis:**  
+Po zakończeniu pobierania, zapisz dane do pliku `pogoda_<data>.txt` lub `pogoda.csv`.
+
+**Wymagania:**
+
+| ID  | Wymaganie |
+|-----|-----------|
+| P6.1 | Program tworzy plik wynikowy z danymi w formacie CSV lub prostym tekstowym. |
+| P6.2 | Nazwa pliku zawiera datę (np. `pogoda_2025-08-04.txt`). |
+| P6.3 | Wiersze pliku zawierają miasto, temperaturę, wiatr. |
+
+**Przykład CSV:**
+```
+city,temperature_c,wind_kmh
+Gdansk,19.8,12.3
+Warsaw,21.4,10.1
+```
+
+---
+
+## Efekt końcowy
+
+Po przejściu wszystkich kroków program:
+
+✅ Pozwala wpisać kilka miast  
+✅ Pobiera współrzędne geograficzne i pogodę  
+✅ Wyświetla dane w przejrzystej tabeli  
+✅ Informuje o błędach w czytelny sposób  
+✅ (Opcjonalnie) zapisuje dane do pliku
