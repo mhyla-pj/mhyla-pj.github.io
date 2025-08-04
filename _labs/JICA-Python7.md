@@ -223,7 +223,7 @@ Policz sumę populacji wszystkich krajów w `europe` i wypisz wynik.
 
 | ID  | Wymaganie |
 |-----|-----------|
-| K6.1 | Obliczona suma `total = sum(population)` dla listy `europe`. |
+| K6.1 | Obliczona suma `total = sum(population)` dla listy `europe`. (Albo inaczej - ważne, żeby się poprawnie liczyło) |
 | K6.2 | Wynik wypisany w czytelnym formacie z separatorami tysięcy. |
 
 ---
@@ -273,7 +273,7 @@ Poproś użytkownika o podanie miast, np. w jednej linii, oddzielonych przecinka
 
 **Opis:**  
 Dla każdego miasta wykonaj zapytanie do API geokodowania:  
-`https://geocoding-api.open-meteo.com/v1/search?name=<miasto>`
+`https://geocoding-api.open-meteo.com/v1/search?name=<miasto>` - API zwraca wiele podobnych miejscowości - korzystamy zawsze z pierwszego zwróconego wyniku!
 
 **Wymagania:**
 
@@ -281,7 +281,7 @@ Dla każdego miasta wykonaj zapytanie do API geokodowania:
 |-----|-----------|
 | P2.1 | Dla każdego miasta wysyłane jest zapytanie `GET`. |
 | P2.2 | Wynik jest dekodowany do formatu JSON. |
-| P2.3 | Z odpowiedzi wyciągane są `latitude` i `longitude` pierwszego wyniku. |
+| P2.3 | Z odpowiedzi wyciągane są `latitude` i `longitude` **pierwszego wyniku**. |
 | P2.4 | Brak wyniku → komunikat `[WARN] Nie znaleziono miasta: <nazwa>` |
 | P2.5 | Używany `timeout` i `raise_for_status()`. |
 
