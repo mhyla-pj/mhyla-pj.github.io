@@ -4,7 +4,7 @@ course: Python
 type: stacjonarne
 lab_nr: 8
 subject: Własne API
-description: Wycsyłamy dane na zewnątrz!
+description: Wysyłamy dane na zewnątrz!
 ---
 
 Na poprzednim spotkaniu korzystaliśmy z zewnętrznego API, a w naszej aplikacji wyciągaliśmy dane za pomocą `requests`. Teraz postawimy się po drugiej stronie i pracować będziemy nad aplikacją serwerową - czyli teraz to nasza aplikacja będzie wysyłała dane.
