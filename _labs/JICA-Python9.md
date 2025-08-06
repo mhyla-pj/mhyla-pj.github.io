@@ -259,3 +259,34 @@ Twoim zadaniem jest rozszerzać funkcjonalność krok po kroku, aż stworzysz dz
 1. Uruchom `client.py`, dodaj zwierzaka, sprawdź czy się dodał.
 
 ---
+
+# Dodatkowe kroki: PUT i DELETE w API
+
+## Krok 6: Obsługa PUT – zmiana imienia zwierzaka
+
+### Wymagania funkcjonalne
+- Endpoint `PUT /animals/{animal_id}` umożliwia zmianę tylko pola `name`.
+- Jeśli zwierzę o podanym `id` istnieje – jego imię zostaje zaktualizowane.
+- Jeśli nie istnieje – zwracany jest komunikat `"Animal not found"`.
+
+### Co należy zrobić
+1. Utwórz klasę `AnimalNameUpdate` z jednym polem:
+   ```python
+   name: str
+   ```
+   Będzie to model przyjmujący JSON z 1 kluczem - `name`
+2. Dodaj endpoint PUT /animals/{animal_id}.
+3. Wyszukaj zwierzaka po id.
+4. Jeśli istnieje – zaktualizuj jego name i zwróć zaktualizowany obiekt.
+5. Jeśli nie – zwróć {"error": "Animal not found"}.
+
+## Krok 7: Obsługa DELETE – usuwanie zwierzaka po ID
+### Wymagania funkcjonalne
+- Endpoint DELETE /animals/{animal_id} usuwa zwierzaka o podanym id.
+- Jeśli zwierzę zostanie usunięte – zwraca komunikat "Animal deleted".
+- Jeśli nie znaleziono – zwraca komunikat "Animal not found".
+### Co należy zrobić
+1. Dodaj endpoint DELETE /animals/{animal_id}.
+2. Przeszukaj listę animals w celu znalezienia pasującego id.
+3. Jeśli znaleziono – usuń zwierzaka z listy.
+4. Zwróć odpowiedni komunikat zależnie od tego, czy zwierzę zostało znalezione.
