@@ -155,7 +155,7 @@ conn.close()
 import sqlite3
 
 # Połączenie z bazą (utworzy plik, jeśli go nie ma)
-conn = sqlite3.connect("animals.db")
+conn = sqlite3.connect("animals.db", check_same_thread=False)
 
 # Kursor - służy do wykonywania zapytań
 cur = conn.cursor()
