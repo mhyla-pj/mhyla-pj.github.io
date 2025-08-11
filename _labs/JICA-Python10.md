@@ -82,9 +82,10 @@ import sqlite3
 
 # Połączenie z bazą (utworzy plik, jeśli go nie ma)
 conn = sqlite3.connect("animals.db")
+conn.row_factory = sqlite3.Row
 ```
 
-To połączenie utworzy plik bazy danych, jeśli jeszcze nie istnieje. Następnym krokiem jest stworzenie *kursora* - mechanizmu, który pozwoli na wykonywanie zapytań do bazy:
+To połączenie utworzy plik bazy danych, jeśli jeszcze nie istnieje oraz wskaże, że chcemy dostawać odpowiedzi od bazy w formie `Row` - jest to typ, który sprawi, że po stronie programu będziemy mogli korzystać z nazw kolumn. Następnym krokiem jest stworzenie *kursora* - mechanizmu, który pozwoli na wykonywanie zapytań do bazy:
 
 ```python
 cur = conn.cursor()
