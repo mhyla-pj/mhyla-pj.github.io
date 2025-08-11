@@ -151,6 +151,42 @@ Zamknięcie połączenia
 conn.close()
 ```
 
+```python
+import sqlite3
+
+# Połączenie z bazą (utworzy plik, jeśli go nie ma)
+conn = sqlite3.connect("animals.db")
+
+# Kursor - służy do wykonywania zapytań
+cur = conn.cursor()
+
+# Tworzenie tabeli
+cur.execute("""
+CREATE TABLE IF NOT EXISTS animals (
+    id INTEGER PRIMARY KEY,
+    name TEXT,
+    species TEXT,
+    age INTEGER
+)
+""")
+
+# Dodanie rekordu
+cur.execute("INSERT INTO animals (name, species, age) VALUES (?, ?, ?)",
+            ("Burek", "dog", 5))
+
+cur.execute("INSERT INTO animals (name, species, age) VALUES (?, ?, ?)", ("jajco", "kot", 5))
+
+# Zapis zmian
+conn.commit()
+
+# Odczyt danych
+cur.execute("SELECT * FROM animals WHERE id = ?", "3")
+print(cur.fetchall())
+
+# Zamknięcie połączenia
+conn.close()
+```
+
 # Zadanie: Animals API z bazą SQLite
 
 Do istniejącego API obsługującego listę zwierząt (z Labu 9) dodajemy trwałość danych w bazie SQLite.  
@@ -161,6 +197,16 @@ Zamiast listy w pamięci (`animals = []`) wprowadzamy plik `animals.db` z tabel�
 `age` *(liczba całkowita)*.
 
 ---
+
+```python
+@app.get("/animals")
+def get_all_animals():
+    cur.execute("SELECT * FROM animals")
+    list = []
+    for r in cur.fetchall():
+        list.append(r)
+    return list
+```
 
 ## Krok 1 — Utworzenie bazy i tabeli
 
