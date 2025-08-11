@@ -135,6 +135,14 @@ cur.execute("SELECT * FROM animals WHERE id = ?", "3")
 print(cur.fetchall())
 ```
 
+Alternatywnie:
+
+```python
+for row in cur.fetchall():
+    print(dict(row))  # np. {'id': 1, 'name': 'Ala'}
+``` 
+Pierwszy przykład zwraca nam tuplę, a drugi słownik - wybieramy zależnie od potrzeb. 
+
 Natomiast jeśli interesuje nas tylko i wyłącznie imię, to 
 
 Zamknięcie połączenia
@@ -142,3 +150,146 @@ Zamknięcie połączenia
 ```python
 conn.close()
 ```
+
+# Zadanie: Animals API z bazą SQLite
+
+Do istniejącego API obsługującego listę zwierząt (z Labu 9) dodajemy trwałość danych w bazie SQLite.  
+Zamiast listy w pamięci (`animals = []`) wprowadzamy plik `animals.db` z tabelą `animals`, w której przechowujemy:  
+`id` *(liczba całkowita, klucz główny)*,  
+`name` *(tekst)*,  
+`species` *(tekst)*,  
+`age` *(liczba całkowita)*.
+
+---
+
+## Krok 1 — Utworzenie bazy i tabeli
+
+**Opis:**  
+Przy starcie aplikacji baza danych ma być inicjalizowana, jeśli nie istnieje. Struktura tabeli:
+```sql
+CREATE TABLE IF NOT EXISTS animals (
+    id INTEGER PRIMARY KEY,
+    name TEXT NOT NULL,
+    species TEXT NOT NULL,
+    age INTEGER NOT NULL,
+    UNIQUE(name, species)
+);
+```
+
+**Wymagania:**
+
+| ID   | Wymaganie |
+|------|-----------|
+| K1.1 | Plik `animals.db` tworzony automatycznie, jeśli nie istnieje. |
+| K1.2 | Tabela `animals` zgodna z podanym schematem. |
+| K1.3 | Inicjalizacja wykonywana tylko raz (nie nadpisuje istniejących danych). |
+| K1.4 | Kod inicjalizacji bazy znajduje się w `main.py` i jest wykonywany przy starcie aplikacji. |
+
+---
+
+## Krok 2 — Implementacja `GET /animals`
+
+**Opis:**  
+Zacznij od endpointu, który zwróci wszystkie rekordy z tabeli.  
+- Otwórz połączenie (`sqlite3.connect()`),  
+- ustaw `row_factory` tak, żeby można było zwracać dane jako słowniki,  
+- wykonaj zapytanie `SELECT * FROM animals`,  
+- zamień wynik na listę słowników i zwróć w odpowiedzi.
+
+**Wymagania:**
+
+| ID   | Wymaganie |
+|------|-----------|
+| K2.1 | Połączenie do `animals.db` otwierane w endpointzie. |
+| K2.2 | Zapytanie SQL: `SELECT * FROM animals`. |
+| K2.3 | Wynik zwracany jako lista słowników. |
+| K2.4 | Połączenie zamykane po wykonaniu zapytania. |
+
+---
+
+## Krok 3 — Implementacja `GET /animals/{id}`
+
+**Opis:**  
+Dodaj endpoint, który zwróci jeden rekord po `id`.  
+- Wykonaj zapytanie `SELECT * FROM animals WHERE id = ?`,  
+- jeśli rekord istnieje — zwróć go,  
+- jeśli nie — zwróć 404 z komunikatem.
+
+**Wymagania:**
+
+| ID   | Wymaganie |
+|------|-----------|
+| K3.1 | Parametr `id` przekazywany do zapytania w formie parametryzowanej (`?`). |
+| K3.2 | Brak rekordu → odpowiedź 404 w JSON. |
+| K3.3 | Poprawne zamykanie połączenia po zapytaniu. |
+
+---
+
+## Krok 4 — Implementacja `POST /animals`
+
+**Opis:**  
+Dodaj możliwość dodawania nowego rekordu.  
+- Wykorzystaj model Pydantic z Labu 9 do walidacji (`name`, `species`, `age`),  
+- wykonaj zapytanie `INSERT INTO animals (name, species, age) VALUES (?, ?, ?)`,  
+- w przypadku duplikatu `(name, species)` zwróć 409 z komunikatem,  
+- po dodaniu zwróć pełny rekord (łącznie z `id`).
+
+**Wymagania:**
+
+| ID   | Wymaganie |
+|------|-----------|
+| K4.1 | Dodawanie rekordu przy pomocy zapytania parametryzowanego. |
+| K4.2 | Obsługa błędu unikalności → odpowiedź 409. |
+| K4.3 | Zwracanie nowo dodanego rekordu z `id`. |
+
+---
+
+## Krok 5 — Implementacja `PUT /animals/{id}`
+
+**Opis:**  
+Dodaj możliwość zmiany imienia (`name`) istniejącego zwierzęcia.  
+- Model Pydantic jak w Labu 9 (`name` ≥ 2 znaki),  
+- zapytanie `UPDATE animals SET name = ? WHERE id = ?`,  
+- jeśli rekord istnieje — zwróć zaktualizowany wpis,  
+- jeśli nie istnieje — 404.
+
+**Wymagania:**
+
+| ID   | Wymaganie |
+|------|-----------|
+| K5.1 | Aktualizacja tylko pola `name`. |
+| K5.2 | Brak rekordu → 404. |
+| K5.3 | Zwrócenie zaktualizowanego rekordu. |
+
+---
+
+## Krok 6 — Implementacja `DELETE /animals/{id}`
+
+**Opis:**  
+Dodaj możliwość usuwania rekordu po `id`.  
+- Zapytanie `DELETE FROM animals WHERE id = ?`,  
+- jeśli rekord istniał — zwróć potwierdzenie,  
+- jeśli nie — 404.
+
+**Wymagania:**
+
+| ID   | Wymaganie |
+|------|-----------|
+| K6.1 | Usuwanie przy pomocy zapytania parametryzowanego. |
+| K6.2 | Brak rekordu → 404. |
+| K6.3 | Poprawne zamknięcie połączenia po operacji. |
+
+---
+
+## Krok 7 — Testy ręczne
+
+**Opis:**  
+Sprawdź działanie aplikacji przez `/docs` lub `curl`:
+
+**Wymagania:**
+
+| ID   | Wymaganie |
+|------|-----------|
+| K7.1 | Dodanie zwierzęcia → widoczne w `GET /animals`. |
+| K7.2 | Restart serwera nie usuwa danych (trwałość w SQLite). |
+| K7.3 | Błędy (404, 409) działają zgodnie z opisem. |
