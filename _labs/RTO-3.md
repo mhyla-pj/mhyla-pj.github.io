@@ -248,15 +248,16 @@ a scheduler zarządza kolejką oczekujących, gwarantując przewidywalne działa
 ## Zadanie
 
 Zaprojektuj system z 3 taskami:
-	•	TaskSensor – symuluje odczyt danych (np. temperatura) i loguje wynik,
-	•	TaskNetwork – symuluje wysyłanie danych przez sieć i loguje status,
-	•	TaskMonitor – okresowo wypisuje separator / status systemu.
+
+	-	TaskSensor – symuluje odczyt danych (np. temperatura) i loguje wynik,
+	-	TaskNetwork – symuluje wysyłanie danych przez sieć i loguje status,
+	-	TaskMonitor – okresowo wypisuje separator / status systemu.
 
 Wszystkie trzy taski korzystają ze wspólnego wyjścia Serial.print() – bez mutexa linie się mieszają.
 
 Zadanie:
-	1.	Uruchomić wszystkie trzy taski bez mutexa, zaobserwować „śmieci”.
-	2.	Dodać mutex, by logowanie odbywało się sekwencyjnie i w pełnych liniach.
+1.	Uruchomić wszystkie trzy taski bez mutexa, zaobserwować „śmieci”.
+2.	Dodać mutex, by logowanie odbywało się sekwencyjnie i w pełnych liniach.
 
 # 3. Semafor binarny – sygnalizacja między zadaniami
 
