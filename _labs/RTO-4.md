@@ -20,8 +20,6 @@ Kolejka może przechowywać:
 
 Są dwa sposoby implementacji kolejek we FreeRTOS -  kolejkowanie przez kopiowanie oraz kolejkowanie przez referencję. Pierwszy sposób w kolejce umieszcza kopię dodawanych do niej danych. Kolejkowanie przez referencję oznacza, że budować będziemy kolejkę wskaźników - metoda używana, kiedy kolejkowane dane są zbyt duże, aby ich kopiowanie było praktyczne. 
 
-Oczywiście — oto ten fragment w formie **zwięzłej listy w Markdown**, gotowej do wklejenia np. do skryptu laboratoryjnego lub notatek:
-
 ---
 
 ### Dlaczego FreeRTOS używa kolejek kopiujących dane (queue by copy)
