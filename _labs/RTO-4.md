@@ -234,3 +234,7 @@ Co 200ms
   - Loguje je na serialu
   - Wykonuje pojedyncze mrugnięcie LED po prawidłowym odczycie
   - Timeout powinien mieć ustawiony na 1 sekundę - jeśli w tym czasie nie otrzyma danych powinien wykonać trzykrotne mrugnięcie LED i zalogować error na Serialu.
+
+**Opcje rozbudowy**
+1. Zrób dwóch producentów - wrzucających do tej samej kolejki - w strukturze dodaj pole `sourceId`, żeby odróżniać źródła. Drugi producent dla utrudnienia może czytać z Seriala. 
+2. Dodaj możliwość zmiany częstotliwości próbkowania przyciskiem (task nasłuchujący przycisku zmienia okres działania vSensorTask) - to zakłada, że znajdziemy gdzieś na wydziale przyciski. 
