@@ -187,9 +187,9 @@ int main(void)
 
     if (xQueue != NULL)
     {
-        xTaskCreate(vSenderTask, "Sender", 1000, NULL, 1, NULL);
-        xTaskCreate(vReceiverTask, "Receiver", 1000, NULL, 1, NULL);
-        vTaskStartScheduler();
+        xTaskCreate(vSenderTask, "Sender", 2048, NULL, 1, NULL);
+        xTaskCreate(vReceiverTask, "Receiver", 2048, NULL, 1, NULL);
+        // vTaskStartScheduler(); - do weryfikacji
     }
     else
     {
