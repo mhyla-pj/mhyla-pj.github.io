@@ -347,7 +347,7 @@ void taskLogger(void *pvParameters) {
 2. Task Konsument:
    - czeka na powiadomienie, wykorzystując:
      ```c
-     ulTaskNotifyTake(pdTRUE, portMAX_DELAY);
+     ulTaskNotifyTake(pdFALSE, portMAX_DELAY);
      ```
    - odczytuje zwróconą wartość i interpretuje ją jako **ilość zgromadzonych zdarzeń**
    - wypisuje wynik na UART (lub wykonuje inną akcję)
