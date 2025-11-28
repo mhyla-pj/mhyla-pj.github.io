@@ -11,11 +11,11 @@ description: W końcu!
 Aplikacje FreeRTOS są, jak już zapewne wszyscy doskonale wiedzą, ułożone jako seria **Tasków**, które nierzadko *w jakiś sposób* muszą się ze sobą komunikować. 
 
 W poprzednich zajęciach przećwiczyliśmy mechanizmy synchronizacji i komunikacji w FreeRTOS:  
-– taski i priorytety  
-– kolejki  
-– `vTaskDelay()`  
-– semafory binarne  
-– mutexy  
+- taski i priorytety  
+- kolejki  
+- `vTaskDelay()`  
+- semafory binarne  
+- mutexy  
 Każdy z nich ma swoje zadania i zalety — kolejki do przekazywania danych, semafory jako sygnał wykonania, mutexy do ochrony dostępu do zasobów. W praktycznych projektach pojawia się jednak sytuacja, w której te narzędzia mogą okazać się zbyt ciężkie, zbyt rozbudowane lub niewspółmiernie kosztowne czasowo w stosunku do problemu, który chcemy rozwiązać.
 
 Przyszedł zatem moment na zapoznanie się z prawdopodobnie najważniejszym (a w każdym razie najlżejszym) sposobem komunikacji pomiędzy taskami - **Task Notifications**
