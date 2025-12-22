@@ -91,10 +91,53 @@ nav_exclude: true
       </button>
       <figcaption>Kartka 14</figcaption>
     </figure>
+    <figure class="holiday-card">
+      <button class="holiday-card__button" type="button" data-full="../assets/WIA2/cards-25/Zrzut%20ekranu%202025-12-22.png" aria-label="Otworz kartke 15 w pelnym rozmiarze">
+        <img src="../assets/WIA2/cards-25/Zrzut%20ekranu%202025-12-22.png" alt="Kartka 15" loading="lazy">
+      </button>
+      <figcaption>Kartka 15</figcaption>
+    </figure>
+    <figure class="holiday-card">
+      <button class="holiday-card__button" type="button" data-full="../assets/WIA2/cards-25/bobr.png" aria-label="Otworz kartke 16 w pelnym rozmiarze">
+        <img src="../assets/WIA2/cards-25/bobr.png" alt="Kartka 16" loading="lazy">
+      </button>
+      <figcaption>Kartka 16</figcaption>
+    </figure>
+    <figure class="holiday-card">
+      <button class="holiday-card__button" type="button" data-full="../assets/WIA2/cards-25/image-12.png" aria-label="Otworz kartke 17 w pelnym rozmiarze">
+        <img src="../assets/WIA2/cards-25/image-12.png" alt="Kartka 17" loading="lazy">
+      </button>
+      <figcaption>Kartka 17</figcaption>
+    </figure>
+    <figure class="holiday-card">
+      <button class="holiday-card__button" type="button" data-full="../assets/WIA2/cards-25/image-13.png" aria-label="Otworz kartke 18 w pelnym rozmiarze">
+        <img src="../assets/WIA2/cards-25/image-13.png" alt="Kartka 18" loading="lazy">
+      </button>
+      <figcaption>Kartka 18</figcaption>
+    </figure>
+    <figure class="holiday-card">
+      <button class="holiday-card__button" type="button" data-full="../assets/WIA2/cards-25/image-14.png" aria-label="Otworz kartke 19 w pelnym rozmiarze">
+        <img src="../assets/WIA2/cards-25/image-14.png" alt="Kartka 19" loading="lazy">
+      </button>
+      <figcaption>Kartka 19</figcaption>
+    </figure>
+    <figure class="holiday-card">
+      <button class="holiday-card__button" type="button" data-full="../assets/WIA2/cards-25/kartka-3.png" aria-label="Otworz kartke 20 w pelnym rozmiarze">
+        <img src="../assets/WIA2/cards-25/kartka-3.png" alt="Kartka 20" loading="lazy">
+      </button>
+      <figcaption>Kartka 20</figcaption>
+    </figure>
+    <figure class="holiday-card">
+      <button class="holiday-card__button" type="button" data-full="../assets/WIA2/cards-25/obraz-3.png" aria-label="Otworz kartke 21 w pelnym rozmiarze">
+        <img src="../assets/WIA2/cards-25/obraz-3.png" alt="Kartka 21" loading="lazy">
+      </button>
+      <figcaption>Kartka 21</figcaption>
+    </figure>
   </div>
 </div>
 
 <p>Poprzednia edycja: <a href="/galeria-2024">Galeria Sztuki Swiatecznej 2024</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSef9vW8IWSnFtDW53FgwabQS81SOt8XCSQcU4zUO08SNzN9VQ/viewform?usp=dialog" target="_blank" rel="noopener noreferrer">Glosowanie na najlepsza kartke</a></p>
 
 <div class="holiday-lightbox" id="holiday-lightbox" aria-hidden="true">
   <div class="holiday-lightbox__backdrop" data-close="true"></div>
