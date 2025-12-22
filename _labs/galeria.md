@@ -5,6 +5,8 @@ nav_exclude: true
 
 # Galeria Sztuki Swiatecznej
 
+Poniżej znajduje się galeria sztuki świątecznej z przedmiotu WIA2 na studiach stacjonarnych. Poniżej galerii znajdziecie link do formularza, w którym możecie zagłosować na tegorocznego zwycięzcę konkursu. Zachęcam, ponieważ podobnie jak w ubiegłych latach, zwycięzcy otrzymają niezwykle cenne **nic**!
+
 <div class="holiday-gallery-frame">
   <div class="holiday-gallery">
     <figure class="holiday-card">
@@ -137,7 +139,6 @@ nav_exclude: true
 </div>
 
 <p>Poprzednia edycja: <a href="/galeria-2024">Galeria Sztuki Swiatecznej 2024</a></p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSef9vW8IWSnFtDW53FgwabQS81SOt8XCSQcU4zUO08SNzN9VQ/viewform?usp=dialog" target="_blank" rel="noopener noreferrer">Glosowanie na najlepsza kartke</a></p>
 
 <div class="holiday-lightbox" id="holiday-lightbox" aria-hidden="true">
   <div class="holiday-lightbox__backdrop" data-close="true"></div>
