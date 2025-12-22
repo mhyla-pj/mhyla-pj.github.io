@@ -63,3 +63,6 @@ search:
 
 
 favicon_ico: /assets/favicon.ico
+
+sass:
+  quiet_deps: true

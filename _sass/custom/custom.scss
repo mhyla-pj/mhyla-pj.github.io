@@ -18,3 +18,188 @@
         display: none;
     }
 }
+
+.holiday-gallery-frame {
+    margin: 1.5rem 0;
+    padding: 1.5rem;
+    border-radius: 18px;
+    background: linear-gradient(135deg, rgba(12, 16, 22, 0.9), rgba(30, 20, 12, 0.9));
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    box-shadow: 0 24px 60px rgba(0, 0, 0, 0.35);
+}
+
+.holiday-gallery {
+    display: grid;
+    gap: 1.25rem;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.holiday-card {
+    margin: 0;
+    padding: 0.75rem;
+    border-radius: 16px;
+    background: linear-gradient(160deg, rgba(16, 20, 28, 0.95), rgba(10, 12, 18, 0.95));
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    box-shadow: 0 18px 30px rgba(0, 0, 0, 0.25);
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    transition: transform 220ms ease, box-shadow 220ms ease;
+}
+
+.holiday-card img {
+    width: 100%;
+    height: 220px;
+    object-fit: contain;
+    border-radius: 12px;
+    background: radial-gradient(circle at top, rgba(255, 255, 255, 0.08), rgba(10, 12, 18, 0.85));
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.holiday-card__button {
+    border: none;
+    padding: 0;
+    background: none;
+    cursor: zoom-in;
+}
+
+.holiday-card__button:focus-visible {
+    outline: 2px solid rgba(255, 255, 255, 0.6);
+    outline-offset: 3px;
+    border-radius: 14px;
+}
+
+.holiday-card figcaption {
+    font-size: 0.85rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.68);
+}
+
+.holiday-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 26px 40px rgba(0, 0, 0, 0.35);
+}
+
+.holiday-lightbox {
+    position: fixed;
+    inset: 0;
+    display: grid;
+    place-items: center;
+    padding: 2rem 1.5rem;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 200ms ease;
+    z-index: 999;
+}
+
+.holiday-lightbox.is-open {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.holiday-lightbox__backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(5, 8, 12, 0.85);
+    backdrop-filter: blur(6px);
+}
+
+.holiday-lightbox__content {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-width: min(90vw, 1000px);
+    max-height: 85vh;
+    padding: 1.25rem;
+    border-radius: 18px;
+    background: rgba(10, 14, 20, 0.95);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    box-shadow: 0 30px 70px rgba(0, 0, 0, 0.55);
+}
+
+.holiday-lightbox__actions {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+}
+
+.holiday-lightbox__counter {
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.holiday-lightbox__nav {
+    border: none;
+    padding: 0.45rem 0.9rem;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.12);
+    color: #fff;
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.holiday-lightbox__nav:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.holiday-lightbox__image {
+    width: 100%;
+    height: 100%;
+    max-height: 70vh;
+    object-fit: contain;
+    border-radius: 12px;
+    background: rgba(5, 8, 12, 0.8);
+}
+
+.holiday-lightbox__close {
+    align-self: flex-end;
+    border: none;
+    padding: 0.45rem 0.9rem;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.15);
+    color: #fff;
+    font-size: 0.85rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.holiday-lightbox__close:hover {
+    background: rgba(255, 255, 255, 0.25);
+}
+
+body.holiday-lightbox-open {
+    overflow: hidden;
+}
+
+@media (max-width: 600px) {
+    .holiday-gallery-frame {
+        padding: 1rem;
+    }
+    .holiday-card img {
+        height: 190px;
+    }
+    .holiday-lightbox__actions {
+        flex-direction: column;
+    }
+    .holiday-lightbox__content {
+        padding: 1rem;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .holiday-card {
+        transition: none;
+    }
+    .holiday-card:hover {
+        transform: none;
+    }
+}
