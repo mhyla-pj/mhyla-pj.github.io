@@ -85,6 +85,12 @@ nav_exclude: true
       </button>
       <figcaption>Kartka 13</figcaption>
     </figure>
+    <figure class="holiday-card">
+      <button class="holiday-card__button" type="button" data-full="../assets/WIA2/cards-25/kartka-swiateczna.png" aria-label="Otworz kartke 14 w pelnym rozmiarze">
+        <img src="../assets/WIA2/cards-25/praca.png" alt="Kartka 14" loading="lazy">
+      </button>
+      <figcaption>Kartka 13</figcaption>
+    </figure>
   </div>
 </div>
 
