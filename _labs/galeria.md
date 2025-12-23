@@ -139,6 +139,7 @@ Poniżej znajduje się galeria sztuki świątecznej z przedmiotu WIA2 na studiac
 </div>
 
 <p>Poprzednia edycja: <a href="/galeria-2024">Galeria Sztuki Swiatecznej 2024</a></p>
+[Głosowanie na najlepszą kartkę - edycja 2025](https://docs.google.com/forms/d/e/1FAIpQLSef9vW8IWSnFtDW53FgwabQS81SOt8XCSQcU4zUO08SNzN9VQ/viewform?usp=dialog)
 
 <div class="holiday-lightbox" id="holiday-lightbox" aria-hidden="true">
   <div class="holiday-lightbox__backdrop" data-close="true"></div>
