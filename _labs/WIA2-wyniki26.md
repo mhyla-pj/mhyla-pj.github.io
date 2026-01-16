@@ -3,7 +3,9 @@ layout: lab
 ---
 ## Wyniki za przedmiot (stan na 16.01.2026)
 
-Poniższe wyniki dot. jedynie grup 32c i 33c
+Poniższe wyniki dot. jedynie grup 32c i 33c:
+**TABELKA SCROLLUJE SIĘ NA BOKI!**
+
 | Indeks  | Lab1 | lab2 | lab3 | lab4 | lab5 | lab6 | lab7 | Paint | Kalkulator | Suma | Kolo1 | Kolo2z1 | Kolo2z2 | Kolo2z3 | Suma Kolo2 | %%    | Ocena |
 |---------|------|------|------|------|------|------|------|-------|------------|------|-------|---------|---------|---------|------------|-------|-------|
 | s32705  | 1    |      | 1    |      |      |      |      |       |            | 2    |       |         |         |         | 0          | 7.4%  | 2.0   |
