@@ -21,6 +21,6 @@ Przedmiot składa się z 15 laboratoriów. W połowie semestru odbywa się kolok
 
 - [Przykładowe kolokwium #2](../../../wia2-exkolos)
 
-## [WYNIKI ZA PRZEDMIOT](../../../wia2-wyniki24)
+## [WYNIKI ZA PRZEDMIOT](../../../wia2-wyniki26)
 
 ## [Galeria Sztuki Świątecznej](../../../galeria)
