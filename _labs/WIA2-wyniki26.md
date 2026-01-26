@@ -3,7 +3,7 @@ layout: lab
 ---
 ## Wyniki za przedmiot (stan na 16.01.2026)
 
-Poniższe wyniki dot. jedynie grup 32c i 33c:
+Wyniki dla wszystkich grup.
 
 > **TABELKA SCROLLUJE SIĘ NA BOKI!**
 
