@@ -3,7 +3,7 @@ layout: lab
 subject: Decyzja podróżna LA czy San Fran
 ---
 
-Choć do wyjazdu pozostało nam jeszcze trochę czasu, to zakup biletów będzie musiał się wydarzyć już zaraz. Abyśmy wiedzieli, skąd będziemy wracać chcielibyśmy abyście wszyscy podjęli świadomy wybór nt. tego, w jakim mieście zakończymy naszą wycieczkę. Abyśmy mieli przekonanie, że wasz wybór będzie świadomy i poinformowany, przygotowałem krótki opis z poglądowymi zdjęciami tego, czego możemy spodziewać się po obu potencjalnych destynacjach. Ceny lotów różnią się pomiędzy destynacjami marginalnie, a jeśli któryś jest droższy, to offsetuje się tańszym zwrotem samochodu. 
+Choć do wyjazdu pozostało nam jeszcze trochę czasu, to zakup biletów będzie musiał się wydarzyć już zaraz. Abyśmy wiedzieli, skąd będziemy wracać chcielibyśmy abyście wszyscy podjęli świadomy wybór nt. tego, w jakim mieście zakończymy naszą wycieczkę. Abyśmy mieli przekonanie, że wasz wybór będzie świadomy i poinformowany, przygotowałem krótki opis z poglądowymi zdjęciami tego, czego możemy spodziewać się po obu potencjalnych destynacjach. Ceny lotów różnią się pomiędzy destynacjami marginalnie, a jeśli któryś jest droższy, to offsetuje się tańszym zwrotem samochodu, więc decyzja jest w waszych rękach. Temat pozostawiam pod dyskusję, fajnie będzie niezależnie, gdzie pojedziemy. Demokracja zdecyduje. 
 
 ## Opcja 1: San Francisco
 Miasto, które wyrosło z niewielkiej osady portowej na jeden z symboli amerykańskiej potęgi. W 1776 na północnym krańcu półwyspu Imperium Hiszpańskie zbudowało *presidio*, czyli fortyfikację kontrolującą dostęp do zatoki *San Francisco*. Wielki skok rozwojowy miasto zawdzięcza gorączce złota z 1848 roku, kiedy do Kaliforni ruszyły setki tysięcy ludzi. 
