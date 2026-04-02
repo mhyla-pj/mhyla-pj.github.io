@@ -34,6 +34,22 @@
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
 }
 
+.holiday-gallery--featured-first {
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
+
+.holiday-gallery--featured-first .holiday-card img {
+    height: 180px;
+}
+
+.holiday-gallery--featured-first .holiday-card:first-child {
+    grid-column: 1 / -1;
+}
+
+.holiday-gallery--featured-first .holiday-card:first-child img {
+    height: 360px;
+}
+
 .holiday-card {
     margin: 0;
     padding: 0.75rem;
@@ -186,6 +202,12 @@ body.holiday-lightbox-open {
     }
     .holiday-card img {
         height: 190px;
+    }
+    .holiday-gallery--featured-first .holiday-card img {
+        height: 160px;
+    }
+    .holiday-gallery--featured-first .holiday-card:first-child img {
+        height: 260px;
     }
     .holiday-lightbox__actions {
         flex-direction: column;

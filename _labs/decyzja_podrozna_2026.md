@@ -13,7 +13,7 @@ Miasto kojarzone jest również z **trzęsieniami ziemi**, które je regularnie 
 Plan zwiedzania zakłada przede wszystkim odwiedzenie najbardziej ikonicznych landmarków miasta - skąpanego we mgle **Mostu Golden Gate**, **Parku Presidio**, czyli nigdysiejszej bazy wojskowej, **Palace of Fine Arts**, czy przejazd przez legendarną **Lombard Street**. Przespacerujemy się po **Fisherman's Wharf / Pier 39**. Odwiedzimy ikoniczne **Chinatown** oraz przejedziemy się historycznym **Cable Car** po stromych ulicach miasta. 
 
 <div class="holiday-gallery-frame">
-  <div class="holiday-gallery">
+  <div class="holiday-gallery holiday-gallery--featured-first">
     <figure class="holiday-card">
       <button class="holiday-card__button" type="button" data-full="../assets/Odyseja/2k26/SF/DSC_0275.JPG" aria-label="Otworz zdjecie San Francisco 1 w pelnym rozmiarze">
         <img src="../assets/Odyseja/2k26/SF/DSC_0275.JPG" alt="San Francisco 1" loading="lazy">
@@ -67,7 +67,7 @@ Dziś Los Angeles jest miastem o zupełnie innym charakterze niż San Francisco 
 Plan zwiedzania zakłada przede wszystkim odwiedzenie najbardziej charakterystycznych punktów miasta — **Griffith Observatory**, skąd rozciąga się świetny widok na panoramę Los Angeles i **okolice napisu Hollywood**, następnie przejazd przez bardziej znane rejony, takie jak **Hollywood Blvd** z **TCL Chinese Theatre** z odciskami stóp legend kina, czy **Beverly Hills**, wypad nad ocean, najlepiej w okolice **Santa Monica Pier** i plaży. Zobaczyć możemy również **Venice Beach** i legendarny skatepark.
 
 <div class="holiday-gallery-frame">
-  <div class="holiday-gallery">
+  <div class="holiday-gallery holiday-gallery--featured-first">
     <figure class="holiday-card">
       <button class="holiday-card__button" type="button" data-full="../assets/Odyseja/2k26/LA/IMG_2709.jpg" aria-label="Otworz zdjecie Los Angeles 1 w pelnym rozmiarze">
         <img src="../assets/Odyseja/2k26/LA/IMG_2709.jpg" alt="Los Angeles 1" loading="lazy">
