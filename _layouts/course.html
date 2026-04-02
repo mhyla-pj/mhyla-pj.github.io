@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+<h4>Semestr {{ page.semester }}, rok akademicki {{ page.year }}</h4>
+{{ content }}
+<hr>
+<h2>Skrypty z ćwiczeń</h2>
+<ol>
+{% assign labs = site.labs | sort: 'lab_nr' %}
+{% for lab in labs %}
+    {% if lab.course == page.course and lab.type contains page.type %}
+     <li><a href="{{ lab.url }}">{{ lab.subject }}</a></li>
+    {% endif %}
+{% endfor %}
+</ol>
+
+<h2>Zadania do laboratoriów</h2>
+<ul style="list-style: none;">
+{% assign exercises = site.exercises | sort: 'lab_nr'%}
+{% for exercise in exercises %}
+    {% if exercise.course == page.course %}
+        <li><a href="{{ exercise.url }}" >Lab {{ exercise.lab_nr }}. {{ exercise.topic }}</a></li>
+    {% endif%}
+{% endfor %}
+</ul>

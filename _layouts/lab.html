@@ -1,0 +1,24 @@
+---
+layout: default
+nav_exclude: true
+---
+
+<h6>{{ page.course }} Lab {{ page.lab_nr }}</h6>
+<h1>{{ page.subject }}</h1>
+<h2>{{ page.description }}</h2>
+<hr>
+<div style="text-align: justify; word-wrap: break-word;" >
+    {{ content }}
+</div>
+<div markdown=1>
+    {% for exercise in site.exercises %}
+    {% if exercise.course == page.course and page.lab_nr == exercise.lab_nr %}
+    <hr>
+    <h2>Zadania do laboratorium</h2>
+        {{ exercise.content | markdownify }}
+    {% endif%}
+    {% endfor %}
+ </div>
+
+
+

@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+{{ content }}
+<h2>Materiały informacyjne</h2>
+<ol>
+    {% assign labs = site.labs | sort: 'lab_nr' %}
+    {% for lab in labs %}
+        {% if lab.club == page.club %}
+         <li><a href="{{ lab.url }}">{{ lab.subject }}</a></li>
+        {% endif %}
+    {% endfor %}
+    </ol>
