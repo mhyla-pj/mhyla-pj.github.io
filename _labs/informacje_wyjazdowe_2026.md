@@ -26,9 +26,9 @@ Nadamy też kilka bagaży z rzeczami konkursowymi i narzędziami - na pewno leci
 
 ## 🚐 Transport
 
-Konkurs odbywa się w tym roku w ok. 500 km od Chicago, w Ames, w stanie Iowa. W stanie tym, porównywalnym powierzchnią do Grecji, znajduje się 6 (słownie: sześć) stacji kolejowych, a najbliższa jest 120 kilometrów od kampusu, jedyne 28 godzin spacerem. Jednak, ze względu na komfort uczestników zdecydowaliśmy się w tym roku wyjątkowo nie korzystać z tej formy transportu i wynająć samochody. To oczywiście pozwoli nam też kontynuować podróż na zachód po konkursie.
+Konkurs odbywa się w tym roku w ok. 500 km od Chicago, w Ames, w stanie Iowa. W stanie tym, porównywalnym powierzchnią do Grecji, znajduje się 6 (słownie: sześć) stacji kolejowych, a najbliższa jest 120 kilometrów od kampusu, jedyne 28 godzin spacerem. W związku z tym zmuszeni jesteśmy wynająć samochody. To oczywiście pozwoli nam też kontynuować podróż na zachód po konkursie.
 
-Janek, ze względu na ograniczenia wypożyczalni jeździł będzie wyposażonym w **355-konny, 5.3-litrowy silnik V8** Chevroletem Suburbanem, w wersji 7- lub 8-osobowej. Abyśmy mieli pewność, że się zmieścimy, niezależnie od tego jakimi samochodami dysponować będzie wypożyczalnia (wersję auta poznamy dopiero przy faktycznym wynajmie na lotnisku w Chicago), Michał siądzie za kierownicą 12-osobowego busa, z nadzieją że tym razem będzie to Ford Transit, a nie tak jak zwykle Chevrolet Express z którego wszyscy szydzą.
+Janek, ze względu na ograniczenia wypożyczalni jeździł będzie  Chevroletem Suburbanem (lub podobnym), w wersji 7- lub 8-osobowej. Abyśmy mieli pewność, że się zmieścimy, niezależnie od tego jakimi samochodami dysponować będzie wypożyczalnia (wersję auta poznamy dopiero przy faktycznym wynajmie na lotnisku w Chicago), Michał siądzie za kierownicą 12-osobowego busa, z nadzieją że tym razem będzie to Ford Transit, a nie tak jak zwykle Chevrolet Express z którego wszyscy szydzą.
 
 ## 🚨 Ubezpieczenie
 
@@ -81,4 +81,4 @@ Po konkursie czeka nas dość długa trasa - musimy przejechać *Midwest* i prze
 - Sequoia National Park
 - Los Angeles, California.
 
-W parkach narodowych dostępnych jest wiele wyznaczonych szlaków pieszych o różnych poziomach trudności i dostępności. Prowadzą one od głównej drogi prowadzącej przez park do ikonicznych miejsc i pięknych widoków - niedostępnych i niewidocznych z punktów widokowych przy głównej drodze. W związku z tym chcielibyśmy, aby wszyscy wzięli ze sobą jedną parę butów turystycznych (lepszych niż trampki/sandały). Je przewieziemy w dodatkowym nadawanym bagażu. Dopuszczamy również rozdzielenie wyjazdu na ostatnim etapie, jeśli część uczestników będzie chciała spędzić jedną noc więcej w Los Angeles, to jedno auto może prosto z Las Vegas pojechać do LA, drugie na zwiedzanie Sekwoi - kwestia do ustalenia.
+W parkach narodowych dostępnych jest wiele wyznaczonych szlaków pieszych o różnych poziomach trudności i dostępności. Prowadzą one od głównej drogi prowadzącej przez park do ikonicznych miejsc i pięknych widoków - niedostępnych i niewidocznych z punktów widokowych przy głównej drodze. W związku z tym chcielibyśmy, aby wszyscy wzięli ze sobą jedną dodatkową parę butów turystycznych (poza trampkami/adidasami na codzień). Je przewieziemy w dodatkowym nadawanym bagażu. Dopuszczamy również rozdzielenie wyjazdu na ostatnim etapie, jeśli część uczestników będzie chciała spędzić jedną noc więcej w Los Angeles, to jedno auto może prosto z Las Vegas pojechać do LA, drugie na zwiedzanie Sekwoi - kwestia do ustalenia.
