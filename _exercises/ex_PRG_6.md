@@ -3,7 +3,7 @@ layout: exercise
 course: PRG
 type: stacjonarne
 lab_nr: 6
-topic: Do tablicy! (do 24.10)
+topic: Do tablicy!
 ---
 ## Zadania niepunktowane
 
@@ -14,7 +14,7 @@ topic: Do tablicy! (do 24.10)
 
 
 
-## Zadania punktowane, do 24.10.2023
+## Zadania punktowane
 
 1. Napisz program, liczący ciąg Fibonacciego. Program powinien przyjmować od użytkownika, ile elementów ciągu chce uzyskać, a następnie wydrukować wszystkie na terminalu (od pierwszego do podanego przez użytkownika)
 

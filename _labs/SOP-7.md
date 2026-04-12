@@ -97,3 +97,6 @@ int fputs(const char *str, FILE *stream);
 Argument `str` wskazuje na napis, który ma być zapisany do pliku. Argument `stream` to wskaźnik na plik, do którego ma być zapisany tekst. 
 
 Obie funkcje zwracają wartość różną od zera w przypadku sukcesu, a zero w przypadku błędu.
+
+## Pliki binarne
+

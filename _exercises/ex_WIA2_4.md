@@ -2,7 +2,7 @@
 layout: exercise
 course: WIA2
 type: [ niestacjonarne, stacjonarne ]
-lab_nr: 04
+lab_nr: 4
 topic: Jump around, jump around!
 ---
 

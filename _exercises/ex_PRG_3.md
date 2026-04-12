@@ -3,9 +3,9 @@ layout: exercise
 course: PRG
 type: stacjonarne
 lab_nr: 3
-topic: Warunków więcej niż na matmie (do 13.10)
+topic: Warunków więcej niż na matmie 
 ---
-## Zadania punktowane, do 13.10.2023
+## Zadania punktowane
 
 1. Napisz program, który na początku przyjmie od użytkownika liczbę operacji, które ma wykonać. Następnie przez pierwszą połowę swojego działania będzie prosił użytkownika o podanie liczby i dodawał je kolejno do siebie, a w drugiej połowie swojego działania będzie wczytane liczby od ogólnego wyniku odejmował. Na końcu działania powinien zwrócić ostateczny wynik.
 Na przykład, dla 6 operacji i podanych kolejno: 5,4,2,2,1,6 wynik powinien wynieść 2.

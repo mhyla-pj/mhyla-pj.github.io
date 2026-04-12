@@ -12,4 +12,4 @@ Poza zadaniem 5 aby rozliczyć dzisiejsze zadania wystarczy mi plik z wynikiem d
 3. Użyj polecenia top lub htop, aby monitorować wykorzystanie zasobów przez różne procesy na twoim systemie. Zidentyfikuj procesy, które zużywają najwięcej pamięci lub mocy obliczeniowej, i zmień ich priorytet za pomocą polecenia renice.
 4. Zastosuj polecenie nice do uruchomienia programu z niższym priorytetem niż standardowy. Następnie wykonaj inne zadanie na komputerze i zaobserwuj, jak program działa w tle z niższym priorytetem.
 5. Uruchom dowolny proces, a następnie wstrzymaj jego wykonywanie za pomocą polecenia kill -STOP. Następnie wznów jego wykonywanie za pomocą polecenia kill -CONT.
-6. Utwórz skrypt, który automatycznie uruchamia program po starcie systemu. Następnie zrestartuj system i upewnij się, że program uruchamia się automatycznie - wujek google albo prowadzący podpowiedzą, w razie czego. 
+6. Utwórz skrypt, który automatycznie uruchamia program po starcie systemu. Następnie zrestartuj system i upewnij się, że program uruchamia się automatycznie - wujek google albo prowadzący podpowiedzą, jeśli będzie taka konieczność.
