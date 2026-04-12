@@ -2,7 +2,7 @@
 layout: exercise
 course: SOP
 type: stacjonarne
-lab_nr: 9
+lab_nr: 09
 topic: Wątki
 ---
 1. Napisz programik, który w nieskończonej pętli będzie równolegle drukował w wątku „jestem wątkiem” a w mainie „jestem mainem”. Zaobserwuj co się dzieje. Potem dopisz do tych pętli usleep() (uśpienie w μs) o różnych wartościach, np. 500 i 2500. Co się zmieniło?

@@ -3,19 +3,13 @@ layout: exercise
 course: PRG
 type: stacjonarne
 lab_nr: 10
-topic: Implementacja funkcjonalności sudoku 
+topic: Sudoku do dokończenia (do 28.11)
 ---
-Implementujemy dodatkowe funkcjonalności do sudoku. Na plusa należy wybrać po jednej funkcjonalności z listy łatwej i z listy trudniejszej i zaimplementować:
 
-### Lista łatwa:
+Zadania dla obu grup: sprawić, aby sudoku było grywalne:
+- Weryfikacja prawidłowości wiersza
+- Weryfikacja prawidłowości kolumn
+- Weryfikacja prawidłowości kwadratów
 
-- Czas
-- Ilość Prób
-- Wskazywanie błędów
-- Podpowiedzi
-
-### Lista trudna:
-
-- Walidacja wprowadzanych cyfr (indywidualnie)
-- Generator udoku
+Informacja o prawidłowym (lub nie) rozwiązaniu łamigłówki powinna być wydrukowana gdzieś w terminalu.
 

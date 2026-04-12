@@ -2,7 +2,7 @@
 layout: lab
 course: WIA2
 type: [ niestacjonarne, stacjonarne ]
-lab_nr: 6
+lab_nr: 06
 subject: ONP, stos
 description: Stos jest sztos
 ---
