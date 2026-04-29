@@ -47,7 +47,7 @@ SELECT * FROM Cars WHERE year<1993
 
 ## Widoki
 
-Widok to 'wirtualna' tabela, zawierająca wyniki zdefiniowanego przy tworzeniu widoku zapytania. Dzięki temu mechanizmowi nie musimy za każdym razem wpisywa skomplikowanego zapytania, z którego często korzystamy - wystarczy zdefiniowac widok, a następnie odwoływac się jedynie do niego:
+Widok to 'wirtualna' tabela, zawierająca wyniki zdefiniowanego przy tworzeniu widoku zapytania. Dzięki temu mechanizmowi nie musimy za każdym razem wpisywać skomplikowanego zapytania, z którego często korzystamy - wystarczy zdefiniowac widok, a następnie odwoływac się jedynie do niego:
 
 ```sql
 CREATE VIEW loty_b777 AS
