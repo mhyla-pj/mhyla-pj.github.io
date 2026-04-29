@@ -20,5 +20,5 @@ Przedmiot składa się z 15 laboratoriów. Na ocenę końcową składa się w 70
 - [DataGrip](https://www.jetbrains.com/datagrip/) - IDE z obsługą wielu dialektów SQL i noSQL.
 - [Logowanie do Mongo](https://mhyla.com/logowanie-mongodb) - instrukcja, może przydać się na kolokwium, jak ktoś zapomniał
 
-[Wymagania projektowe](/rbd-projekt)
-[Przykładowe kolokwium](../../../assets/RBD/testRBD.pdf)
+### [Wymagania projektowe](/rbd-projekt)
+### [Przykładowe kolokwium](../../../assets/RBD/testRBD.pdf)
