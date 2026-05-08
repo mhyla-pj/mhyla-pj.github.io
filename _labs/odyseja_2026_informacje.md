@@ -8,7 +8,7 @@ Wyjazd zbliża się wielkimi krokami, więc poniżej przesyłam garść informac
 ## 👮🏾‍♂️Aby wjechać do USA i wziąć udział w konkursie każdy **musi** posiadać: 
 
 - **Ważny paszport, na który wypełniona była ESTA**
-- 1 szt. Wypełnione i wydrukowane [upoważnienie do podróży bez rodzica](/assets/Odyseja/2k26/Minor-Child-Travel-Consent-Form.pdf)(podpisane przez wszystkich opiekunów prawnych!).
+- 1 szt. Wypełnione i wydrukowane [upoważnienie do podróży bez rodzica](/assets/Odyseja/2k26/Minor-Travel-Consent-Form.pdf) (podpisane przez wszystkich opiekunów prawnych!).
 - 1 szt. Wypełnione, wydrukowane i podpisane [Medical Consent](/assets/Odyseja/2k26/WF26-Medical-Consent_x1-od-kazdego.pdf)
 - 1 szt. Wypełnione, wydrukowane i podpisane [Insurance Information](/assets/Odyseja/2k26/WF26-Insurance-Information_x1-od-kazdego.pdf)
 - **2szt.** Wypełnione, wydrukowane i podpisane [Medical Release](/assets/Odyseja/2k26/WF26-Medical-Release_x2-od-kazdego.pdf)
@@ -18,9 +18,17 @@ Wyjazd zbliża się wielkimi krokami, więc poniżej przesyłam garść informac
 
 Te dokumenty (poza paszportem) zbierzemy od wszystkich i zweryfikujemy na lotnisku w Gdańsku. Paszport i ESTA będą weryfikowane na lotnisku w Gdańsku przy odprawie, upoważnienie może być weryfikowane przez pograniczników, natomiast pozostałe dokumenty są wymagane przez organizatorów konkursu. 
 
+Ponadto, każdy uczestnik powinien mieć w galerii w telefonie zdjęcia dokumentów tożsamości rodziców - aby w razie wypadku pokazać straży granicznej. Jeśli chcemy "dmuchać na zimne", to można również sfotografować akt urodzenia. Przez lata przekroczyło z nami granicę łącznie ok. 50 odyseuszy i nigdy nikt nie musiał nic takiego pokazywać, ale przezorny zawsze ubezpieczony.
+
 Jeśli ktoś jeszcze nie ma wypełnionego wniosku ESTA, to teraz jest moment, w którym należy to zrobić - [zaktualizowana instrukcja wypełniania wniosku](/assets/Odyseja/2k26/Finaly-Swiatowe-2026_wniosek-o-ESTA_INSTRUKCJA.pdf). 
 
-**Potwierdzenia ESTA proszę przesłać na adres kontakt@mhyla.com do 14.05.**
+
+### Prosimy o przesłanie na kontakt@mhyla.com:
+- potwierdzenia ESTA
+- skanu paszportu dziecka
+- skanów dokumentów tożsamości rodziców
+
+**DO 14.05**
 
 ## 🧳 Pakowanie 
 
@@ -106,7 +114,7 @@ Tak, jak to reklamowane jest przez organizatorów konkursu uczestnicy będą mie
 
 Każdego dnia będzie wyglądało inaczej, ale musimy być przygotowani na stołowanie się w przydrożnych dinerach, restauracjach i fastfoodach. Na kampusie mamy zapewnione 3 ciepłe posiłki dziennie na zasadach bufetowych, do tego wybór sałatek, warzyw, dressingów, deserów i napojów. Nie ma w 47-letniej historii Odysei osoby, która opuściłaby kampus w Iowa lżejsza niż przyjechała, bo może warunki do spania są średnie, ale wyżywienie na najwyższym (i najtłustszym) amerykańskim poziomie. 
 
-Na pokładzie obu samochodów zawsze znajdzie się duża kolekcja wody i innych, mniej zdrowych napojów. W lodówkach będą jeździły z nami mini-marchewki i różne owoce w ramach przekąsek.
+Na pokładzie obu samochodów zawsze znajdzie się duża kolekcja wody i innych, mniej zdrowych napojów. W lodówkach będą jeździły z nami mini-marchewki i różne owoce w ramach przekąsek. 
 
 ### 🥐 Śniadania 
 
