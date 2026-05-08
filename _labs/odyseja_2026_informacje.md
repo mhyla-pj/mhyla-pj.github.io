@@ -106,7 +106,7 @@ Tak, jak to reklamowane jest przez organizatorów konkursu uczestnicy będą mie
 
 Każdego dnia będzie wyglądało inaczej, ale musimy być przygotowani na stołowanie się w przydrożnych dinerach, restauracjach i fastfoodach. Na kampusie mamy zapewnione 3 ciepłe posiłki dziennie na zasadach bufetowych, do tego wybór sałatek, warzyw, dressingów, deserów i napojów. Nie ma w 47-letniej historii Odysei osoby, która opuściłaby kampus w Iowa lżejsza niż przyjechała, bo może warunki do spania są średnie, ale wyżywienie na najwyższym (i najtłustszym) amerykańskim poziomie. 
 
-Na pokładzie obu samochodów zawsze znajdzie się duża kolekcja wody i innych, mniej zdrowych napojów. 
+Na pokładzie obu samochodów zawsze znajdzie się duża kolekcja wody i innych, mniej zdrowych napojów. W lodówkach będą jeździły z nami mini-marchewki i różne owoce w ramach przekąsek.
 
 ### 🥐 Śniadania 
 
@@ -126,7 +126,7 @@ Nie zawsze będzie potrzebny, ale w razie potrzeb, to na trasie lub w miastach n
 
 Czyli w zasadzie obiad, tylko w porze w której w Polsce jemy kolację. Opcji jest od groma, zaczynając od szerokiej gamy fastfoodów (~$10-$17 za zestaw), kończąc na przydrożnych Dinerach czy sieciowych restauracjach (~25-$40 za osobę, z tipem). W wyborze kierować się będziemy ceną i atrakcyjnością - i tak nie będzie zdrowe, niezależnie od tego, co wybierzemy. Ze względu na skalę grupy posiłki w fastfoodach każdy opłacać będzie musiał sobie samodzielnie. Powinniśmy się zmieścić w $120 *out-of-pocket* za jedzenie na cały wyjazd. Gdy siądziemy w restauracji płacić będziemy z budżetu wyjazdowego. 
 
-Średnio co 2 dni będziemy w Walmarcie, więc każdy będzie mógł zaopatrzyć się w przekąski i napoje. W lodówkach będą jeździły z nami mini-marchewki i różne owoce w ramach przekąsek. 
+Średnio co 2 dni będziemy w Walmarcie, więc każdy będzie mógł zaopatrzyć się w przekąski i napoje. 
 
 ## 🛏️ Noclegi
 - 25-26.05 - [Regal Inn Chicago O'Hare - Franklin Park, IL](https://www.booking.com/hotel/us/regal-motel-franklin-park.pl.html)
