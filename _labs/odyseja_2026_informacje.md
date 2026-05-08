@@ -48,7 +48,7 @@ Lecimy konwencjonalnymi liniami lotniczymi, więc znanego z Ryanaira i Wizzair n
 5. Odzież, która będzie prana musi również przeżyć **suszenie w suszarce bębnowej**.
 6. **Wygodne ubrania na podróż** - mamy 12h w samolocie przed sobą i dużo czasu spędzimy w samochodzie.
 7. **Mały krem z filtrem** - kupimy SPF 50 na miejscu, ale jeśli ktoś potrzebuje hipoalergicznego, to będziemy mieli problem.
-8. **Przejściówkę na amerykańskie gniazdka** - praktycznie każda ładowarka do telefonu obsługuje napięcie 110V, natomiast żadna nie zmieści się do amerykańskiego gniazdka. Przejściówkę można zakupić na miejscu w Media Markt lub zamówić.[ Powinna wyglądać tak](). Proszę sprawdzić ładowarkę - powinna mieć napis INPUT **~110V-240V.**
+8. **Przejściówkę na amerykańskie gniazdka** - praktycznie każda ładowarka do telefonu obsługuje napięcie 110V, natomiast żadna nie zmieści się do amerykańskiego gniazdka. Przejściówkę można zakupić na miejscu w Media Markt lub zamówić. [Powinna wyglądać tak](https://www.euro.com.pl/adaptery/hama-basic-gniazdo-eu-wtyk-usa-223438.bhtml). Proszę sprawdzić ładowarkę - powinna mieć napis INPUT **~110V-240V.**
 
 **Nie ma potrzeby pakowania ręczników** - Każdy hotel oraz kampus wyposażone są w ręczniki w dużej ilości. Pakujemy się na 6-8 dni. W każdym mieście oraz na kampusie będziemy mieli możliwość zrobienia prania. Ważne jest, aby spakowana odzież przetrwała suszenie w suszarce bębnowej. Na potrzeby konkursowe każdy otrzyma od nas na miejscu **4 koszulki!** Europejskie suszarki i prostownice nie będą działały w USA, dysponujemy dwiema suszarkami i jedną prostownicą na amerykańskie napięcie, poradzimy sobie. 
 
