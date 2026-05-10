@@ -22,6 +22,14 @@ Ponadto, każdy uczestnik powinien mieć w galerii w telefonie zdjęcia dokument
 
 Jeśli ktoś jeszcze nie ma wypełnionego wniosku ESTA, to teraz jest moment, w którym należy to zrobić - [zaktualizowana instrukcja wypełniania wniosku](/assets/Odyseja/2k26/Finaly-Swiatowe-2026_wniosek-o-ESTA_INSTRUKCJA.pdf). 
 
+W dokumentach należy podać dane drużyny:
+
+| Zespół     | TeamID | Problem | Division | Membership Name                    |
+| ---------- | ------ | ------- | -------- | ---------------------------------- |
+| Balsa      | 7651   | P4      | D3       | I Liceum Ogolnoksztalcace - Gdansk |
+| Techniczny | 7638   | P2      | D3       | I Liceum Ogolnoksztalcace - Gdansk |
+
+
 
 ### Prosimy o przesłanie na kontakt@mhyla.com:
 - potwierdzenia ESTA
